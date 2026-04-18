@@ -60,7 +60,7 @@ Sections: `## Rule`, `## Common Patterns`, `## Your Mistakes`, `## Related Topic
 
 - Use `[[wiki-links]]` for all cross-references
 - Pull direct quotes from raw sources under Examples
-- Related Topics must link to actual existing pages only
+- Related Topics must link to actual existing pages only. If a related topic doesn't have a page yet, mention it in plain text without a link and append `(not yet created)`. On future LINT passes, offer to create stubs for these.
 
 ### Vocab Atom (`wiki/vocab/<word>.md`)
 
@@ -96,12 +96,13 @@ Sections: `## What Goes Wrong`, `## Why It Happens`, `## Correct Usage`, `## You
 **Trigger:** User says `ingest <filename>` or `ingest --silent <filename>`
 
 1. Read the raw file in full
-2. Unless `--silent`: briefly summarise key new items and confirm with user before writing
+2. Unless `--silent`: briefly summarise key new items (list vocab, patterns, mistakes found). Ask user yes/no: "Proceed with ingest?" If no, abort entirely. If yes, proceed with steps 3–9.
 3. For each new word/phrase → create or update `wiki/vocab/<word>.md`
 4. For each pattern/grammar rule → create or update `wiki/topics/<slug>.md`
    - Synthesise: don't just copy notes. Connect to existing topics, add context, flag contradictions
+   - **If a page already exists:** append new evidence to `## Examples From Your Notes`, update `last_updated` in frontmatter, and update `stage` only if new evidence explicitly warrants promotion. Do not replace existing content.
 5. For each mistake → check if an error page exists; create or update `wiki/errors/<slug>.md`
-6. Update `wiki/curriculum/curriculum-map.md` — add new rows, update stages if evidence warrants
+6. Update `wiki/curriculum/curriculum-map.md` — add new rows for new topics, update `Last Practiced` to the date from the raw note filename, recalculate `Days Since` and `Debt?` for ALL existing rows. Stage values in page frontmatter are the source of truth — sync the curriculum map to reflect them.
 7. Regenerate `wiki/curriculum/debt-board.md` — flag all items at encountered/understood > 2 weeks
 8. Update `wiki/index.md` — add entries for any new pages created
 9. Append to `wiki/log.md`:
@@ -116,7 +117,7 @@ Sections: `## What Goes Wrong`, `## Why It Happens`, `## Correct Usage`, `## You
 - `new words:` → vocab atoms
 - `new patterns:` → topic hubs
 - `mistakes:` → error pages
-- Unlabelled lines → infer from content
+- Unlabelled lines → infer only if the line contains a concrete language unit (a word, grammar rule, or error pattern). Skip lines that are context noise (e.g., "difficult session", "forgot my notes", "short session today").
 
 ### QUERY
 
@@ -132,7 +133,7 @@ Sections: `## What Goes Wrong`, `## Why It Happens`, `## Correct Usage`, `## You
 **Trigger:** User says `lint wiki`
 
 1. Scan for contradictions between topic hub pages
-2. Find orphan pages (no inbound `[[links]]`)
+2. Find orphan pages — topic/vocab/error pages that have no inbound `[[links]]` from other topic/vocab/error pages or from `index.md`. Curriculum pages (`curriculum-map`, `debt-board`) are exempt from orphan checks.
 3. Find concepts mentioned in pages but lacking their own page
 4. Find items at `encountered` or `understood` > 30 days (escalate to urgent debt)
 5. Suggest Duolingo units or focus topics based on debt board
@@ -192,6 +193,8 @@ Update `Days Since` and `Debt?` on every ingest and lint pass.
 
 `wiki/curriculum/debt-board.md` must be regenerated on every ingest:
 
+**Debt calculation:** `Days Since = today's date - last_updated date on the page frontmatter` (or `last_practiced` in the curriculum map if populated). Debt flag = `Days Since > 14`. Update `Days Since` and `Debt?` columns for ALL existing curriculum map rows on every ingest, not just newly added rows.
+
 ```markdown
 # Learning Debt Board
 _Last updated: YYYY-MM-DD_
@@ -231,6 +234,8 @@ _Last updated: YYYY-MM-DD | N pages total_
 - [[debt-board]] — items needing attention
 ```
 
+**Ordering:** Entries within each section are alphabetical by slug. Insert new entries in alphabetical position.
+
 ---
 
 ## Conventions
@@ -239,4 +244,6 @@ _Last updated: YYYY-MM-DD | N pages total_
 - All cross-references use `[[slug]]` wiki-link syntax (no `.md` extension)
 - YAML frontmatter required on all topic, vocab, and error pages
 - `raw/` files: never create, modify, or delete — read only
+- `last_updated` (page frontmatter) = when this page was created or last edited by the LLM
+- `Last Practiced` (curriculum map) = date from the raw note filename being ingested, not today's date. These are different fields.
 - Dates: always YYYY-MM-DD format
