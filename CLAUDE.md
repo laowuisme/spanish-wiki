@@ -6,6 +6,22 @@ Goal: CEFR B2 from current A2. Primary source: Duolingo.
 
 ---
 
+## Git
+
+Remote: `https://github.com/laowuisme/spanish-wiki` (branch: `master`)
+
+After completing any operation (INGEST, QUIZ, LINT, BOOTSTRAP), stage all changed wiki files and push:
+
+```bash
+git add wiki/
+git commit -m "<type>: <brief description>"
+git push
+```
+
+Do not stage `raw/` or `.claude/`. Use conventional commit prefixes: `feat` for new pages, `chore` for curriculum/index updates, `fix` for corrections.
+
+---
+
 ## Directory Layout
 
 ```
