@@ -169,6 +169,122 @@ This is a one-time full history ingest. Process all rows in the CSV:
    - N error pages created
    ```
 
+### QUIZ
+
+**Trigger:** User says `quiz me`
+
+**Question pool (10 per quiz):** 5 vocab, 3 topic, 2 error. If fewer than 2 error pages exist, replace with vocab.
+
+**Item weighting — score each candidate item, higher = more likely selected:**
+
+| Signal | Multiplier |
+|---|---|
+| Item in `wiki/errors/` | 3× |
+| Last quiz result = incorrect (from performance.md) | 3× |
+| `last_updated` within 7 days of today | 2× |
+| Days Since > 14 in curriculum-map (debt board) | 2× |
+| Previously quizzed, streak < 3 | 1× |
+| Never quizzed before | 1× |
+| Stage = `practiced` or `automated` | 0.5× |
+
+Multipliers stack. Select top-weighted items within each pool type. Randomise among items with equal score.
+
+**Question formats by type:**
+
+- Vocab (ES→EN): "What does *[Spanish word]* mean?"
+- Vocab (EN→ES): "How do you say '[English meaning]' in Spanish?" (alternate direction each question)
+- Vocab (B1, sentence use): "Use *[word]* in a Spanish sentence."
+- Topic (fill-blank): "Complete: '[sentence with ___]' ([English hint])" — drawn from `## Common Patterns` table
+- Topic (choose correct): "Which is correct: A or B?" — drawn from `## Common Patterns` table
+- Topic (translate): "Translate: '[English sentence]'" — drawn from `## Examples From Your Notes`
+- Error (correct the mistake): "Correct this sentence: '[wrong sentence]'" — drawn from `## What Goes Wrong`
+
+**Answer evaluation:** Accept near-correct answers as correct (minor spelling, missing accent, clear English paraphrase). Note the exact form but do not penalise. No retries within a session.
+
+**Interactive UX (one question at a time):**
+
+```
+Question N/10 [type]
+[question text]
+
+> [user's answer]
+
+✓ Correct. [one-line note from wiki page if useful]
+— or —
+✗ Incorrect. [correct answer] — [one-line explanation from wiki page]
+```
+
+**End-of-session summary (shown after question 10):**
+
+```
+Quiz complete — N/10
+
+✓ Correct (N): slug1, slug2, ...
+✗ Missed (N):
+  • slug — you said "X". Correct: Y — [brief note]
+
+Stage promotions: [slug → new-stage] (N-quiz streak)
+New errors flagged: [slug] (missed in N separate sessions)
+```
+
+**Post-quiz steps (execute automatically after summary):**
+
+1. Update `wiki/quiz/performance.md`:
+   - For each item quizzed: increment Attempts; if correct increment Correct and Streak, else reset Streak to 0; update Last Quizzed to today; update Last Result.
+   - If item not yet in table: add a new row with Attempts=1, Correct=0 or 1, Streak=0 or 1, Last Quizzed=today.
+
+2. Apply stage promotions:
+   - For each item where Streak >= 3 AND stage is `encountered` or `understood`:
+     - Advance stage one level: encountered → understood, understood → practiced
+     - Update `stage` in that page's YAML frontmatter and `last_updated` to today
+     - Update Stage column in `wiki/curriculum/curriculum-map.md` for that slug
+
+3. Apply error promotions:
+   - For each item where Attempts >= 2 AND (Correct / Attempts) < 0.5 AND the item appears on at least 2 distinct Last Quizzed dates in performance.md:
+     - If `wiki/errors/<slug>.md` does not exist: create it with standard error page format plus a `## Quiz Evidence` section
+     - If `wiki/errors/<slug>.md` exists: append to or create `## Quiz Evidence` section listing quiz dates and wrong answers given
+     - `## Quiz Evidence` format:
+       ```
+       ## Quiz Evidence
+       - 2026-05-06: asked "What does X mean?", answered "Y" (incorrect)
+       - 2026-05-08: asked "How do you say X?", answered "Z" (incorrect)
+       ```
+
+4. Write `wiki/quiz/history/YYYY-MM-DD_quiz.md` (today's date):
+   ```markdown
+   # Quiz — YYYY-MM-DD
+   
+   Score: N/10
+   
+   | # | Slug | Type | Question | Your Answer | Result |
+   |---|---|---|---|---|---|
+   | 1 | slug | vocab | question text | answer given | correct |
+   | 2 | slug | topic | question text | answer given | incorrect |
+   ```
+
+5. Append to `wiki/log.md`:
+   ```
+   ## [YYYY-MM-DD] quiz
+   - Score: N/10
+   - N stage promotions: [slug → stage, ...]
+   - N new errors flagged: [slug, ...]
+   ```
+
+6. Send Gmail summary to laowuisme@gmail.com using the Gmail MCP tools:
+   - Subject: `🇪🇸 Spanish Quiz Results — YYYY-MM-DD`
+   - Body:
+     ```
+     Score: N/10
+     
+     ✓ Correct: slug1, slug2, ...
+     ✗ Missed: slug3 (you said "X"), slug4 (you said "Y")
+     
+     Stage promotions: [if any, else omit line]
+     New errors flagged: [if any, else omit line]
+     
+     Next quiz: [next scheduled day — Tuesday, Thursday, or Saturday] at 9pm SGT.
+     ```
+
 ---
 
 ## Curriculum Map Format
