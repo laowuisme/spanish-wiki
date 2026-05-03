@@ -1,10 +1,11 @@
 ---
 cefr: A2
 stage: encountered
-last_updated: 2026-04-18
+last_updated: 2026-05-02
 debt: false
 sources:
   - raw/bootstrap/raw_log1.md
+  - raw/2026-05-02_session.md
 ---
 
 # Indirect Object — A + name/pronoun + le/te/me
@@ -59,3 +60,6 @@ This doubling is mandatory — you cannot drop the pronoun even when the full no
 
 > "`A Felipe le encanta dibujar` — why/when `A` is needed" — raw_log1.md
 > "A ti te encanta el fútbol — this gets confusing. Why can't we say `le gusta el fútbol`?" — raw_log1.md
+
+From `raw/2026-05-02_session.md`:
+- *Yo te doy los libros.* — I give you the books. (te = indirect object, doy = dar yo-form)

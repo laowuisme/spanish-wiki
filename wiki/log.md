@@ -10,6 +10,38 @@ Append-only record of all wiki operations. Format: `## [YYYY-MM-DD] <operation> 
 - Skeleton files created
 - Awaiting bootstrap ingest from ledger-export.csv
 
+## [2026-04-23] ingest | 2026-04-23_session.md
+- 12 vocab atoms created: aguacate, anuncio, carrito, contesta, esconder, fila, fuerte, lista-de-la-compra, mejorar, mermelada-de-fresa, muchas-veces, pasillo
+- 3 skipped (already exist): anota, entrevista, pelo
+- 8 topic hubs created: ahi-vs-alli, algo-series, disculpe-vs-disculpen, lengua-vs-idioma, menos-comparative, nada-vs-nadie, nadie-nada-negation, saber-que-clause
+- 0 error pages created/updated
+- 1 vocab page updated: queja.md (added se queja vs quejarse clarification)
+- curriculum-map.md: 8 new rows added, Days Since updated for all 31 rows
+- debt-board.md regenerated — no debt items
+- index.md: 224 pages total
+
+## [2026-04-19] ingest | 2026-04-29_session.md
+- 11 vocab atoms created: abogada, aire-libre, anota, antipatico, cuidate, de-todas-formas, entrevista, exigente, pie-derecho, queja, todo-el-tiempo
+- 1 topic hub created: no-tiene-hay-ningun
+- 0 error pages created/updated
+- curriculum-map.md: 1 new row added (no-tiene-hay-ningun), Days Since updated for all 23 rows
+- debt-board.md regenerated — no debt items
+
+## [2026-05-02] ingest | 2026-05-02_session.md
+- 27 vocab atoms created: actuar, agradecer, árbol, buzón, carrera, cartero, cierto, código, dar, destinatario, enamorado, entrenamiento, entretenido, esquina, estadunidense, estampilla, general, hasta-la-tarde, más-tarde, mentira, paquete, prestar, quizás, remitente, revista, sin-duda, tanto
+- 3 topic hubs created: vez-vs-tiempo, lamentablemente-vs-desafortunadamente, sorprendido-vs-sorprendente
+- 1 error page created: pasillo-vs-pastilla
+- 5 topic hubs updated (new examples): nadie-nada-negation, saber-que-clause, menos-comparative, indirect-object-a-pronoun, no-tiene-hay-ningun
+- 1 topic hub extended (perdón vs perdona distinction added): perdón-vs-lo-siento
+- curriculum-map.md: 3 new rows added, Last Practiced updated for 11 touched topics, Days Since recalculated for all 34 rows
+- debt-board.md regenerated — 20 topics approaching debt (14 days, threshold tomorrow); 0 in debt
+- index.md: 255 pages total (fully re-sorted alphabetically)
+
+## [2026-05-03] quiz
+- Score: 6/10
+- 0 stage promotions
+- 0 new errors flagged
+
 ## [2026-04-18] bootstrap | raw_log1.md + raw_log2.md
 - 2 source files processed (raw/bootstrap/raw_log1.md, raw/bootstrap/raw_log2.md)
 - 160 vocab atoms created

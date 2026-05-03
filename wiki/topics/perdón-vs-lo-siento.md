@@ -1,11 +1,12 @@
 ---
 cefr: A1
 stage: encountered
-last_updated: 2026-04-18
+last_updated: 2026-05-02
 debt: false
 sources:
   - raw/bootstrap/raw_log1.md
   - raw/bootstrap/raw_log2.md
+  - raw/2026-05-02_session.md
 ---
 
 # perdón vs lo siento — Excuse Me vs I'm Sorry
@@ -36,6 +37,19 @@ A useful analogy: `perdón` ≈ "excuse me" or "pardon", `lo siento` ≈ "I'm so
 | Expressing sympathy | lo siento | `Lo siento mucho.` |
 | Apologising for a real mistake | lo siento | `Lo siento, me equivoqué.` |
 
+## perdón vs perdona
+
+A second distinction worth noting within *perdón*:
+
+**perdón** (noun) — used as an exclamation, more formal
+- *¡Perdón!* — Excuse me! / Pardon!
+
+**perdona** (imperative of *perdonar*) — "forgive me", more informal/direct
+- *Perdona, ¿me puedes ayudar?* — Sorry, can you help me? (tú, informal)
+- *Perdone* (usted form) — Excuse me (formal, to a stranger)
+
+In practice: *perdona* feels warmer and more personal; *perdón* is shorter and more like a quick "sorry" or "excuse me."
+
 ## Your Mistakes
 
 None confirmed yet — flagged for clarification.
@@ -48,3 +62,6 @@ None confirmed yet — flagged for clarification.
 ## Examples From Your Notes
 
 > "need clarification: perdón vs lo siento" — raw_log1.md + raw_log2.md
+
+From `raw/2026-05-02_session.md`:
+- *perdón vs perdona* — flagged for clarification
