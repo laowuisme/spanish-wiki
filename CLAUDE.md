@@ -22,6 +22,9 @@ wiki/
   topics/               # Synthesis hub pages — one per grammar/pattern concept
   vocab/                # Lightweight concept atoms — individual words/phrases
   errors/               # Recurring error pattern analysis
+  quiz/
+    performance.md      # Quiz performance log — one row per item ever quizzed
+    history/            # Per-session quiz transcripts (YYYY-MM-DD_quiz.md)
 ```
 
 ---
@@ -173,7 +176,7 @@ This is a one-time full history ingest. Process all rows in the CSV:
 
 **Trigger:** User says `quiz me`
 
-**Question pool (10 per quiz):** 5 vocab, 3 topic, 2 error. If fewer than 2 error pages exist, replace with vocab.
+**Question pool (10 per quiz):** 5 vocab, 3 topic, 2 error. If any pool type cannot fill its quota from qualifying items, fill remaining slots with the highest-weighted items from the other pool types. Each slug may appear at most once per quiz session.
 
 **Item weighting — score each candidate item, higher = more likely selected:**
 
@@ -192,7 +195,7 @@ Multipliers stack. Select top-weighted items within each pool type. Randomise am
 **Question formats by type:**
 
 - Vocab (ES→EN): "What does *[Spanish word]* mean?"
-- Vocab (EN→ES): "How do you say '[English meaning]' in Spanish?" (alternate direction each question)
+- Vocab (EN→ES): "How do you say '[English meaning]' in Spanish?" (vary direction across vocab questions; no strict alternation required)
 - Vocab (B1, sentence use): "Use *[word]* in a Spanish sentence."
 - Topic (fill-blank): "Complete: '[sentence with ___]' ([English hint])" — drawn from `## Common Patterns` table
 - Topic (choose correct): "Which is correct: A or B?" — drawn from `## Common Patterns` table
@@ -209,7 +212,7 @@ Question N/10 [type]
 
 > [user's answer]
 
-✓ Correct. [one-line note from wiki page if useful]
+✓ Correct. [one-line note from the page's **Example:** or **Pattern:** section, if it adds useful context]
 — or —
 ✗ Incorrect. [correct answer] — [one-line explanation from wiki page]
 ```
@@ -230,6 +233,7 @@ New errors flagged: [slug] (missed in N separate sessions)
 **Post-quiz steps (execute automatically after summary):**
 
 1. Update `wiki/quiz/performance.md`:
+   - If the file does not exist, create it with the standard table header (# Quiz Performance / _Last updated: YYYY-MM-DD_ / table header row) before writing.
    - For each item quizzed: increment Attempts; if correct increment Correct and Streak, else reset Streak to 0; update Last Quizzed to today; update Last Result.
    - If item not yet in table: add a new row with Attempts=1, Correct=0 or 1, Streak=0 or 1, Last Quizzed=today.
 
@@ -270,7 +274,7 @@ New errors flagged: [slug] (missed in N separate sessions)
    - N new errors flagged: [slug, ...]
    ```
 
-6. Send Gmail summary to laowuisme@gmail.com using the Gmail MCP tools:
+6. Create a Gmail draft to laowuisme@gmail.com using `mcp__claude_ai_Gmail__create_draft`:
    - Subject: `🇪🇸 Spanish Quiz Results — YYYY-MM-DD`
    - Body:
      ```
@@ -282,7 +286,7 @@ New errors flagged: [slug] (missed in N separate sessions)
      Stage promotions: [if any, else omit line]
      New errors flagged: [if any, else omit line]
      
-     Next quiz: [next scheduled day — Tuesday, Thursday, or Saturday] at 9pm SGT.
+     Next quiz: Tuesday, Thursday, or Saturday at 9pm SGT.
      ```
 
 ---
