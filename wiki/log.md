@@ -37,6 +37,11 @@ Append-only record of all wiki operations. Format: `## [YYYY-MM-DD] <operation> 
 - debt-board.md regenerated — 20 topics approaching debt (14 days, threshold tomorrow); 0 in debt
 - index.md: 255 pages total (fully re-sorted alphabetically)
 
+## [2026-05-03] quiz (session 2)
+- Score: 8/10
+- 0 stage promotions
+- 0 new errors flagged
+
 ## [2026-05-03] quiz
 - Score: 6/10
 - 0 stage promotions
