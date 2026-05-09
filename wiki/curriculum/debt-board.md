@@ -1,43 +1,36 @@
 # Learning Debt Board
-_Last updated: 2026-05-02_
+_Last updated: 2026-05-09_
 
 ## ⚠️ Overdue (stuck > 2 weeks)
 
-None — no items have exceeded 14 days at `encountered` or `understood`.
-
-## Approaching Debt (14 days — will enter debt tomorrow)
-
-These topics were last practiced on 2026-04-18 and reach the debt threshold on 2026-05-03:
-
-- **[[al-usage]]** — A1, `encountered` (14 days)
-- **[[conjugation-spelling-patterns]]** — A2, `encountered` (14 days)
-- **[[cual-vs-que]]** — A2, `encountered` (14 days)
-- **[[ese-restaurant-de-ahi]]** — A2, `encountered` (14 days)
-- **[[future-tense]]** — A2, `encountered` (14 days)
-- **[[gusta-followed-by-clause]]** — A2, `encountered` (14 days)
-- **[[hacer-common-usages]]** — A2, `encountered` (14 days)
-- **[[no-llevan-vs-tiene]]** — A2, `encountered` (14 days)
-- **[[personal-a]]** — A2, `encountered` (14 days)
-- **[[por-vs-para]]** — A2, `encountered` (14 days)
-- **[[qué-exclamations]]** — A1, `encountered` (14 days)
-- **[[quisiera-vs-quiere]]** — A2, `encountered` (14 days)
-- **[[reflexive-verbs]]** — A2, `encountered` (14 days)
-- **[[se-ve-construction]]** — A2, `encountered` (14 days)
-- **[[sólo-hay-pattern]]** — A2, `encountered` (14 days)
-- **[[tan-vs-muy]]** — A2, `encountered` (14 days)
-- **[[tener-expressions]]** — A1, `encountered` (14 days)
-- **[[time-representation]]** — A1, `encountered` (14 days)
-- **[[traitor-nouns]]** — A1, `encountered` (14 days)
-- **[[tus-vs-sus]]** — A2, `encountered` (14 days)
+- **[[al-usage]]** — CEFR A1, `encountered` since 2026-04-18 (21 days)
+- **[[conjugation-spelling-patterns]]** — CEFR A2, `encountered` since 2026-04-18 (21 days)
+- **[[cual-vs-que]]** — CEFR A2, `encountered` since 2026-04-18 (21 days)
+- **[[ese-restaurant-de-ahi]]** — CEFR A2, `encountered` since 2026-04-18 (21 days)
+- **[[future-tense]]** — CEFR A2, `encountered` since 2026-04-18 (21 days)
+- **[[gusta-followed-by-clause]]** — CEFR A2, `encountered` since 2026-04-18 (21 days)
+- **[[hacer-common-usages]]** — CEFR A2, `encountered` since 2026-04-18 (21 days)
+- **[[no-llevan-vs-tiene]]** — CEFR A2, `encountered` since 2026-04-18 (21 days)
+- **[[personal-a]]** — CEFR A2, `encountered` since 2026-04-18 (21 days)
+- **[[por-vs-para]]** — CEFR A2, `encountered` since 2026-04-18 (21 days)
+- **[[qué-exclamations]]** — CEFR A1, `encountered` since 2026-04-18 (21 days)
+- **[[quisiera-vs-quiere]]** — CEFR A2, `encountered` since 2026-04-18 (21 days)
+- **[[reflexive-verbs]]** — CEFR A2, `encountered` since 2026-04-18 (21 days)
+- **[[se-ve-construction]]** — CEFR A2, `encountered` since 2026-04-18 (21 days)
+- **[[sólo-hay-pattern]]** — CEFR A2, `encountered` since 2026-04-18 (21 days)
+- **[[tan-vs-muy]]** — CEFR A2, `encountered` since 2026-04-18 (21 days)
+- **[[tener-expressions]]** — CEFR A1, `encountered` since 2026-04-18 (21 days)
+- **[[time-representation]]** — CEFR A1, `encountered` since 2026-04-18 (21 days)
+- **[[traitor-nouns]]** — CEFR A1, `encountered` since 2026-04-18 (21 days)
+- **[[tus-vs-sus]]** — CEFR A2, `encountered` since 2026-04-18 (21 days)
 
 ## Suggested Next Focus
 
-1. **[[por-vs-para]]** — High-impact A2 distinction, longest at encountered with no new practice
-2. **[[future-tense]]** — Core grammar needed for real conversation; needed for B1 progression
-3. **[[reflexive-verbs]]** — Appears constantly; today's session had *se quejan*, *nunca me quejo*
-4. **[[conjugation-spelling-patterns]]** — Foundation for everything else
-5. **[[gusta-followed-by-clause]]** — Closely tied to structures you use frequently
+1. **[[por-vs-para]]** — High-value A2 pattern; confusion here causes persistent errors
+2. **[[reflexive-verbs]]** — Core A2 grammar underpinning me/te/se pronoun usage
+3. **[[future-tense]]** — Active gap: no future tense items have appeared in quiz yet
+4. **[[personal-a]]** — Natural next step after indirect-object-a-pronoun (already quizzed)
 
-## ✅ No Debt
+## ✅ No Debt (< 14 days)
 
-All 34 topics are currently within the 14-day window.
+16 topics last practiced 2026-05-02 or 2026-05-09 — no debt.

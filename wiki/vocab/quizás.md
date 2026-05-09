@@ -11,4 +11,4 @@ last_updated: 2026-05-02
 
 **Example:** *Quizás venga mañana.* — Maybe he'll come tomorrow. (subjunctive)
 
-**See also:** [[tal-vez]]
+**See also:** [[tal-vez-vs-quizas]] — full comparison of both "maybe" expressions
