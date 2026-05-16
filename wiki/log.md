@@ -46,6 +46,15 @@ Append-only record of all wiki operations. Format: `## [YYYY-MM-DD] <operation> 
 - debt-board.md regenerated — 20 items overdue (last practiced 2026-04-18)
 - index.md: 276 pages total
 
+## [2026-05-16] ingest | 2026-05-16_session.md
+- 30 vocab atoms created: alquiler, apoyo, ascenso, compartir, complicado, despertar, despejar, discutir, egoista, empezar, en-este-momento, encender, entregar, estresado, firmar, frustrado, gasolina, impermeable, meta, mojado, parar, que-alivio, refugio, ruido, seguro, subir, tormenta, trueno, un-dia-libre, una-vez-por-semana
+- 2 skipped (already exist): la-proxima-vez, conducir (raw had conduciendo)
+- 2 topic hubs created: ya-no-pattern, dar-expressions
+- 0 error pages created/updated
+- curriculum-map.md: 2 new rows added, Days Since updated for all 38 rows; 20 items in debt (28 days, last practiced 2026-04-18)
+- debt-board.md regenerated — 20 items overdue (28 days)
+- index.md: 308 pages total
+
 ## [2026-05-09] quiz
 - Score: 9/10
 - 0 stage promotions

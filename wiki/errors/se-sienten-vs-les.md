@@ -23,14 +23,14 @@ When the subject is third person plural (ellos), the reflex is `se`, not `les`.
 
 `sentirse` conjugation with correct reflexive pronouns:
 
-| Person | Correct form |
-|---|---|
-| yo | me siento |
-| tú | te sientes |
-| él/ella | se siente |
-| nosotros | nos sentimos |
-| vosotros | os sentís |
-| ellos | **se sienten** |
+| Person   | Correct form   |
+| -------- | -------------- |
+| yo       | me siento      |
+| tú       | te sientes     |
+| él/ella  | se siente      |
+| nosotros | nos sentimos   |
+| vosotros | os sentís      |
+| ellos    | **se sienten** |
 
 - `Se sienten mal.` — They feel bad. (correct)
 - `Me siento preocupado.` — I feel worried. (correct)
