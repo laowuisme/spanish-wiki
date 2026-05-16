@@ -10,6 +10,7 @@ _Last updated: 2026-05-16_
 | [[conjugation-spelling-patterns]]               | A2   | encountered | 2026-04-18     | 28         | YES ⚠️ |
 | [[cual-vs-que]]                                 | A2   | encountered | 2026-04-18     | 28         | YES ⚠️ |
 | [[dar-expressions]]                             | A2   | encountered | 2026-05-16     | 0          | No    |
+| [[esto-vs-este]]                                | A2   | encountered | 2026-05-16     | 0          | No    |
 | [[disculpe-vs-disculpen]]                       | A2   | encountered | 2026-05-02     | 14         | No    |
 | [[ese-restaurant-de-ahi]]                       | A2   | encountered | 2026-04-18     | 28         | YES ⚠️ |
 | [[future-tense]]                                | A2   | encountered | 2026-04-18     | 28         | YES ⚠️ |

@@ -53,6 +53,7 @@ Adding `de ahí` (over there/there) or `de aquí` (here) reinforces the location
 
 ## Related Topics
 
+- [[esto-vs-este]] — neuter demonstrative pronouns (esto/eso/aquello) vs adjectives
 - [[masculine-feminine-agreement]] — gender agreement
 - [[traitor-nouns]] — misleading gender endings
 

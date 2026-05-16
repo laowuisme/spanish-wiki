@@ -1,5 +1,5 @@
 # Wiki Index
-_Last updated: 2026-05-16 | 308 pages total_
+_Last updated: 2026-05-16 | 309 pages total_
 
 ## Topics
 - [[ahi-vs-alli]] — ahí (near listener) vs allí (over there); three-way distance system (A2, encountered)
@@ -11,6 +11,7 @@ _Last updated: 2026-05-16 | 308 pages total_
 - [[dar-expressions]] — dar + noun for emotional reactions: me da vergüenza, me da miedo, me da igual (A2, encountered)
 - [[disculpe-vs-disculpen]] — disculpe (one person) vs disculpen (group); formal imperatives (A2, encountered)
 - [[ese-restaurant-de-ahi]] — Demonstratives: este/ese/aquel and gender agreement (A2, encountered)
+- [[esto-vs-este]] — neuter pronouns esto/eso/aquello vs adjectives este/ese/aquel (A2, encountered)
 - [[future-tense]] — ir a + infinitive vs simple future (A2, encountered)
 - [[gusta-followed-by-clause]] — gustar with infinitive, cuando clause, Le interesan (A2, encountered)
 - [[hacer-common-usages]] — Weather, time, idiomatic expressions with hacer (A2, encountered)
