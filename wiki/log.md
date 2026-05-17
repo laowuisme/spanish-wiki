@@ -46,6 +46,15 @@ Append-only record of all wiki operations. Format: `## [YYYY-MM-DD] <operation> 
 - debt-board.md regenerated — 20 items overdue (last practiced 2026-04-18)
 - index.md: 276 pages total
 
+## [2026-05-17] ingest | 2026-05-17_session.md
+- 10 vocab atoms created: agotado, callado, demasiado, escaparse, funcionar, garaje, llegar, perrito, pues, y-si
+- 2 skipped (already exist): exigente, discutir (created 2026-05-16)
+- 1 topic hub created: te-quiero-vs-te-amo (spectrum of love/affection expressions)
+- 0 error pages created/updated
+- curriculum-map.md: 1 new row added, Days Since updated for all 40 rows; 34 items now in debt (14 newly crossed threshold at 15 days)
+- debt-board.md regenerated — 34 items overdue
+- index.md: 320 pages total
+
 ## [2026-05-16] ad-hoc | esto-vs-este
 - 1 topic hub created: esto-vs-este (neuter demonstrative pronouns)
 - Linked from ese-restaurant-de-ahi

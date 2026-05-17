@@ -8,3 +8,7 @@
 2026-05-12 Notification sent — 42 items (21 new, 20 overdue, 1 high-miss)
 2026-05-14 Gmail error: ('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})
 2026-05-14 Notification sent — 42 items (21 new, 20 overdue, 1 high-miss)
+2026-05-16 Gmail error: ('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})
+2026-05-16 Notification sent — 75 items (54 new, 20 overdue, 1 high-miss)
+2026-05-17 [summary] Gmail error: ('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})
+2026-05-17 [summary] Summary sent — 2026-05-03 → 2026-05-17, 49 vocab, 4 topics, 1 quiz(zes)

@@ -1,5 +1,5 @@
 # Wiki Index
-_Last updated: 2026-05-16 | 309 pages total_
+_Last updated: 2026-05-17 | 320 pages total_
 
 ## Topics
 - [[ahi-vs-alli]] — ahí (near listener) vs allí (over there); three-way distance system (A2, encountered)
@@ -35,6 +35,7 @@ _Last updated: 2026-05-16 | 309 pages total_
 - [[sorprendido-vs-sorprendente]] — surprised (person) vs surprising (thing); -ido vs -ente adjectives (A2, encountered)
 - [[tal-vez-vs-quizas]] — tal vez vs quizás; both mean "maybe"; a lo mejor always indicative (A2, encountered)
 - [[tan-vs-muy]] — So vs Very; tan...como comparisons (A2, encountered)
+- [[te-quiero-vs-te-amo]] — spectrum of affection: me gustas → me encantas → te quiero → te amo (A2, encountered)
 - [[tener-expressions]] — tener hambre/sed/razón/prisa/ganas de/puesto (A1, encountered)
 - [[time-representation]] — la una vs las seis; a las; ¡Las cuatro ya! (A1, encountered)
 - [[traitor-nouns]] — Masculine ending in -a; feminine ending in -o (A1, encountered)
@@ -47,6 +48,7 @@ _Last updated: 2026-05-16 | 309 pages total_
 - [[abogada]] — (female) lawyer, attorney (A1, encountered)
 - [[actuar]] — to act; to perform; to take action (A2, encountered)
 - [[además]] — furthermore, in addition (A2, encountered)
+- [[agotado]] — exhausted, drained; also sold out (stock) (A2, encountered)
 - [[agradecer]] — to thank, to appreciate; agradezco = irregular yo-form (A2, encountered)
 - [[aguacate]] — avocado (A1, encountered)
 - [[aire-libre]] — open air, outdoors; al aire libre (A2, encountered)
@@ -79,6 +81,7 @@ _Last updated: 2026-05-16 | 309 pages total_
 - [[buzón]] — mailbox, letterbox (A2, encountered)
 - [[cabeza]] — head (A1, encountered)
 - [[cajero]] — cashier / ATM (A1, encountered)
+- [[callado]] — quiet, silent, reserved (A2, encountered)
 - [[calvo]] — bald; quedarse calvo = to go bald (A2, encountered)
 - [[cama]] — bed (A1, encountered)
 - [[camarón]] — shrimp/prawn (A2, encountered)
@@ -120,6 +123,7 @@ _Last updated: 2026-05-16 | 309 pages total_
 - [[dar]] — to give; highly irregular: doy, das, da (A1, encountered)
 - [[de-hecho]] — in fact, actually (B1, encountered)
 - [[de-ida-y-vuelta]] — round trip (A2, encountered)
+- [[demasiado]] — too much, too many; too (adv/adj) (A2, encountered)
 - [[de-repente]] — suddenly, all of a sudden; de pronto (synonym) (A2, encountered)
 - [[de-todas-formas]] — anyway, in any case (B1, encountered)
 - [[derecha]] — right (direction) (A1, encountered)
@@ -151,6 +155,7 @@ _Last updated: 2026-05-16 | 309 pages total_
 - [[entrevista]] — interview (A2, encountered)
 - [[enviar]] — to send (A2, encountered)
 - [[equivocado]] — wrong, mistaken (A2, encountered)
+- [[escaparse]] — to escape, to slip away; se escapa (A2, encountered)
 - [[esconder]] — to hide; esconderse = to hide oneself (A2, encountered)
 - [[escritorio]] — desk (A1, encountered)
 - [[espalda]] — back (body) (A2, encountered)
@@ -171,6 +176,8 @@ _Last updated: 2026-05-16 | 309 pages total_
 - [[fresa]] — strawberry (A1, encountered)
 - [[frustrado]] — frustrated; frustrada (f) (A2, encountered)
 - [[fuerte]] — strong; loud; intense (A1, encountered)
+- [[funcionar]] — to work, function, operate; funciona = it works (A1, encountered)
+- [[garaje]] — garage (A1, encountered)
 - [[garganta]] — throat (A2, encountered)
 - [[gasolina]] — gasoline, petrol (A2, encountered)
 - [[general]] — general (military rank); en general = in general (A2, encountered)
@@ -196,6 +203,7 @@ _Last updated: 2026-05-16 | 309 pages total_
 - [[limpiar]] — to clean (A1, encountered)
 - [[lista-de-la-compra]] — shopping list (A1, encountered)
 - [[llamar]] — to call; llamarse (A1, encountered)
+- [[llegar]] — to arrive, to get to; ¿Cómo llego a...? (A1, encountered)
 - [[llevar]] — to carry/wear/take/contain (A1, encountered)
 - [[llorar]] — to cry (A1, encountered)
 - [[luz]] — light; electricity; la luz (A1, encountered)
@@ -238,6 +246,7 @@ _Last updated: 2026-05-16 | 309 pages total_
 - [[pelo]] — hair (A1, encountered)
 - [[peor]] — worse, worst (A2, encountered)
 - [[perder]] — to lose; to miss (A1, encountered)
+- [[perrito]] — puppy, little dog; diminutive of perro (A1, encountered)
 - [[pescadería]] — fishmonger's (A1, encountered)
 - [[picante]] — spicy (A1, encountered)
 - [[pie]] — foot (A1, encountered)
@@ -255,6 +264,7 @@ _Last updated: 2026-05-16 | 309 pages total_
 - [[prestar]] — to lend; prestar atención = to pay attention (A2, encountered)
 - [[probador]] — fitting room (A2, encountered)
 - [[probar]] — to try (food/clothes) (A1, encountered)
+- [[pues]] — well, so, then; discourse marker (A2, encountered)
 - [[puesto]] — position; market stall; past participle of poner (A2, encountered)
 - [[queja]] — complaint, grievance (A2, encountered)
 - [[quizás]] — perhaps, maybe; synonym of tal vez (A2, encountered)
@@ -299,6 +309,7 @@ _Last updated: 2026-05-16 | 309 pages total_
 - [[vela]] — candle / sail (A2, encountered)
 - [[venir]] — to come (A1, encountered)
 - [[volver]] — to return; volver a + infinitive = do again (A1, encountered)
+- [[y-si]] — ¿y si...? = what if...?; hypothetical suggestion (A2, encountered)
 
 ## Errors
 - [[algo-vs-algun]] — algo (something) vs algún/alguna/algunos (some + noun) (A2, high)
