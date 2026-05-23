@@ -46,6 +46,15 @@ Append-only record of all wiki operations. Format: `## [YYYY-MM-DD] <operation> 
 - debt-board.md regenerated — 20 items overdue (last practiced 2026-04-18)
 - index.md: 276 pages total
 
+## [2026-05-23] ingest | 2026-05-23_session.md
+- 21 vocab atoms created: a-pie, acampar, ahora-mismo, depender, durazo, en-oferta, entrenar, fisico, galleta, inodoro, mantequilla, nos-vemos, peluqueria, pepino, pina, por-la-tarde, sandia, sendero, surfear, trotar, zanahoria
+- 5 skipped (already exist): aguacate, enamorado, aire-libre, barrio, gracioso
+- 0 topic hubs created/updated
+- 0 error pages created/updated
+- curriculum-map.md: Days Since updated for all 40 rows; 34 items in debt (35 days / 21 days)
+- debt-board.md regenerated — 34 items overdue; 2026-05-09 cohort at 14 days (not yet in debt)
+- index.md: 341 pages total
+
 ## [2026-05-17] ingest | 2026-05-17_session.md
 - 10 vocab atoms created: agotado, callado, demasiado, escaparse, funcionar, garaje, llegar, perrito, pues, y-si
 - 2 skipped (already exist): exigente, discutir (created 2026-05-16)

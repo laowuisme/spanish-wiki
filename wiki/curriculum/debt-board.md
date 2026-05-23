@@ -1,9 +1,9 @@
 # Learning Debt Board
-_Last updated: 2026-05-17_
+_Last updated: 2026-05-23_
 
 ## ⚠️ Overdue (stuck > 2 weeks)
 
-**29 days** — last practiced 2026-04-18 (20 items):
+**35 days** — last practiced 2026-04-18 (20 items):
 
 - **[[al-usage]]** — CEFR A1, `encountered` since 2026-04-18
 - **[[conjugation-spelling-patterns]]** — CEFR A2, `encountered` since 2026-04-18
@@ -26,7 +26,7 @@ _Last updated: 2026-05-17_
 - **[[traitor-nouns]]** — CEFR A1, `encountered` since 2026-04-18
 - **[[tus-vs-sus]]** — CEFR A2, `encountered` since 2026-04-18
 
-**15 days** — last practiced 2026-05-02 (14 items, newly overdue today):
+**21 days** — last practiced 2026-05-02 (14 items):
 
 - **[[ahi-vs-alli]]** — CEFR A2, `encountered` since 2026-05-02
 - **[[algo-series]]** — CEFR A2, `encountered` since 2026-05-02
@@ -45,8 +45,8 @@ _Last updated: 2026-05-17_
 
 ## Suggested Next Focus
 
-1. **[[por-vs-para]]** — core preposition pair, constant in everyday speech (29 days)
-2. **[[reflexive-verbs]]** — daily verbs (me lavo, me levanto), essential for fluency (29 days)
-3. **[[future-tense]]** — ir a + infinitive, dominant future form at A2 (29 days)
-4. **[[nadie-nada-negation]]** — active error pattern; missed in quizzes (15 days)
-5. **[[saber-que-clause]]** — missed in last quiz session (15 days)
+1. **[[por-vs-para]]** — core preposition pair, constant in everyday speech (35 days)
+2. **[[reflexive-verbs]]** — daily verbs (me lavo, me levanto), essential for fluency (35 days)
+3. **[[future-tense]]** — ir a + infinitive, dominant future form at A2 (35 days)
+4. **[[nadie-nada-negation]]** — active error pattern; missed in quizzes (21 days)
+5. **[[saber-que-clause]]** — missed in last quiz session (21 days)
