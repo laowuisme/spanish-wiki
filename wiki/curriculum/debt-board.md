@@ -1,9 +1,9 @@
 # Learning Debt Board
-_Last updated: 2026-05-23_
+_Last updated: 2026-05-25_
 
 ## ⚠️ Overdue (stuck > 2 weeks)
 
-**35 days** — last practiced 2026-04-18 (20 items):
+**37 days** — last practiced 2026-04-18 (20 items):
 
 - **[[al-usage]]** — CEFR A1, `encountered` since 2026-04-18
 - **[[conjugation-spelling-patterns]]** — CEFR A2, `encountered` since 2026-04-18
@@ -26,7 +26,7 @@ _Last updated: 2026-05-23_
 - **[[traitor-nouns]]** — CEFR A1, `encountered` since 2026-04-18
 - **[[tus-vs-sus]]** — CEFR A2, `encountered` since 2026-04-18
 
-**21 days** — last practiced 2026-05-02 (14 items):
+**23 days** — last practiced 2026-05-02 (14 items):
 
 - **[[ahi-vs-alli]]** — CEFR A2, `encountered` since 2026-05-02
 - **[[algo-series]]** — CEFR A2, `encountered` since 2026-05-02
@@ -43,10 +43,15 @@ _Last updated: 2026-05-23_
 - **[[sorprendido-vs-sorprendente]]** — CEFR A2, `encountered` since 2026-05-02
 - **[[vez-vs-tiempo]]** — CEFR A2, `encountered` since 2026-05-02
 
+**16 days** — last practiced 2026-05-09 (2 items, newly overdue):
+
+- **[[antigua-vs-vieja]]** — CEFR A2, `encountered` since 2026-05-09
+- **[[tal-vez-vs-quizas]]** — CEFR A2, `encountered` since 2026-05-09
+
 ## Suggested Next Focus
 
-1. **[[por-vs-para]]** — core preposition pair, constant in everyday speech (35 days)
-2. **[[reflexive-verbs]]** — daily verbs (me lavo, me levanto), essential for fluency (35 days)
-3. **[[future-tense]]** — ir a + infinitive, dominant future form at A2 (35 days)
-4. **[[nadie-nada-negation]]** — active error pattern; missed in quizzes (21 days)
-5. **[[saber-que-clause]]** — missed in last quiz session (21 days)
+1. **[[por-vs-para]]** — core preposition pair, constant in everyday speech (37 days)
+2. **[[reflexive-verbs]]** — daily verbs (me lavo, me levanto), essential for fluency (37 days)
+3. **[[future-tense]]** — ir a + infinitive, dominant future form at A2 (37 days)
+4. **[[nadie-nada-negation]]** — active error pattern; missed in quizzes (23 days)
+5. **[[saber-que-clause]]** — missed in last quiz session (23 days)

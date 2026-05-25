@@ -10,3 +10,5 @@ last_updated: 2026-05-23
 **Pattern:** Use `por la` + time of day for habitual or general time references. Not used for clock times (those use `a las`).
 
 **Example:** *Trabajo por la mañana y descanso por la tarde.* — I work in the morning and rest in the afternoon.
+
+⚠️ Clarification: *por las mañanas* (habitual, standard) vs *en las mañanas* (heard in some Latin American dialects but non-standard). Stick to `por`.

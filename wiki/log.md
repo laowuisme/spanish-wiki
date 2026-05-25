@@ -46,6 +46,16 @@ Append-only record of all wiki operations. Format: `## [YYYY-MM-DD] <operation> 
 - debt-board.md regenerated — 20 items overdue (last practiced 2026-04-18)
 - index.md: 276 pages total
 
+## [2026-05-25] ingest | 2026-05-25_session.md
+- 10 vocab atoms created: al-sur, apellido, foro, madrugada, ola, oscuro, redes-sociales, seguramente, tecnologia, videollamada
+- 2 skipped (already exist): ruido (2026-05-16), despierta → covered by despertar
+- 3 vocab pages updated: terminar (terminar de + inf), por-la-tarde (por vs en las mañanas), frustrado (feminine reminder)
+- 0 topic hubs created/updated
+- 0 error pages created/updated
+- curriculum-map.md: Days Since updated for all 40 rows; 36 items now in debt (antigua-vs-vieja and tal-vez-vs-quizas newly crossed threshold at 16 days)
+- debt-board.md regenerated — 36 items overdue
+- index.md: 351 pages total
+
 ## [2026-05-23] ingest | 2026-05-23_session.md
 - 21 vocab atoms created: a-pie, acampar, ahora-mismo, depender, durazo, en-oferta, entrenar, fisico, galleta, inodoro, mantequilla, nos-vemos, peluqueria, pepino, pina, por-la-tarde, sandia, sendero, surfear, trotar, zanahoria
 - 5 skipped (already exist): aguacate, enamorado, aire-libre, barrio, gracioso
