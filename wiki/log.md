@@ -4,6 +4,13 @@ Append-only record of all wiki operations. Format: `## [YYYY-MM-DD] <operation> 
 
 ---
 
+## [2026-05-28] ingest | 2026-05-28_session.md
+- 17 vocab atoms created: ansiosa, campeonas, cancha, casi-siempre, despertador, el-mejor, en-fin, estoy-segura, felicitaciones, ganar, revisar, rivales, si-o-si, siguiente, solucionar, torneo, ultimamente
+- 1 topic hub updated: reflexive-verbs (added confundirse pattern + intensive/aspectual se explanation)
+- 0 error pages created/updated
+
+---
+
 ## [2026-04-18] init | wiki created
 - Directory structure initialised
 - CLAUDE.md schema written

@@ -1,7 +1,7 @@
 ---
 cefr: A2
 stage: encountered
-last_updated: 2026-04-18
+last_updated: 2026-05-28
 debt: false
 sources:
   - raw/bootstrap/raw_log1.md
@@ -52,6 +52,19 @@ The correct infinitive form is `ducharse` (ending attached). `se duchar` is inco
 | bañarse | `Nosotros nos bañamos por la noche.` | We bathe at night. |
 | peinarse | `Se peinan.` | They comb their hair. |
 | quedarse | `¿Te quedas?` | Are you staying? |
+| confundirse | `Siempre me confundo.` | I always get confused. |
+
+### Intensive (aspectual) se
+
+`se` can also appear with transitive verbs (verbs that take a direct object) to express **completeness or total involvement** in an action — the subject fully consumes or finishes something. This is not reflexive in the usual sense.
+
+| Example | Meaning | Note |
+|---|---|---|
+| `Lin se come un pedazo de pizza.` | Lin eats (up) a piece of pizza. | Emphasises she eats the whole piece |
+| `Me bebí el café.` | I drank (all of) the coffee. | Completeness of consumption |
+| `Se leyó el libro en un día.` | He read the whole book in one day. | Total completion |
+
+The intensive `se` is optional — `Lin come un pedazo de pizza` is also correct — but adding `se` adds a sense of intentional, complete action.
 
 ## Your Mistakes
 
@@ -71,3 +84,5 @@ The correct infinitive form is `ducharse` (ending attached). `se duchar` is inco
 > "Me lavo la cara cada día. Te **cepillas** **los** dientes." — raw_log2.md
 > "Nosotros nos bañamos por la noche." — raw_log2.md
 > "quedar: reflective" — raw_log1.md
+> "Siempre me confundo" — 2026-05-28_session.md (new pattern: confundirse)
+> "Lin se come un pedazo de pizza (how does this sentence work)" — 2026-05-28_session.md (intensive se: completeness of action)
