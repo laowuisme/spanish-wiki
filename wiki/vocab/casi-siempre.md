@@ -2,7 +2,7 @@
 cefr: A1
 stage: encountered
 type: adverb
-last_updated: 2026-05-28
+last_updated: 2026-06-01
 ---
 
 **Meaning:** almost always; contrasts with siempre (always) and a veces (sometimes)

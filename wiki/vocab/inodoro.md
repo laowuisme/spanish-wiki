@@ -2,7 +2,7 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-05-23
+last_updated: 2026-06-01
 ---
 
 **Meaning:** toilet (the fixture)

@@ -2,7 +2,7 @@
 cefr: B1
 stage: encountered
 type: phrase
-last_updated: 2026-05-28
+last_updated: 2026-06-01
 ---
 
 **Meaning:** definitely, without fail, no matter what; also written "sí o sí" — emphatic certainty that something will happen

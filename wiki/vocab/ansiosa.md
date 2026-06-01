@@ -2,7 +2,7 @@
 cefr: A2
 stage: encountered
 type: adjective
-last_updated: 2026-05-28
+last_updated: 2026-06-01
 ---
 
 **Meaning:** anxious, nervous, worried (feminine form; masculine: ansioso)

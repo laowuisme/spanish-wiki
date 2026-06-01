@@ -2,7 +2,7 @@
 cefr: A2
 stage: encountered
 type: phrase
-last_updated: 2026-05-28
+last_updated: 2026-06-01
 ---
 
 **Meaning:** I'm sure / I'm certain (said by a female speaker); masculine form: estoy seguro

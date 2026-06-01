@@ -4,6 +4,15 @@ Append-only record of all wiki operations. Format: `## [YYYY-MM-DD] <operation> 
 
 ---
 
+## [2026-06-01] ingest | 2026-06-01_session.md
+- 18 vocab atoms created: ahora, alfombra, armario, aspiradora, balcon, banera, barrer, colgar, escoba, esforzarse, esponja, estufa, lavaplatos, lindo, planchar, sarten, secar, tendedero
+- 3 existing vocab pages updated with clarifications: en-fin (vs por fin), siguiente (last_updated), inodoro (last_updated)
+- 17 existing vocab pages refreshed: ansiosa, campeonas, cancha, casi-siempre, despertador, el-mejor, en-fin, estoy-segura, felicitaciones, ganar, revisar, rivales, si-o-si, siguiente, solucionar, torneo, ultimamente
+- 1 error page created: grosero (keep-forgetting signal)
+- 0 topic hubs created (session "new patterns" section contained vocabulary, not grammar patterns)
+
+---
+
 ## [2026-05-28] ingest | 2026-05-28_session.md
 - 17 vocab atoms created: ansiosa, campeonas, cancha, casi-siempre, despertador, el-mejor, en-fin, estoy-segura, felicitaciones, ganar, revisar, rivales, si-o-si, siguiente, solucionar, torneo, ultimamente
 - 1 topic hub updated: reflexive-verbs (added confundirse pattern + intensive/aspectual se explanation)

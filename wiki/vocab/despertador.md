@@ -2,7 +2,7 @@
 cefr: A1
 stage: encountered
 type: noun
-last_updated: 2026-05-28
+last_updated: 2026-06-01
 ---
 
 **Meaning:** alarm clock; el despertador (masculine)
