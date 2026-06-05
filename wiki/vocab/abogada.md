@@ -2,7 +2,7 @@
 cefr: A1
 stage: encountered
 type: noun
-last_updated: 2026-04-19
+last_updated: 2026-06-06
 ---
 
 **Meaning:** (female) lawyer, attorney

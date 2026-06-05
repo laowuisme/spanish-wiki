@@ -2,7 +2,7 @@
 cefr: A1
 stage: encountered
 type: verb
-last_updated: 2026-04-18
+last_updated: 2026-06-06
 ---
 
 **Meaning:** to call (phone); to call/name; `llamarse` = to be called/named

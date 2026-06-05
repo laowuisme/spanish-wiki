@@ -2,7 +2,7 @@
 cefr: A2
 stage: encountered
 type: adjective
-last_updated: 2026-06-01
+last_updated: 2026-06-06
 ---
 
 **Meaning:** rude, crude, coarse

@@ -1,7 +1,7 @@
 ---
 cefr: A2
 frequency: medium
-last_updated: 2026-06-01
+last_updated: 2026-06-06
 ---
 
 ## What Goes Wrong
@@ -28,6 +28,8 @@ Memory hook: **GROSEro** sounds like "gross" — it's the grosser, more offensiv
 ## Your Examples
 
 > "grosero" — flagged under "Keep Forgetting" in raw/2026-06-01_session.md
+
+> "grosero" — flagged under "Keep Forgetting" again in raw/2026-06-06_session.md (second separate session)
 
 ## Related Topics
 

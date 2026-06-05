@@ -4,6 +4,14 @@ Append-only record of all wiki operations. Format: `## [YYYY-MM-DD] <operation> 
 
 ---
 
+## [2026-06-06] ingest | 2026-06-06_session.md
+- 17 vocab atoms created: antibiótico, bolígrafo, canas, de-acuerdo, evitar, formulario, grupo, jarabe, lentamente, levantar, mareado, mira, mover, pluma, respirar, sala-de-urgencias, salvavida
+- 1 topic hub created: hay-que (hay que + infinitive = impersonal obligation)
+- 4 existing vocab pages refreshed (last_updated): abogada, apellido, llamar, subir
+- 2 existing grosero pages refreshed (last_updated + new Keep Forgetting evidence added to error page)
+
+---
+
 ## [2026-06-01] ingest | 2026-06-01_session.md
 - 18 vocab atoms created: ahora, alfombra, armario, aspiradora, balcon, banera, barrer, colgar, escoba, esforzarse, esponja, estufa, lavaplatos, lindo, planchar, sarten, secar, tendedero
 - 3 existing vocab pages updated with clarifications: en-fin (vs por fin), siguiente (last_updated), inodoro (last_updated)
