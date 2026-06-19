@@ -4,6 +4,15 @@ Append-only record of all wiki operations. Format: `## [YYYY-MM-DD] <operation> 
 
 ---
 
+## [2026-06-19] backfill | raw/duolingo_words_raw.json
+- 1,182 vocab atoms created from full Duolingo word export (1,560 total entries)
+- 262 entries already had wiki pages (skipped)
+- 116 entries skipped: function words (40), conjugated forms (65), proper nouns/countries (5), orphaned conjugations (6)
+- All new pages: stage=encountered, cefr=A2, type inferred from form
+- wiki/index.md rebuilt: 407 → 1,584 pages total
+
+---
+
 ## [2026-06-06] ingest | 2026-06-06_session.md
 - 17 vocab atoms created: antibiótico, bolígrafo, canas, de-acuerdo, evitar, formulario, grupo, jarabe, lentamente, levantar, mareado, mira, mover, pluma, respirar, sala-de-urgencias, salvavida
 - 1 topic hub created: hay-que (hay que + infinitive = impersonal obligation)

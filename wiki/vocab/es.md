@@ -1,0 +1,12 @@
+---
+cefr: A2
+stage: encountered
+type: noun
+last_updated: 2026-06-19
+---
+
+**Meaning:** is, are you, it's
+
+**Pattern:** Use with article `el/la es`
+
+**Example:** *El/la es es importante.* — The is is important.
