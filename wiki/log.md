@@ -4,6 +4,14 @@ Append-only record of all wiki operations. Format: `## [YYYY-MM-DD] <operation> 
 
 ---
 
+## [2026-06-27] ingest | raw/2026-06-27_session.md
+- 12 vocab atoms created: acabo-de, ayuntamiento, decir, deportista, gratis, lleno-de, molestar, periodista, retrasada, sobre-todo, tema, tienes-ganas
+- 6 existing backfill stubs enriched: ahora-sí, almacén, camión, contraseña, distraído, espectáculo
+- 14 existing vocab pages refreshed (last_updated): pesado, gerente, hacer-fila, recoger, firma, mostrar, sistema, resolver, mientras, confiar-en, parece-que, puesto, desde-hace, explicar
+- 1 topic hub created: todavia-vs-aun (todavía vs aún clarification)
+- 1 topic hub updated: gusta-followed-by-clause (molestar example added)
+- 1 error page created: perdimos-vs-pedimos
+
 ## [2026-06-19] backfill | raw/duolingo_words_raw.json
 - 1,182 vocab atoms created from full Duolingo word export (1,560 total entries)
 - 262 entries already had wiki pages (skipped)

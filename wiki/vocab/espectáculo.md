@@ -2,11 +2,9 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-06-27
 ---
 
-**Meaning:** entertainment, show, performance
-
-**Pattern:** Use with article `el/la espectáculo`
-
-**Example:** *El/la espectáculo es importante.* — The entertainment is important.
+**Meaning:** show; spectacle; performance; display
+**Pattern:** masculine noun — *el espectáculo*, *los espectáculos*
+**Example:** *El espectáculo dura toda la semana.* — The show runs all week.

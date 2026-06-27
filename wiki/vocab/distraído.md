@@ -2,11 +2,9 @@
 cefr: A2
 stage: encountered
 type: adjective
-last_updated: 2026-04-18
+last_updated: 2026-06-27
 ---
 
-**Meaning:** distracted, absent-minded
-
-**Pattern:** Adjective. Feminine: `distraída`.
-
-**Example:** *Está muy distraído hoy.* — He's very distracted today.
+**Meaning:** distracted; absent-minded
+**Pattern:** adjective — *distraído/distraída* — agrees with noun gender
+**Example:** *Estaba muy distraído en clase.* — He was very distracted in class.

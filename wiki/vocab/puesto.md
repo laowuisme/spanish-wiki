@@ -2,7 +2,7 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-04-18
+last_updated: 2026-06-27
 ---
 
 **Meaning:** position, post, job; market stall; past participle of `poner`

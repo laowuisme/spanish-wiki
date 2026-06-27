@@ -2,11 +2,9 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-06-27
 ---
 
-**Meaning:** truck
-
-**Pattern:** Use with article `el/la camión`
-
-**Example:** *El/la camión es importante.* — The truck is important.
+**Meaning:** truck; bus (in Mexico/Latin America)
+**Pattern:** masculine noun — *el camión*, *los camiones*
+**Example:** *El camión llegó tarde.* — The truck/bus arrived late.

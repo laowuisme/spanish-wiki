@@ -2,11 +2,9 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-06-27
 ---
 
 **Meaning:** password
-
-**Pattern:** Use with article `el/la contraseña`
-
-**Example:** *El/la contraseña es importante.* — The password is important.
+**Pattern:** feminine noun — *la contraseña*, *las contraseñas*
+**Example:** *¿Cuál es la contraseña del wifi?* — What's the wifi password?

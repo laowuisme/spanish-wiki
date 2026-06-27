@@ -1,7 +1,7 @@
 ---
 cefr: A2
 stage: encountered
-last_updated: 2026-04-18
+last_updated: 2026-06-27
 debt: false
 sources:
   - raw/bootstrap/raw_log2.md
@@ -57,3 +57,4 @@ The verb agrees with the subject (the thing liked), not the person:
 > "Le interesan mucho los videojuegos" — raw_log2.md
 > "A Felipe le encanta dibujar" — raw_log1.md
 > "A ti te encanta el fútbol" — raw_log1.md
+> "¿Qué les molesta?" — molestar as gustar-type verb, indirect object *les* — raw/2026-06-27_session.md
