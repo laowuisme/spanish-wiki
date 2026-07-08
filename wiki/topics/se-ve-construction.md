@@ -1,10 +1,11 @@
 ---
 cefr: A2
 stage: encountered
-last_updated: 2026-04-18
+last_updated: 2026-07-08
 debt: false
 sources:
   - raw/bootstrap/raw_log2.md
+  - raw/2026-07-08.md
 ---
 
 # se ve — It Looks / It Seems
@@ -48,3 +49,4 @@ None confirmed.
 
 > "Pattern: Se ve delicioso" — raw_log2.md
 > "Pattern: verdad (isn't it)" — raw_log2.md
+> "Se ve menor. No sé su edad." — raw/2026-07-08.md (clarification: se ve + adjective describing apparent age; see [[menor]])

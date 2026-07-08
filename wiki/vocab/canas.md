@@ -2,7 +2,7 @@
 cefr: B1
 stage: encountered
 type: noun
-last_updated: 2026-06-06
+last_updated: 2026-07-08
 ---
 
 **Meaning:** gray/white hairs; grey strands

@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: verb
-last_updated: 2026-06-19
+last_updated: 2026-07-08
 ---
 
-**Meaning:** to see, watch
+**Meaning:** to see, to watch
 
-**Pattern:** `ver` — regular use: see
+**Pattern:** Irregular -er verb: *veo, ves, ve, vemos, veis, ven*. Reflexive form *verse* = to look/seem — see [[se-ve-construction]].
 
-**Example:** *Necesito ver.* — I need to see.
+**Example:** *Quiero ver una película.* — I want to watch a movie.

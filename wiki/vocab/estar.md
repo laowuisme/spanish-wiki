@@ -1,12 +1,12 @@
 ---
-cefr: A2
+cefr: A1
 stage: encountered
 type: verb
-last_updated: 2026-06-19
+last_updated: 2026-07-08
 ---
 
-**Meaning:** stay, being, it'd
+**Meaning:** to be (location, temporary states/conditions, ongoing actions — see [[ser-vs-estar]])
 
-**Pattern:** `estar` — regular use: stay
+**Pattern:** Highly irregular: *estoy, estás, está, estamos, estáis, están*. Used for location, temporary states, and ongoing actions (with gerund).
 
-**Example:** *Necesito estar.* — I need to stay.
+**Example:** *Está en casa.* — He's at home.

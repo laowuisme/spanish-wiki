@@ -2,7 +2,7 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-04-18
+last_updated: 2026-07-08
 ---
 
 **Meaning:** nephew; `sobrina` = niece

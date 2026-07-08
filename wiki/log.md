@@ -4,6 +4,14 @@ Append-only record of all wiki operations. Format: `## [YYYY-MM-DD] <operation> 
 
 ---
 
+## [2026-07-08] ingest | raw/2026-07-08.md
+- 15 vocab atoms created: alegre, arrugas, chaleco, comparte, conocido, cualquier, grita, héroe, heroína, maravilloso, menor, muchacho, para-nada, ser, travieso
+- 2 existing vocab pages refreshed (last_updated): sobrino, canas
+- 2 broken backfill stubs fixed: estar (was "stay, being, it'd"), ver (was "Necesito ver." nonsense example)
+- 1 topic hub created: ser-vs-estar (ser vs estar clarification, seeded by "Todos somos honestos.")
+- 1 topic hub updated: se-ve-construction (new example: "Se ve menor. No sé su edad." — answers clarification note)
+- 0 error pages (no mistakes logged this session)
+
 ## [2026-06-27] ingest | raw/2026-06-27_session.md
 - 12 vocab atoms created: acabo-de, ayuntamiento, decir, deportista, gratis, lleno-de, molestar, periodista, retrasada, sobre-todo, tema, tienes-ganas
 - 6 existing backfill stubs enriched: ahora-sí, almacén, camión, contraseña, distraído, espectáculo
