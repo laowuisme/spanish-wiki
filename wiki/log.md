@@ -4,6 +4,11 @@ Append-only record of all wiki operations. Format: `## [YYYY-MM-DD] <operation> 
 
 ---
 
+## [2026-07-08] quiz
+- Score: 9/10
+- 0 stage promotions
+- 1 new error flagged: saber-que-clause (missed in 2 separate sessions — 2026-05-09, 2026-07-08)
+
 ## [2026-07-08] ingest | raw/2026-07-08.md
 - 15 vocab atoms created: alegre, arrugas, chaleco, comparte, conocido, cualquier, grita, héroe, heroína, maravilloso, menor, muchacho, para-nada, ser, travieso
 - 2 existing vocab pages refreshed (last_updated): sobrino, canas

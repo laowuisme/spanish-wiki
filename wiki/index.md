@@ -1,5 +1,5 @@
 # Wiki Index
-_Last updated: 2026-07-08 | 1614 pages total_
+_Last updated: 2026-07-08 | 1615 pages total_
 
 ## Topics
 - [[ahi-vs-alli]] — ahí (near listener) vs allí (over there); three-way distance system (A2, encountered)
@@ -1617,6 +1617,7 @@ _Last updated: 2026-07-08 | 1614 pages total_
 - [[masculine-feminine-agreement]] — gender agreement errors: este musical, mucha gente (A1, high)
 - [[pasillo-vs-pastilla]] — pasillo (aisle) vs pastilla (pill); similar-sounding words (A2, medium)
 - [[perdimos-vs-pedimos]] — confusing perdimos (we lost) with pedimos (we ordered) (A2, medium)
+- [[saber-que-clause]] — saber + que clause confused with conocer/conocido under quiz pressure (A2, medium)
 - [[se-sienten-vs-les]] — se sienten mal (reflexive), not les sienten (A2, medium)
 
 ## Curriculum
