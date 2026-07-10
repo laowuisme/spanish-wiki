@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: verb
+last_updated: 2026-07-10
 ---
 
-**Meaning:** go
+**Meaning:** to go
 
-**Pattern:** Use with article `el/la ir`
+**Pattern:** Irregular verb: *voy, vas, va, vamos, vais, van* (present). Preterite: *fui, fuiste, fue, fuimos, fuisteis, fueron* (identical to `ser` — context disambiguates). Imperfect: *iba, ibas, iba, íbamos, ibais, iban* — see [[past-tense]], [[preterite-irregular-verbs]], [[future-tense]].
 
-**Example:** *El/la ir es importante.* — The go is important.
+**Example:** *Fui al mercado ayer.* — I went to the market yesterday.

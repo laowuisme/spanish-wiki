@@ -4,6 +4,16 @@ Append-only record of all wiki operations. Format: `## [YYYY-MM-DD] <operation> 
 
 ---
 
+## [2026-07-10] ingest | past-tense knowledge base build
+- 2 topic hubs created: past-tense (preterite vs imperfect, regular conjugation + usage contrast), preterite-irregular-verbs (irregular preterite stems grouped by pattern: suppletive, strong-stem/j-stem, stem-changing -ir verbs)
+- 1 topic hub updated: conjugation-spelling-patterns (added preterite spelling-change rules: -car/-gar/-zar, vowel+ió→yó)
+- 20 vocab atoms updated with preterite (and imperfect where relevant) conjugation notes: ser, ir, dar, estar, tener, poder, poner, hacer, venir, decir, traer, conducir, traducir, dormir, pedir, sentirse, servir, repetir, conseguir, ver
+- Data-quality fixes made along the way (pre-existing broken content, not new regressions): ir (mistagged type: noun → verb, rewrote garbage Meaning/Example), hacer (Meaning "acting, manufacture, let's" → "to do, to make"), pedir (Meaning "let's, beg, requests" → "to ask for, to request, to order (food)"), conseguir (Meaning "let's, score, find" → "to get, to obtain, to manage to"), plus placeholder Meaning/Example cleanup on tener, traer, traducir, dormir, sentirse, servir, repetir
+- curriculum-map.md: 2 new rows added (past-tense, preterite-irregular-verbs), Days Since recalculated for all existing rows
+- debt-board.md regenerated — conjugation-spelling-patterns moved to No Debt; 2 new No Debt entries for past-tense, preterite-irregular-verbs
+- index.md: 2 new Topics entries added, page count 1615 → 1617; stale Vocab blurbs corrected for hacer, estar, conseguir, pedir, sentirse to match corrected Meanings
+- Not addressed this session (flagged separately): ~18 mistagged non-verb vocab entries and several duplicate/compound-expression vocab entries identified as a data-quality cleanup opportunity
+
 ## [2026-07-08] quiz
 - Score: 9/10
 - 0 stage promotions

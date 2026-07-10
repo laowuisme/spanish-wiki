@@ -1,7 +1,7 @@
 ---
 cefr: A2
 stage: encountered
-last_updated: 2026-04-18
+last_updated: 2026-07-10
 debt: false
 sources:
   - raw/bootstrap/raw_log1.md
@@ -55,6 +55,22 @@ Stem changes happen in all forms except nosotros/vosotros:
 `peinar` is regular -ar: peino, peinas, peina, peinamos, peináis, **peinan** (ellos).
 Reflexive: `se peinan` (they comb their hair).
 
+### 6. Preterite spelling changes (yo-form and 3rd-person)
+
+These verbs aren't irregular in the sense of an unpredictable stem — Spanish spelling just adjusts to keep the pronunciation consistent. See [[preterite-irregular-verbs]] for true stem irregularities; these are purely orthographic.
+
+**`-car → qué`, `-gar → gué`, `-zar → cé`** (yo-form only, to preserve the hard/soft consonant sound):
+
+| Ending | Example | yo (preterite) |
+|---|---|---|
+| -car | buscar, tocar, practicar, explicar, pescar, secar | busqué, toqué, practiqué, expliqué, pesqué, sequé |
+| -gar | llegar, pagar, jugar, colgar, cargar, entregar, navegar | llegué, pagué, jugué, colgué, cargué, entregué, navegué |
+| -zar | empezar, comenzar, almorzar | empecé, comencé, almorcé |
+
+**Vowel + `ió → yó`** (3rd person only, for `-eer`/`-uir`/`-aer`-type verbs where two vowels would otherwise collide):
+
+- `leer` → **leyó**, **leyeron** (not `leió`/`leieron`)
+
 ## Common Patterns
 
 | Rule | Wrong | Correct |
@@ -64,6 +80,10 @@ Reflexive: `se peinan` (they comb their hair).
 | -er nosotros | aprendamos | **aprendemos** |
 | Subjunctive -ar ellos | miran (if subjunctive needed) | **miren** |
 | 21 before masculine noun | veintuno | **veintiún** |
+| -car preterite yo | buscé | **busqué** |
+| -gar preterite yo | llegé | **llegué** |
+| -zar preterite yo | empezé | **empecé** |
+| leer preterite ellos | leieron | **leyeron** |
 
 ## Your Mistakes
 
@@ -77,6 +97,8 @@ Reflexive: `se peinan` (they comb their hair).
 - [[quisiera-vs-quiere]] — stem-changing conjugation of querer
 - [[reflexive-verbs]] — reflexive conjugation patterns
 - [[traitor-nouns]] — gender exceptions
+- [[past-tense]] — regular preterite/imperfect conjugation
+- [[preterite-irregular-verbs]] — true stem irregularities in the preterite
 
 ## Examples From Your Notes
 

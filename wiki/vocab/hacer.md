@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: verb
-last_updated: 2026-06-19
+last_updated: 2026-07-10
 ---
 
-**Meaning:** acting, manufacture, let's
+**Meaning:** to do, to make
 
-**Pattern:** `hacer` — regular use: acting
+**Pattern:** Irregular verb: *hago, haces, hace, hacemos, hacéis, hacen* (present). Preterite (strong stem): *hice, hiciste, hizo, hicimos, hicisteis, hicieron* — see [[preterite-irregular-verbs]].
 
-**Example:** *Necesito hacer.* — I need to acting.
+**Example:** *¿Qué hiciste ayer?* — What did you do yesterday?

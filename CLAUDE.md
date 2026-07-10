@@ -383,3 +383,17 @@ _Last updated: YYYY-MM-DD | N pages total_
 - `last_updated` (page frontmatter) = when this page was created or last edited by the LLM
 - `Last Practiced` (curriculum map) = date from the raw note filename being ingested, not today's date. These are different fields.
 - Dates: always YYYY-MM-DD format
+
+## Agent skills
+
+### Issue tracker
+
+Issues live in GitHub Issues on `laowuisme/spanish-wiki` (via the `gh` CLI); external PRs are not treated as a triage surface. See `docs/agents/issue-tracker.md`.
+
+### Triage labels
+
+Default vocabulary (`needs-triage`, `needs-info`, `ready-for-agent`, `ready-for-human`, `wontfix`) — no repo-specific overrides. See `docs/agents/triage-labels.md`.
+
+### Domain docs
+
+Single-context — one `CONTEXT.md` + `docs/adr/` at the repo root (neither exists yet; created lazily). See `docs/agents/domain.md`.

@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: verb
-last_updated: 2026-06-19
+last_updated: 2026-07-10
 ---
 
-**Meaning:** to bring, bring
+**Meaning:** to bring
 
-**Pattern:** `traer` — regular use: bring
+**Pattern:** Irregular verb: *traigo, traes, trae, traemos, traéis, traen* (present). Preterite (j-stem): *traje, trajiste, trajo, trajimos, trajisteis, trajeron* — see [[preterite-irregular-verbs]].
 
-**Example:** *Necesito traer.* — I need to bring.
+**Example:** *¿Trajiste el paraguas?* — Did you bring the umbrella?

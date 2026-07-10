@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: verb
-last_updated: 2026-06-19
+last_updated: 2026-07-10
 ---
 
-**Meaning:** to sleep, sleep
+**Meaning:** to sleep
 
-**Pattern:** `dormir` — regular use: sleep
+**Pattern:** Stem-changing verb (o→ue, present): *duermo, duermes, duerme, dormimos, dormís, duermen*. Preterite (3rd person only): *dormí, dormiste, **durmió**, dormimos, dormisteis, **durmieron*** — see [[preterite-irregular-verbs]].
 
-**Example:** *Necesito dormir.* — I need to sleep.
+**Example:** *Durmió ocho horas.* — He/she slept eight hours.

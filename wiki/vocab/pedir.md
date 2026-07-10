@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: verb
-last_updated: 2026-06-19
+last_updated: 2026-07-10
 ---
 
-**Meaning:** let's, beg, requests
+**Meaning:** to ask for, to request, to order (food)
 
-**Pattern:** `pedir` — regular use: let's
+**Pattern:** Stem-changing verb (e→i, present): *pido, pides, pide, pedimos, pedís, piden*. Preterite (3rd person only): *pedí, pediste, **pidió**, pedimos, pedisteis, **pidieron*** — see [[preterite-irregular-verbs]].
 
-**Example:** *Necesito pedir.* — I need to let's.
+**Example:** *Pidió una pizza.* — He/she ordered a pizza.

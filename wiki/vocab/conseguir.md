@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: verb
-last_updated: 2026-06-19
+last_updated: 2026-07-10
 ---
 
-**Meaning:** let's, score, find
+**Meaning:** to get, to obtain, to manage to (do something)
 
-**Pattern:** `conseguir` — regular use: let's
+**Pattern:** Stem-changing verb (e→i, present): *consigo, consigues, consigue, conseguimos, conseguís, consiguen*. Preterite (3rd person only): *conseguí, conseguiste, **consiguió**, conseguimos, conseguisteis, **consiguieron*** — see [[preterite-irregular-verbs]].
 
-**Example:** *Necesito conseguir.* — I need to let's.
+**Example:** *Consiguió el trabajo.* — He/she got the job.

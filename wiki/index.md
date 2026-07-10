@@ -1,5 +1,5 @@
 # Wiki Index
-_Last updated: 2026-07-08 | 1615 pages total_
+_Last updated: 2026-07-10 | 1617 pages total_
 
 ## Topics
 - [[ahi-vs-alli]] — ahí (near listener) vs allí (over there); three-way distance system (A2, encountered)
@@ -24,9 +24,11 @@ _Last updated: 2026-07-08 | 1615 pages total_
 - [[nadie-nada-negation]] — No trabaja nadie; double negation with nadie/nada (A2, encountered)
 - [[no-llevan-vs-tiene]] — llevar (contain/wear) vs tener (possess) (A2, encountered)
 - [[no-tiene-hay-ningun]] — Double negation with ningún/ninguna (A2, encountered)
+- [[past-tense]] — Preterite vs imperfect: completed actions vs habitual/ongoing background; regular conjugation + usage contrast (A2, encountered)
 - [[perdón-vs-lo-siento]] — Excuse me vs I'm sorry; perdón vs perdona distinction (A1, encountered)
 - [[personal-a]] — Required a before direct object persons (A2, encountered)
 - [[por-vs-para]] — Purpose/cause/frequency vs goal/destination; porque vs por qué (A2, encountered)
+- [[preterite-irregular-verbs]] — Irregular preterite stems grouped by pattern: suppletive, strong-stem/j-stem, stem-changing -ir verbs (A2, encountered)
 - [[qué-exclamations]] — ¡Qué lástima! ¡Qué sorpresa! ¡Qué lindo! pattern (A1, encountered)
 - [[quisiera-vs-quiere]] — Polite request vs direct want; querer conjugation (A2, encountered)
 - [[reflexive-verbs]] — me lavo, te cepillas, se ducha; body part article rule (A2, encountered)
@@ -383,7 +385,7 @@ _Last updated: 2026-07-08 | 1615 pages total_
 - [[conocido]] — known, well-known; also: acquaintance (A2, encountered)
 - [[conozco]] — I know (a person/place) — first person singular of `conocer` (A2, encountered)
 - [[conozco-a]] — know (A2, encountered)
-- [[conseguir]] — let's, score, find (A2, encountered)
+- [[conseguir]] — to get, to obtain, to manage to (do something) (A2, encountered)
 - [[contador]] — accountant (A2, encountered)
 - [[contento]] — happy (A2, encountered)
 - [[contesta]] — answer!, reply! — tú imperative of *contestar* (to answer) (A1, encountered)
@@ -636,7 +638,7 @@ _Last updated: 2026-07-08 | 1615 pages total_
 - [[estadunidense]] — American (from the United States); a person from the US (A2, encountered)
 - [[estampilla]] — postage stamp (Latin America) (A2, encountered)
 - [[estantería]] — bookshelf / shelving unit (A1, encountered)
-- [[estar]] — stay, being, it'd (A2, encountered)
+- [[estar]] — to be (location, temporary states/conditions, ongoing actions) (A1, encountered)
 - [[estar-de-acuerdo]] — to agree, agree (A2, encountered)
 - [[estar-seguro]] — sure (A2, encountered)
 - [[estatua]] — statue (A2, encountered)
@@ -762,7 +764,7 @@ _Last updated: 2026-07-08 | 1615 pages total_
 - [[hablas]] — speak, talking (A2, encountered)
 - [[hace]] — is, makes (A2, encountered)
 - [[hace-sol]] — it's sunny (A2, encountered)
-- [[hacer]] — acting, manufacture, let's (A2, encountered)
+- [[hacer]] — to do, to make (A2, encountered)
 - [[hacer-ejercicio]] — to exercise, exercise (A2, encountered)
 - [[hacer-fila]] — to get in line, stand in line (A2, encountered)
 - [[hacer-la-compra]] — shopping (A2, encountered)
@@ -1137,7 +1139,7 @@ _Last updated: 2026-07-08 | 1615 pages total_
 - [[país]] — country's, land, country (A2, encountered)
 - [[pañuelo]] — scarf (A2, encountered)
 - [[pañuelos]] — handkerchiefs; scarves; tissues (A2, encountered)
-- [[pedir]] — let's, beg, requests (A2, encountered)
+- [[pedir]] — to ask for, to request, to order (food) (A2, encountered)
 - [[peinarse]] — to comb, comb, combs (A2, encountered)
 - [[peligroso]] — dangerous (A2, encountered)
 - [[pelirrojo]] — redhead (A2, encountered)
@@ -1368,7 +1370,7 @@ _Last updated: 2026-07-08 | 1615 pages total_
 - [[seis]] — six (A2, encountered)
 - [[semana]] — week (A2, encountered)
 - [[sendero]] — trail, path, footpath (A2, encountered)
-- [[sentirse]] — become, wasn't, (to) feel (A2, encountered)
+- [[sentirse]] — to feel (an emotion or physical state) (A2, encountered)
 - [[septiembre]] — September (A2, encountered)
 - [[ser]] — to be (identity/characteristics) (A1, encountered)
 - [[seria]] — (he/she/it) serializes, (he/she/it) orders / arrange in seri (A2, encountered)
