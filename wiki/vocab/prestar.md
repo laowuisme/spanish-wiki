@@ -2,7 +2,7 @@
 cefr: A2
 stage: encountered
 type: verb
-last_updated: 2026-05-02
+last_updated: 2026-07-23
 ---
 
 **Meaning:** to lend; to loan; to pay (attention)

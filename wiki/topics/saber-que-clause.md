@@ -1,11 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-last_updated: 2026-05-02
+last_updated: 2026-07-23
 debt: false
 sources:
   - raw/2026-04-23_session.md
   - raw/2026-05-02_session.md
+  - raw/2026-07-22_session.md
 ---
 
 ## Rule
@@ -18,6 +19,10 @@ Two things to notice here:
 1. **saber + que**: *sé* is the irregular yo-form of *saber*. The *que* clause is the object of *saber*.
 2. **Direct object pronoun lo**: *lo* replaces a masculine singular noun. It sits before the conjugated verb (*lo tienes*, not *tienes lo*).
 
+**Accent note — qué vs que:** unaccented *que* (conjunction) introduces a statement ("I know **that**..."). Accented *qué* (interrogative) introduces an indirect question after *saber* ("I don't know **what**..."):
+
+> *No sé qué es.* — I don't know what it is.
+
 ## Common Patterns
 
 | Pattern | Example | Translation |
@@ -25,6 +30,7 @@ Two things to notice here:
 | Sé que + subject + verb | *Sé que ella vive aquí.* | I know that she lives here. |
 | Sé que + subject + lo/la/los/las + verb | *Sé que tú lo tienes.* | I know you have it. |
 | No sé si... | *No sé si viene.* | I don't know if he's coming. |
+| No sé + qué/dónde/cuándo (indirect question) | *No sé qué es.* | I don't know what it is. |
 
 **Saber vs conocer:** *Saber* = to know facts/how to do things. *Conocer* = to know people or places. See [[conozco]] for the conocer pattern.
 
@@ -41,3 +47,6 @@ None recorded yet.
 
 From `raw/2026-04-23_session.md`:
 - *Sé que tú lo tienes.* — I know that you have it.
+
+From `raw/2026-07-22_session.md`:
+- *No sé qué es.* — I don't know what it is.
