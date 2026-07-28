@@ -1,11 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-last_updated: 2026-05-28
+last_updated: 2026-07-28
 debt: false
 sources:
   - raw/bootstrap/raw_log1.md
   - raw/bootstrap/raw_log2.md
+  - raw/2026-07-28_session.md
 ---
 
 # Reflexive Verbs — me lavo, te cepillas, se ducha...
@@ -86,3 +87,4 @@ The intensive `se` is optional — `Lin come un pedazo de pizza` is also correct
 > "quedar: reflective" — raw_log1.md
 > "Siempre me confundo" — 2026-05-28_session.md (new pattern: confundirse)
 > "Lin se come un pedazo de pizza (how does this sentence work)" — 2026-05-28_session.md (intensive se: completeness of action)
+> "Por fin, me encontré." — 2026-07-28_session.md (new pattern: encontrarse — reflexive "to find oneself")

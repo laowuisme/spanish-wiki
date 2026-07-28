@@ -4,6 +4,14 @@ Append-only record of all wiki operations. Format: `## [YYYY-MM-DD] <operation> 
 
 ---
 
+## [2026-07-28] ingest | raw/2026-07-28_session.md
+- 13 vocab atoms created: agujero, consejo, techo, limpieza, apurada, por-casualidad, gemelos, almohada, dañado, sano, mapache, salvaje, resulta-que
+- 0 topic hubs created
+- 0 error pages created
+- 3 existing vocab pages refreshed (desde-hace, despertador, qué-lástima) — re-encountered with no new example sentence given
+- por-fin.md enriched with real example sentence from notes; reflexive-verbs.md updated with new encontrarse evidence
+- Note: raw note's last pattern line ("Te veo porque tengo mis len...") was truncated mid-word in the source file and skipped rather than guessed
+
 ## [2026-07-10] ingest | past-tense knowledge base build
 - 2 topic hubs created: past-tense (preterite vs imperfect, regular conjugation + usage contrast), preterite-irregular-verbs (irregular preterite stems grouped by pattern: suppletive, strong-stem/j-stem, stem-changing -ir verbs)
 - 1 topic hub updated: conjugation-spelling-patterns (added preterite spelling-change rules: -car/-gar/-zar, vowel+ió→yó)

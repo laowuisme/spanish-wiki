@@ -2,7 +2,7 @@
 cefr: A2
 stage: encountered
 type: phrase
-last_updated: 2026-06-27
+last_updated: 2026-07-28
 ---
 
 **Meaning:** for
