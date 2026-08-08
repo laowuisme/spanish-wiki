@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-08
 ---
 
-**Meaning:** raw
+**Meaning:** raw, uncooked; also colloquial for "hungover"
 
-**Pattern:** Use with article `el/la crudo`
+**Pattern:** Regular -o/-a adjective, agrees with noun gender: `crudo/cruda`. Opposite of [[cocido]].
 
-**Example:** *El/la crudo es importante.* — The raw is important.
+**Example:** *Prefiero el huevo cocido, no crudo.* — I prefer the egg cooked, not raw.

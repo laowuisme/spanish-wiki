@@ -1,11 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-last_updated: 2026-05-02
+last_updated: 2026-08-08
 debt: false
 sources:
   - raw/bootstrap/raw_log1.md
   - raw/2026-05-02_session.md
+  - raw/2026-08-08_session.md
 ---
 
 # Indirect Object — A + name/pronoun + le/te/me
@@ -53,6 +54,7 @@ This doubling is mandatory — you cannot drop the pronoun even when the full no
 ## Related Topics
 
 - [[gusta-followed-by-clause]] — gustar grammar
+- [[parecer]] — another verb using this IOP + a + person structure
 - [[reflexive-verbs]] — me/te/se pronoun usage
 - [[indirect-object-pronouns]] (not yet created) — full IOP chart
 
@@ -63,3 +65,6 @@ This doubling is mandatory — you cannot drop the pronoun even when the full no
 
 From `raw/2026-05-02_session.md`:
 - *Yo te doy los libros.* — I give you the books. (te = indirect object, doy = dar yo-form)
+
+From `raw/2026-08-08_session.md`:
+- *Yo le voy a hacer unos aretes a ella para Navidad.* — I'm going to make her some earrings for Christmas. (a ella clarifies le, which would otherwise be ambiguous)

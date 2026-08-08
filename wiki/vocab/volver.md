@@ -2,7 +2,7 @@
 cefr: A1
 stage: encountered
 type: verb
-last_updated: 2026-04-18
+last_updated: 2026-08-08
 ---
 
 **Meaning:** to return, to come back; `volver a + infinitive` = to do something again

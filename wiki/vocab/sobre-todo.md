@@ -2,7 +2,7 @@
 cefr: A2
 stage: encountered
 type: adverb
-last_updated: 2026-07-23
+last_updated: 2026-08-08
 ---
 
 **Meaning:** above all; especially; mainly; most of all
