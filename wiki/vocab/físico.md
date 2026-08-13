@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-14
 ---
 
-**Meaning:** physical
+**Meaning:** physical; (noun) physique, physicist
 
-**Pattern:** Use with article `el/la físico`
+**Pattern:** Adjective: `ejercicio físico` (physical exercise). Noun (masculine): `el físico` = physique or physicist. Feminine: `la física` = physics (the subject).
 
-**Example:** *El/la físico es importante.* — The physical is important.
+**Example:** *El ejercicio físico es muy importante para la salud.* — Physical exercise is very important for health.

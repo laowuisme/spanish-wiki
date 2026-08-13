@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-27
+last_updated: 2026-08-14
 ---
 
 **Meaning:** manager
 
-**Pattern:** Use with article `el/la gerente`
+**Pattern:** el/la gerente (same form for masculine and feminine)
 
-**Example:** *El/la gerente es importante.* — The manager is important.
+**Example:** *La gerente aprobó mi solicitud de vacaciones.* — The manager approved my vacation request.

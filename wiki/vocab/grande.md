@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-14
 ---
 
 **Meaning:** big
 
-**Pattern:** Use with article `el/la grande`
+**Pattern:** Shortens to "gran" before a singular noun (gran/grande); plural: grandes
 
-**Example:** *El/la grande es importante.* — The big is important.
+**Example:** *Viven en una casa grande.* — They live in a big house.

@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** festival
 
-**Pattern:** Use with article `el/la festival`
+**Pattern:** el festival (masculine)
 
-**Example:** *El/la festival es importante.* — The festival is important.
+**Example:** *El festival de música dura tres días.* — The music festival lasts three days.

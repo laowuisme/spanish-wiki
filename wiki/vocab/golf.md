@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** golf
 
-**Pattern:** Use with article `el/la golf`
+**Pattern:** el golf (masculine)
 
-**Example:** *El/la golf es importante.* — The golf is important.
+**Example:** *Mi abuelo juega golf los fines de semana.* — My grandfather plays golf on weekends.

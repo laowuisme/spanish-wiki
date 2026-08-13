@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** cap
 
-**Pattern:** Use with article `el/la gorra`
+**Pattern:** la gorra (feminine)
 
-**Example:** *El/la gorra es importante.* — The cap is important.
+**Example:** *Lleva una gorra roja.* — He's wearing a red cap.

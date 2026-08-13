@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adverb
+last_updated: 2026-08-14
 ---
 
 **Meaning:** outside
 
-**Pattern:** Use with article `el/la fuera`
+**Pattern:** Opposite of dentro; also used with prepositions: fuera de (outside of)
 
-**Example:** *El/la fuera es importante.* — The outside is important.
+**Example:** *Los niños están jugando fuera.* — The kids are playing outside.

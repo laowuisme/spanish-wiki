@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** fruit
 
-**Pattern:** Use with article `el/la fruta`
+**Pattern:** la fruta (feminine, collective/uncountable); an individual piece: una fruta
 
-**Example:** *Me gusta el/la fruta.* — I like fruit.
+**Example:** *Como fruta todos los días.* — I eat fruit every day.

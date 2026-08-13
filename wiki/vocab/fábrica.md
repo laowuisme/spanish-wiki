@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** factory
 
-**Pattern:** Use with article `el/la fábrica`
+**Pattern:** la fábrica (feminine)
 
-**Example:** *El/la fábrica es importante.* — The factory is important.
+**Example:** *Mi padre trabaja en una fábrica de coches.* — My father works in a car factory.

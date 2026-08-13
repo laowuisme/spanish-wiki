@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** photography
 
-**Pattern:** Use with article `el/la fotografía`
+**Pattern:** la fotografía (feminine)
 
-**Example:** *El/la fotografía es importante.* — The photography is important.
+**Example:** *Estudia fotografía en la universidad.* — She studies photography at university.

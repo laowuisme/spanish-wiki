@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: adverb
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
-**Meaning:** finally, in the end, At last
+**Meaning:** finally, in the end, at last
 
-**Pattern:** Modifies verbs, adjectives, or other adverbs
+**Pattern:** Formed from adjective final + -mente; usually placed at the start or end of the sentence
 
-**Example:** *Lo hizo finalmente.* — He/she did it finally.
+**Example:** *Finalmente llegamos a casa después de un largo viaje.* — We finally got home after a long trip.

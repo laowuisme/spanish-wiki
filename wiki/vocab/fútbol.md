@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** soccer
 
-**Pattern:** Use with article `el/la fútbol`
+**Pattern:** el fútbol (masculine); note "fútbol americano" for American football
 
-**Example:** *El/la fútbol es importante.* — The soccer is important.
+**Example:** *Los domingos jugamos fútbol en el parque.* — On Sundays we play soccer in the park.

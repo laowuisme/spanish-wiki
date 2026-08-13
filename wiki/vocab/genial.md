@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-14
 ---
 
-**Meaning:** cool
+**Meaning:** cool, great
 
-**Pattern:** Use with article `el/la genial`
+**Pattern:** Invariable for gender (genial/genial); plural: geniales
 
-**Example:** *El/la genial es importante.* — The cool is important.
+**Example:** *¡Qué idea tan genial!* — What a great idea!

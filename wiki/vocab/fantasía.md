@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** fantasy
 
-**Pattern:** Use with article `el/la fantasía`
+**Pattern:** la fantasía (feminine); plural: fantasías
 
-**Example:** *El/la fantasía es importante.* — The fantasy is important.
+**Example:** *Vivir en la fantasía no ayuda a resolver problemas reales.* — Living in fantasy doesn't help solve real problems.

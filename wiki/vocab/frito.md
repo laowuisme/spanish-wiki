@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-14
 ---
 
 **Meaning:** fried
 
-**Pattern:** Use with article `el/la frito`
+**Pattern:** Irregular past participle of freír used as an adjective; agrees in gender/number: frito/frita/fritos/fritas
 
-**Example:** *El/la frito es importante.* — The fried is important.
+**Example:** *Me encanta el pollo frito.* — I love fried chicken.

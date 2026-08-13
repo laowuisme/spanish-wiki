@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: phrase
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** weekend
 
-**Pattern:** Fixed expression: `fin de semana`
+**Pattern:** Fixed noun phrase (m): el fin de semana; plural: los fines de semana
 
-**Example:** *Fin de semana.* — — Weekend.
+**Example:** *¿Qué planes tienes para el fin de semana?* — What plans do you have for the weekend?

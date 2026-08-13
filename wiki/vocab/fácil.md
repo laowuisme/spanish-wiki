@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-14
 ---
 
 **Meaning:** easy
 
-**Pattern:** Use with article `el/la fácil`
+**Pattern:** Invariable for gender (fácil/fácil); plural: fáciles
 
-**Example:** *El/la fácil es importante.* — The easy is important.
+**Example:** *Este examen fue muy fácil.* — This exam was very easy.

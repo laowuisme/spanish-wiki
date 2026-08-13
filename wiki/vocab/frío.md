@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-14
 ---
 
 **Meaning:** cold
 
-**Pattern:** Use with article `el/la frío`
+**Pattern:** Also used as a noun (el frío = the cold); common in idioms with tener/hacer: tengo frío, hace frío
 
-**Example:** *El/la frío es importante.* — The cold is important.
+**Example:** *El café está frío.* — The coffee is cold.

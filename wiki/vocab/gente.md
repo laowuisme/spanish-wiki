@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** people
 
-**Pattern:** Use with article `el/la gente`
+**Pattern:** la gente (feminine, grammatically singular even though "people" is plural in English) — takes a singular verb
 
-**Example:** *El/la gente es importante.* — The people is important.
+**Example:** *Había mucha gente en el concierto.* — There were a lot of people at the concert.

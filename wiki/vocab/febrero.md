@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** February
 
-**Pattern:** Month; no capital letter in Spanish; use *en febrero* for 'in febrero'
+**Pattern:** Months in Spanish are lowercase, not capitalized like in English; use *en febrero* for "in February"
 
 **Example:** *Mi cumpleaños es en febrero.* — My birthday is in February.

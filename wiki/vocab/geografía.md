@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** geography
 
-**Pattern:** Use with article `el/la geografía`
+**Pattern:** la geografía (feminine)
 
-**Example:** *El/la geografía es importante.* — The geography is important.
+**Example:** *Estudiamos geografía en la escuela.* — We study geography at school.

@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** photos, picture, photo
 
-**Pattern:** Use with article `el/la foto`
+**Pattern:** la foto (feminine, short for "fotografía"); plural: fotos
 
-**Example:** *El/la foto es importante.* — The photos is important.
+**Example:** *Saqué una foto del atardecer.* — I took a photo of the sunset.

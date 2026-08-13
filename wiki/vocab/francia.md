@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** France
 
-**Pattern:** Use with article `el/la Francia`
+**Pattern:** Proper noun; country names generally don't take an article: Francia (not "la Francia")
 
-**Example:** *El/la Francia es importante.* — The france is important.
+**Example:** *Viajamos a Francia el próximo verano.* — We're traveling to France next summer.

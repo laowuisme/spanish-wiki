@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** party
 
-**Pattern:** Use with article `el/la fiesta`
+**Pattern:** la fiesta (feminine)
 
-**Example:** *Me gusta el/la fiesta.* — I like party.
+**Example:** *Vamos a una fiesta el sábado.* — We're going to a party on Saturday.

@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-14
 ---
 
 **Meaning:** funny
 
-**Pattern:** Use with article `el/la graciosa`
+**Pattern:** Feminine form of gracioso; agrees in gender/number: gracioso/graciosa/graciosos/graciosas
 
-**Example:** *El/la graciosa es importante.* — The funny is important.
+**Example:** *Esa película fue muy graciosa.* — That movie was very funny.

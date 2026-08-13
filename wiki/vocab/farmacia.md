@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** drugstore, pharmacy
 
-**Pattern:** Use with article `el/la farmacia`
+**Pattern:** la farmacia (feminine)
 
-**Example:** *El/la farmacia es importante.* — The drugstore is important.
+**Example:** *Voy a la farmacia a comprar medicina.* — I'm going to the pharmacy to buy medicine.

@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-14
 ---
 
 **Meaning:** ugly
 
-**Pattern:** Use with article `el/la feo`
+**Pattern:** Agrees in gender/number: feo/fea/feos/feas
 
-**Example:** *El/la feo es importante.* — The ugly is important.
+**Example:** *Ese perro es muy feo.* — That dog is very ugly.

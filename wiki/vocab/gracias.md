@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: interjection
+last_updated: 2026-08-14
 ---
 
 **Meaning:** thank you
 
-**Pattern:** Use with article `el/la gracias`
+**Pattern:** Grammatically the plural of "gracia"; used alone or intensified with muchas gracias
 
-**Example:** *El/la gracias es importante.* — The thank you is important.
+**Example:** *Muchas gracias por la invitación.* — Thank you very much for the invitation.

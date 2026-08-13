@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: phrase
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
-**Meaning:** Thank you for
+**Meaning:** thank you for
 
-**Pattern:** Fixed expression: `gracias por`
+**Pattern:** Followed by a noun or infinitive: gracias por + noun/infinitivo
 
-**Example:** *Gracias por.* — — Thank you for.
+**Example:** *Gracias por tu ayuda.* — Thank you for your help.

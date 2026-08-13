@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** end
 
-**Pattern:** Use with article `el/la final`
+**Pattern:** el final (masculine); as an adjective, "final" means "final/last"
 
-**Example:** *El/la final es importante.* — The end is important.
+**Example:** *No me gustó el final de la película.* — I didn't like the ending of the movie.

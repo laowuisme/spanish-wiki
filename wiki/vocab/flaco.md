@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-14
 ---
 
 **Meaning:** skinny
 
-**Pattern:** Use with article `el/la flaco`
+**Pattern:** Agrees in gender/number: flaco/flaca/flacos/flacas
 
-**Example:** *El/la flaco es importante.* — The skinny is important.
+**Example:** *Mi hermano es muy flaco.* — My brother is very skinny.

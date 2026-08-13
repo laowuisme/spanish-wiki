@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-14
 ---
 
 **Meaning:** fantastic
 
-**Pattern:** Use with article `el/la fantástico`
+**Pattern:** Agrees in gender/number: fantástico/fantástica/fantásticos/fantásticas
 
-**Example:** *El/la fantástico es importante.* — The fantastic is important.
+**Example:** *La película fue fantástica.* — The movie was fantastic.

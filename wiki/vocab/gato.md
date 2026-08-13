@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** cat
 
-**Pattern:** Use with article `el/la gato`
+**Pattern:** el gato / la gata (masculine/feminine)
 
-**Example:** *El/la gato es importante.* — The cat is important.
+**Example:** *Mi gato duerme todo el día.* — My cat sleeps all day.

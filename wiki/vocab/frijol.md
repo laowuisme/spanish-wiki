@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** bean
 
-**Pattern:** Use with article `el/la frijol`
+**Pattern:** el frijol (masculine); often used in the plural: frijoles
 
-**Example:** *El/la frijol es importante.* — The bean is important.
+**Example:** *Comimos arroz con frijoles.* — We ate rice with beans.

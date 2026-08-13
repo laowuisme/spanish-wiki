@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** gymnastics
 
-**Pattern:** Use with article `el/la gimnasia`
+**Pattern:** la gimnasia (feminine)
 
-**Example:** *El/la gimnasia es importante.* — The gymnastics is important.
+**Example:** *Hace gimnasia todas las mañanas.* — She does gymnastics every morning.
