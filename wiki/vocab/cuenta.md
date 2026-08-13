@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** check
 
-**Pattern:** Use with article `el/la cuenta`
+**Pattern:** Feminine noun: la cuenta; plural cuentas — also means "account" (e.g. bank account).
 
-**Example:** *El/la cuenta es importante.* — The check is important.
+**Example:** *¿Nos trae la cuenta, por favor?* — Could you bring us the check, please?

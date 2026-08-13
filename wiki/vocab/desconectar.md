@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: verb
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
-**Meaning:** (to) turn off, disconnect, turn
+**Meaning:** to turn off, disconnect, unplug
 
-**Pattern:** `desconectar` — regular use: (to) turn off
+**Pattern:** Regular -ar verb: desconecto, desconectas, desconecta, desconectamos, desconectáis, desconectan.
 
-**Example:** *Necesito desconectar.* — I need to turn off.
+**Example:** *Voy a desconectar el ordenador.* — I'm going to unplug the computer.

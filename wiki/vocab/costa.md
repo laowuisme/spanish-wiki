@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** coast
 
-**Pattern:** Use with article `el/la costa`
+**Pattern:** Feminine noun: la costa; plural costas.
 
-**Example:** *El/la costa es importante.* — The coast is important.
+**Example:** *Vivimos cerca de la costa.* — We live near the coast.

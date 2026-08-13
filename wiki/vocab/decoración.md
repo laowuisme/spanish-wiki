@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** decoration
 
-**Pattern:** Use with article `el/la decoración`
+**Pattern:** Feminine noun: la decoración; plural decoraciones.
 
-**Example:** *El/la decoración es importante.* — The decoration is important.
+**Example:** *Me encanta la decoración de tu casa.* — I love your house's decoration.

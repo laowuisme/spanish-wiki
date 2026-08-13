@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** four
 
-**Pattern:** Use with article `el/la cuatro`
+**Pattern:** Invariable cardinal number; precedes the noun (cuatro hermanos).
 
-**Example:** *El/la cuatro es importante.* — The four is important.
+**Example:** *Tengo cuatro hermanos.* — I have four siblings.

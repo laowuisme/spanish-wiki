@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** breakfast
 
-**Pattern:** Use with article `el/la desayuno`
+**Pattern:** Masculine noun: el desayuno; plural desayunos.
 
-**Example:** *Me gusta el/la desayuno.* — I like breakfast.
+**Example:** *El desayuno es la comida más importante del día.* — Breakfast is the most important meal of the day.

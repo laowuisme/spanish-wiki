@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: verb
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** to run, run
 
-**Pattern:** `correr` — regular use: run
+**Pattern:** Regular -er verb: corro, corres, corre, corremos, corréis, corren.
 
-**Example:** *Necesito correr.* — I need to run.
+**Example:** *Corro todas las mañanas.* — I run every morning.

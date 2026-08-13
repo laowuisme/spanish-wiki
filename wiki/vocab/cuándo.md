@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adverb
+last_updated: 2026-08-13
 ---
 
 **Meaning:** when
 
-**Pattern:** Use with article `el/la cuándo`
+**Pattern:** Interrogative/exclamative adverb, always written with an accent. Contrast with the unaccented conjunction [[cuando]], which introduces a time clause rather than asking a question.
 
-**Example:** *El/la cuándo es importante.* — The when is important.
+**Example:** *¿Cuándo llegas?* — When are you arriving?

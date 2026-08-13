@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: phrase
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** how are you
 
-**Pattern:** Fixed expression: `cómo estás`
+**Pattern:** Fixed expression `¿cómo estás?` — informal greeting using estar (tú form).
 
-**Example:** *Cómo estás.* — — How are you.
+**Example:** *¡Hola! ¿Cómo estás?* — Hi! How are you?

@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-13
 ---
 
 **Meaning:** how many
 
-**Pattern:** Use with article `el/la cuántos`
+**Pattern:** Interrogative adjective/pronoun, masculine plural; agrees with the noun it modifies.
 
-**Example:** *El/la cuántos es importante.* — The how many is important.
+**Example:** *¿Cuántos hermanos tienes?* — How many siblings do you have?

@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-13
 ---
 
 **Meaning:** comfortable
 
-**Pattern:** Use with article `el/la cómodo`
+**Pattern:** Adjective; agrees in gender/number: cómodo/cómoda/cómodos/cómodas.
 
-**Example:** *El/la cómodo es importante.* — The comfortable is important.
+**Example:** *Este sofá es muy cómodo.* — This sofa is very comfortable.

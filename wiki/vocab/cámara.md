@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** camera
 
-**Pattern:** Use with article `el/la cámara`
+**Pattern:** Feminine noun: la cámara; plural cámaras.
 
-**Example:** *El/la cámara es importante.* — The camera is important.
+**Example:** *Compré una cámara nueva.* — I bought a new camera.

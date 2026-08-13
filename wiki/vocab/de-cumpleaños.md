@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: phrase
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** birthday
 
-**Pattern:** Fixed expression: `de cumpleaños`
+**Pattern:** Used adjectivally after a noun: `pastel de cumpleaños` (birthday cake), `fiesta de cumpleaños` (birthday party).
 
-**Example:** *De cumpleaños.* — — Birthday.
+**Example:** *Vamos a comprar un pastel de cumpleaños.* — We're going to buy a birthday cake.

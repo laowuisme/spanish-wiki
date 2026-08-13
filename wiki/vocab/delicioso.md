@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-13
 ---
 
 **Meaning:** delicious
 
-**Pattern:** Use with article `el/la delicioso`
+**Pattern:** Adjective; agrees in gender/number: delicioso/deliciosa/deliciosos/deliciosas.
 
-**Example:** *El/la delicioso es importante.* — The delicious is important.
+**Example:** *La comida está deliciosa.* — The food is delicious.

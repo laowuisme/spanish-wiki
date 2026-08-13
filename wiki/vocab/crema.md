@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** cream
 
-**Pattern:** Use with article `el/la crema`
+**Pattern:** Feminine noun: la crema; plural cremas.
 
-**Example:** *Me gusta el/la crema.* — I like cream.
+**Example:** *Necesito crema para las manos.* — I need hand cream.

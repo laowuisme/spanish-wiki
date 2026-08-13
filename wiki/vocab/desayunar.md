@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: verb
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** to have breakfast, have breakfast
 
-**Pattern:** `desayunar` — regular use: have breakfast
+**Pattern:** Regular -ar verb: desayuno, desayunas, desayuna, desayunamos, desayunáis, desayunan.
 
-**Example:** *Necesito desayunar.* — I need to have breakfast.
+**Example:** *Desayuno café con tostadas todos los días.* — I have coffee with toast for breakfast every day.

@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adverb
+last_updated: 2026-08-13
 ---
 
 **Meaning:** how
 
-**Pattern:** Use with article `el/la cómo`
+**Pattern:** Interrogative/exclamative adverb, always accented in questions; contrast with the unaccented relative *como* ("as/like").
 
-**Example:** *El/la cómo es importante.* — The how is important.
+**Example:** *¿Cómo estás?* — How are you?

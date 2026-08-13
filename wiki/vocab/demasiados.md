@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-13
 ---
 
-**Meaning:** too, too many, very
+**Meaning:** too many
 
-**Pattern:** Use with article `el/la demasiados`
+**Pattern:** Masculine plural of `demasiado`; agrees in gender/number: demasiado/demasiada/demasiados/demasiadas.
 
-**Example:** *El/la demasiados es importante.* — The too is important.
+**Example:** *Compré demasiados libros.* — I bought too many books.

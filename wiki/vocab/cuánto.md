@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-13
 ---
 
-**Meaning:** how
+**Meaning:** how much
 
-**Pattern:** Use with article `el/la cuánto`
+**Pattern:** Interrogative adjective/pronoun, masculine singular; also used as an adverb (¿cuánto cuesta?). Agrees: cuánto/cuánta/cuántos/cuántas.
 
-**Example:** *El/la cuánto es importante.* — The how is important.
+**Example:** *¿Cuánto tiempo tienes?* — How much time do you have?

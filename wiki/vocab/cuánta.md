@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-13
 ---
 
 **Meaning:** how much
 
-**Pattern:** Use with article `el/la cuánta`
+**Pattern:** Interrogative adjective/pronoun, feminine singular; agrees with the noun it modifies: cuánto/cuánta/cuántos/cuántas.
 
-**Example:** *El/la cuánta es importante.* — The how much is important.
+**Example:** *¿Cuánta agua necesitas?* — How much water do you need?

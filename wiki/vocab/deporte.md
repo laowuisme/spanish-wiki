@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** sport
 
-**Pattern:** Use with article `el/la deporte`
+**Pattern:** Masculine noun: el deporte; plural deportes.
 
-**Example:** *El/la deporte es importante.* — The sport is important.
+**Example:** *Practico deporte todos los fines de semana.* — I play sports every weekend.

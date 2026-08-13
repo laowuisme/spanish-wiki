@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** notebook
 
-**Pattern:** Use with article `el/la cuaderno`
+**Pattern:** Masculine noun: el cuaderno; plural cuadernos.
 
-**Example:** *El/la cuaderno es importante.* — The notebook is important.
+**Example:** *Escribo los apuntes en mi cuaderno.* — I write my notes in my notebook.

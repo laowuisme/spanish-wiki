@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: pronoun
+last_updated: 2026-08-13
 ---
 
 **Meaning:** which
 
-**Pattern:** Use with article `el/la cuál`
+**Pattern:** Interrogative pronoun; plural cuáles. Used instead of qué when selecting among options.
 
-**Example:** *El/la cuál es importante.* — The which is important.
+**Example:** *¿Cuál es tu color favorito?* — What is your favorite color?

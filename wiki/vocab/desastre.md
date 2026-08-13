@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** disaster
 
-**Pattern:** Use with article `el/la desastre`
+**Pattern:** Masculine noun: el desastre; plural desastres.
 
-**Example:** *El/la desastre es importante.* — The disaster is important.
+**Example:** *La fiesta fue un desastre.* — The party was a disaster.

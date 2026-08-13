@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: phrase
+last_updated: 2026-08-13
 ---
 
 **Meaning:** it depends
 
-**Pattern:** Use with article `el/la depende`
+**Pattern:** Fixed expression, from the verb `depender` (3rd person singular present) — used alone as a reply meaning "it depends".
 
-**Example:** *El/la depende es importante.* — The it depends is important.
+**Example:** *—¿Vienes a la fiesta? —Depende.* — "Are you coming to the party?" "It depends."
