@@ -1,5 +1,5 @@
 # Wiki Index
-_Last updated: 2026-08-08 | 1665 pages total_
+_Last updated: 2026-08-13 | 1665 pages total_
 
 ## Topics
 - [[ahi-vs-alli]] — ahí (near listener) vs allí (over there); three-way distance system (A2, encountered)
@@ -64,7 +64,7 @@ _Last updated: 2026-08-08 | 1665 pages total_
 - [[abierto]] — open (A2, encountered)
 - [[abogada]] — (female) lawyer, attorney (A1, encountered)
 - [[abogado]] — lawyer (A2, encountered)
-- [[abrigo]] — coat, shelter's (A2, encountered)
+- [[abrigo]] — coat, overcoat (A2, encountered)
 - [[abril]] — April (A2, encountered)
 - [[abrir]] — to open, open (A2, encountered)
 - [[abuela]] — grandmother (A2, encountered)

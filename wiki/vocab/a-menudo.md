@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: phrase
-last_updated: 2026-06-19
+type: adverb
+last_updated: 2026-08-13
 ---
 
 **Meaning:** often
 
-**Pattern:** Fixed expression: `a menudo`
+**Pattern:** Adverb of frequency; usually placed after the verb.
 
-**Example:** *A menudo.* — — Often.
+**Example:** *Voy al gimnasio a menudo.* — I go to the gym often.

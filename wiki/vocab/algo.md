@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: pronoun
+last_updated: 2026-08-13
 ---
 
 **Meaning:** something
 
-**Pattern:** Use with article `el/la algo`
+**Pattern:** Indefinite pronoun, invariable; opposite of `nada`.
 
-**Example:** *El/la algo es importante.* — The something is important.
+**Example:** *¿Quieres comer algo?* — Do you want to eat something?

@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** grandparents
 
-**Pattern:** Use with article `el/la abuelos`
+**Pattern:** Masculine plural noun: `los abuelos`; used generically for "grandparents."
 
-**Example:** *El/la abuelos es importante.* — The grandparents is important.
+**Example:** *Voy a visitar a mis abuelos este fin de semana.* — I'm going to visit my grandparents this weekend.

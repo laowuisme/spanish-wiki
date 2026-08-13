@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** lawyer
 
-**Pattern:** Use with article `el/la abogado`
+**Pattern:** Masculine noun: `el abogado`; feminine form is `la abogada`.
 
-**Example:** *El/la abogado es importante.* — The lawyer is important.
+**Example:** *Mi hermana es abogada.* — My sister is a lawyer.

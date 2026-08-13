@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-13
 ---
 
 **Meaning:** German
 
-**Pattern:** Use with article `el/la alemán`
+**Pattern:** Adjective of nationality (alemán/alemana/alemanes/alemanas); also used as the masculine noun for the language.
 
-**Example:** *El/la alemán es importante.* — The german is important.
+**Example:** *Ella habla alemán muy bien.* — She speaks German very well.

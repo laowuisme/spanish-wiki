@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: phrase
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** at the end of
 
-**Pattern:** Fixed expression: `al final de`
+**Pattern:** Prepositional phrase: `al final de + [noun]` — "at the end of [noun]."
 
-**Example:** *Al final de.* — — At the end of.
+**Example:** *El banco está al final de la calle.* — The bank is at the end of the street.

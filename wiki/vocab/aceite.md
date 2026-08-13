@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** oil
 
-**Pattern:** Use with article `el/la aceite`
+**Pattern:** Masculine noun: `el aceite`.
 
-**Example:** *Me gusta el/la aceite.* — I like oil.
+**Example:** *Necesito aceite de oliva para la receta.* — I need olive oil for the recipe.

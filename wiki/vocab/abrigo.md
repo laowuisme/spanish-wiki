@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
-**Meaning:** coat, shelter's
+**Meaning:** coat, overcoat
 
-**Pattern:** Use with article `el/la abrigo`
+**Pattern:** Masculine noun: `el abrigo`.
 
-**Example:** *El/la abrigo es importante.* — The coat is important.
+**Example:** *Necesito un abrigo nuevo para el invierno.* — I need a new coat for the winter.

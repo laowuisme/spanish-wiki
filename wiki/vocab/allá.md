@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adverb
+last_updated: 2026-08-13
 ---
 
 **Meaning:** there
 
-**Pattern:** Use with article `el/la allá`
+**Pattern:** Adverb of place; farther or vaguer than `allí`, often used with verbs of movement.
 
-**Example:** *El/la allá es importante.* — The there is important.
+**Example:** *Vamos a mudarnos allá el próximo año.* — We're going to move there next year.

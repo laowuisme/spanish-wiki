@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** alcohol
 
-**Pattern:** Use with article `el/la alcohol`
+**Pattern:** Masculine noun: `el alcohol`.
 
-**Example:** *El/la alcohol es importante.* — The alcohol is important.
+**Example:** *No bebo alcohol durante la semana.* — I don't drink alcohol during the week.

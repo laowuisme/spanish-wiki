@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** actress
 
-**Pattern:** Use with article `el/la actriz`
+**Pattern:** Feminine noun: `la actriz`; masculine form is `actor`.
 
-**Example:** *El/la actriz es importante.* — The actress is important.
+**Example:** *La actriz ganó un premio.* — The actress won an award.

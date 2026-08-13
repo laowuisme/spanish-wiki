@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: adverb
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** fortunately
 
-**Pattern:** Modifies verbs, adjectives, or other adverbs
+**Pattern:** Sentence adverb formed with `-mente`; usually placed at the start of the sentence.
 
-**Example:** *Lo hizo afortunadamente.* — He/she did it fortunately.
+**Example:** *Afortunadamente, no llovió durante el viaje.* — Fortunately, it didn't rain during the trip.

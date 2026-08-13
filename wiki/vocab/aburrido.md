@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-13
 ---
 
 **Meaning:** boring
 
-**Pattern:** Use with article `el/la aburrido`
+**Pattern:** Adjective; agrees in gender/number (aburrido/aburrida); with `ser` = boring, with `estar` = bored.
 
-**Example:** *El/la aburrido es importante.* — The boring is important.
+**Example:** *Esta película es aburrida.* — This movie is boring.

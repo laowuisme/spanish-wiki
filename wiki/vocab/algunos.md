@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-13
 ---
 
 **Meaning:** some
 
-**Pattern:** Use with article `el/la algunos`
+**Pattern:** Masculine plural form of `alguno`.
 
-**Example:** *El/la algunos es importante.* — The some is important.
+**Example:** *Algunos estudiantes llegaron tarde.* — Some students arrived late.

@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-13
 ---
 
 **Meaning:** any
 
-**Pattern:** Use with article `el/la algún`
+**Pattern:** Apocopated (shortened) form of `alguno`, used before masculine singular nouns.
 
-**Example:** *El/la algún es importante.* — The any is important.
+**Example:** *¿Tienes algún libro sobre historia?* — Do you have any book about history?

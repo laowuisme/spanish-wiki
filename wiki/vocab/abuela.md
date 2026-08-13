@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** grandmother
 
-**Pattern:** Use with article `el/la abuela`
+**Pattern:** Feminine noun: `la abuela`; masculine form is `abuelo`.
 
-**Example:** *El/la abuela es importante.* — The grandmother is important.
+**Example:** *Mi abuela vive en Madrid.* — My grandmother lives in Madrid.

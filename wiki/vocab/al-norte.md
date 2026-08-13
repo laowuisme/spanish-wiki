@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: verb
-last_updated: 2026-06-19
+type: phrase
+last_updated: 2026-08-13
 ---
 
 **Meaning:** to the north
 
-**Pattern:** `al norte` — regular use: the north
+**Pattern:** Prepositional phrase: `al norte (de)` — "to the north (of)."
 
-**Example:** *Necesito al norte.* — I need to the north.
+**Example:** *Barcelona está al norte de Valencia.* — Barcelona is to the north of Valencia.

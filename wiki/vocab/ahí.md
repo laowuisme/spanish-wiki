@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adverb
+last_updated: 2026-08-13
 ---
 
 **Meaning:** there
 
-**Pattern:** Use with article `el/la ahí`
+**Pattern:** Adverb of place; refers to somewhere near the listener (between `aquí` and `allí`).
 
-**Example:** *El/la ahí es importante.* — The there is important.
+**Example:** *Deja el libro ahí.* — Leave the book there.

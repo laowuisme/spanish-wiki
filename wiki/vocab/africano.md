@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-13
 ---
 
 **Meaning:** African
 
-**Pattern:** Use with article `el/la africano`
+**Pattern:** Adjective of nationality; agrees in gender/number (africano/africana); lowercase in Spanish.
 
-**Example:** *El/la africano es importante.* — The african is important.
+**Example:** *Ella tiene un amigo africano.* — She has an African friend.

@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** garlic
 
-**Pattern:** Use with article `el/la ajo`
+**Pattern:** Masculine noun: `el ajo`.
 
-**Example:** *Me gusta el/la ajo.* — I like garlic.
+**Example:** *Esta salsa lleva mucho ajo.* — This sauce has a lot of garlic.

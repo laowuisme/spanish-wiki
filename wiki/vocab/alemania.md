@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** Germany
 
-**Pattern:** Use with article `el/la Alemania`
+**Pattern:** Proper noun (country name); capitalized: `Alemania`; no article needed.
 
-**Example:** *El/la Alemania es importante.* — The germany is important.
+**Example:** *Vivo en Alemania desde hace dos años.* — I've been living in Germany for two years.

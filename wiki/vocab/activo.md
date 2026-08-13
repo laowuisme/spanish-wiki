@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-13
 ---
 
 **Meaning:** active
 
-**Pattern:** Use with article `el/la activo`
+**Pattern:** Adjective; agrees in gender/number (activo/activa).
 
-**Example:** *El/la activo es importante.* — The active is important.
+**Example:** *Mi abuelo todavía es muy activo.* — My grandfather is still very active.

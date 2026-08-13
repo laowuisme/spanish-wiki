@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: phrase
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** noon
 
-**Pattern:** Fixed expression: `al mediodía`
+**Pattern:** Fixed time phrase: `al mediodía` — "at noon/midday."
 
-**Example:** *Al mediodía.* — — Noon.
+**Example:** *Comemos al mediodía.* — We eat at noon.

@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: interjection
+last_updated: 2026-08-13
 ---
 
 **Meaning:** ah
 
-**Pattern:** Use with article `el/la ah`
+**Pattern:** Interjection, invariable; expresses surprise or realization.
 
-**Example:** *El/la ah es importante.* — The ah is important.
+**Example:** *¡Ah, ya entiendo!* — Ah, now I understand!

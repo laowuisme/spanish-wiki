@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-13
 ---
 
 **Meaning:** pleasant
 
-**Pattern:** Use with article `el/la agradable`
+**Pattern:** Adjective; same form for masculine/feminine (ends in -e); add -s for plural.
 
-**Example:** *El/la agradable es importante.* — The pleasant is important.
+**Example:** *El clima aquí es muy agradable.* — The weather here is very pleasant.

@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: verb
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** to have lunch, have lunch
 
-**Pattern:** `almorzar` — regular use: have lunch
+**Pattern:** Stem-changing verb (o→ue) in the present tense: `almuerzo, almuerzas, almuerza, almorzamos, almorzáis, almuerzan`.
 
-**Example:** *Necesito almorzar.* — I need to have lunch.
+**Example:** *Almorzamos juntos todos los viernes.* — We have lunch together every Friday.
