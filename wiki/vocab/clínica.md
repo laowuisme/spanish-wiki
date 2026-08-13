@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** clinic
 
-**Pattern:** Use with article `el/la clínica`
+**Pattern:** Feminine noun: `la clínica`
 
-**Example:** *El/la clínica es importante.* — The clinic is important.
+**Example:** *Trabajo en una clínica dental.* — I work at a dental clinic.

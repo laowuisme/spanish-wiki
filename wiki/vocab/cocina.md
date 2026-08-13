@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** kitchen
 
-**Pattern:** Use with article `el/la cocina`
+**Pattern:** Feminine noun: `la cocina` (also "cuisine" or "stove")
 
-**Example:** *Me gusta el/la cocina.* — I like kitchen.
+**Example:** *La cocina de mi casa es pequeña.* — My house's kitchen is small.

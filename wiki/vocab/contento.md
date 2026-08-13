@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-13
 ---
 
 **Meaning:** happy
 
-**Pattern:** Use with article `el/la contento`
+**Pattern:** Adjective, agrees in gender/number: `contento/contenta`; used with `estar`, not `ser`
 
-**Example:** *El/la contento es importante.* — The happy is important.
+**Example:** *Estoy muy contento con los resultados.* — I'm very happy with the results.

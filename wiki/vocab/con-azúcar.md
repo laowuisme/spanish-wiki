@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: phrase
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** with sugar, sweetened, sugared
 
-**Pattern:** Fixed expression: `con azúcar`
+**Pattern:** Fixed prepositional phrase: `con azúcar`
 
-**Example:** *Con azúcar.* — — With sugar.
+**Example:** *Quiero el café con azúcar.* — I want the coffee with sugar.

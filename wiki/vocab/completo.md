@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-13
 ---
 
 **Meaning:** complete
 
-**Pattern:** Use with article `el/la completo`
+**Pattern:** Adjective, agrees in gender/number: `completo/completa`; also in the fixed phrase `por completo` ("completely")
 
-**Example:** *El/la completo es importante.* — The complete is important.
+**Example:** *El hotel está completo.* — The hotel is full.

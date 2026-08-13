@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: phrase
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** coworker
 
-**Pattern:** Fixed expression: `compañero de trabajo`
+**Pattern:** Fixed noun phrase (masculine): `el compañero de trabajo`
 
-**Example:** *Compañero de trabajo.* — — Coworker.
+**Example:** *Mi compañero de trabajo llega temprano.* — My coworker arrives early.

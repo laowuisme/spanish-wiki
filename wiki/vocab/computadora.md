@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** computer
 
-**Pattern:** Use with article `el/la computadora`
+**Pattern:** Feminine noun: `la computadora` (Latin America; Spain uses `el ordenador`)
 
-**Example:** *El/la computadora es importante.* — The computer is important.
+**Example:** *Escribo el informe en la computadora.* — I write the report on the computer.

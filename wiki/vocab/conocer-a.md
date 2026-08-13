@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: phrase
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** know
 
-**Pattern:** Fixed expression: `conocer a`
+**Pattern:** Verb phrase with personal "a": `conocer a` + person
 
-**Example:** *Conocer a.* — — Know.
+**Example:** *Quiero conocer a tu familia.* — I want to meet your family.

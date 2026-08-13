@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: phrase
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** email
 
-**Pattern:** Fixed expression: `correo electrónico`
+**Pattern:** Fixed compound noun (masculine): `el correo electrónico`
 
-**Example:** *Correo electrónico.* — — Email.
+**Example:** *Te envío el informe por correo electrónico.* — I'll send you the report by email.

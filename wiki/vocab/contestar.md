@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: verb
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** to answer, answer
 
-**Pattern:** `contestar` — regular use: answer
+**Pattern:** Regular `-ar` verb: `contesto, contestas, contesta...`
 
-**Example:** *Necesito contestar.* — I need to answer.
+**Example:** *No pude contestar la pregunta.* — I couldn't answer the question.

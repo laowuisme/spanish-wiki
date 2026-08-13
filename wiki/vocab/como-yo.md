@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: phrase
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** like me
 
-**Pattern:** Fixed expression: `como yo`
+**Pattern:** Comparison phrase: `como yo`
 
-**Example:** *Como yo.* — — Like me.
+**Example:** *Nadie cocina como yo.* — Nobody cooks like me.

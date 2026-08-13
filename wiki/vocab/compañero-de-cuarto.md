@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: phrase
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** roommate
 
-**Pattern:** Fixed expression: `compañero de cuarto`
+**Pattern:** Fixed noun phrase (masculine): `el compañero de cuarto`
 
-**Example:** *Compañero de cuarto.* — — Roommate.
+**Example:** *Mi compañero de cuarto es muy ordenado.* — My roommate is very tidy.

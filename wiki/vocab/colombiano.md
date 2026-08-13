@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-13
 ---
 
 **Meaning:** Colombian
 
-**Pattern:** Use with article `el/la colombiano`
+**Pattern:** Nationality adjective, agrees in gender/number: `colombiano/colombiana`; also used as a noun for a person from Colombia
 
-**Example:** *El/la colombiano es importante.* — The colombian is important.
+**Example:** *Mi amigo es colombiano, de Bogotá.* — My friend is Colombian, from Bogotá.

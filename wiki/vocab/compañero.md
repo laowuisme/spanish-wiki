@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** classmate
 
-**Pattern:** Use with article `el/la compañero`
+**Pattern:** Noun: `el compañero` / `la compañera`
 
-**Example:** *El/la compañero es importante.* — The classmate is important.
+**Example:** *Es mi compañero de clase.* — He's my classmate.

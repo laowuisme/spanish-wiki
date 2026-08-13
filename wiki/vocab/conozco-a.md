@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: phrase
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** know
 
-**Pattern:** Fixed expression: `conozco a`
+**Pattern:** Conjugated first-person present of `conocer` + personal "a": `conozco a` + person
 
-**Example:** *Conozco a.* — — Know.
+**Example:** *Conozco a tu hermana.* — I know your sister.

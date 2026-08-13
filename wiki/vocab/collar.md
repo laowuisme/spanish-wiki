@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: verb
-last_updated: 2026-06-19
+type: noun
+last_updated: 2026-08-13
 ---
 
 **Meaning:** necklace
 
-**Pattern:** `collar` — regular use: necklace
+**Pattern:** Masculine noun: `el collar`
 
-**Example:** *Necesito collar.* — I need to necklace.
+**Example:** *Ella lleva un collar de plata.* — She's wearing a silver necklace.

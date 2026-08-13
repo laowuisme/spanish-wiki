@@ -383,7 +383,7 @@ _Last updated: 2026-08-13 | 1665 pages total_
 - [[con-leche]] — with milk (A2, encountered)
 - [[con-pollo]] — with chicken (A2, encountered)
 - [[concierto]] — concert, concert's (A2, encountered)
-- [[concurso]] — (I) compete, (I) take part, (I) declare … insolvent (A2, encountered)
+- [[concurso]] — contest, competition (A2, encountered)
 - [[conducir]] — to drive (Spain); in Latin America: `manejar` (A2, encountered)
 - [[conductor]] — driver (A2, encountered)
 - [[conexión]] — contacts, connection, connecting (A2, encountered)

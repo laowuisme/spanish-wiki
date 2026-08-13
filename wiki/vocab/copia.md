@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** copying, copy, copies
 
-**Pattern:** Use with article `el/la copia`
+**Pattern:** Feminine noun: `la copia`
 
-**Example:** *El/la copia es importante.* — The copying is important.
+**Example:** *Necesito una copia de este documento.* — I need a copy of this document.

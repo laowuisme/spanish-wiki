@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** contacts, connection, connecting
 
-**Pattern:** Use with article `el/la conexión`
+**Pattern:** Feminine noun: `la conexión`
 
-**Example:** *El/la conexión es importante.* — The contacts is important.
+**Example:** *No tengo buena conexión a internet.* — I don't have a good internet connection.

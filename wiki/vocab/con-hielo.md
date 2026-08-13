@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: phrase
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** with ice
 
-**Pattern:** Fixed expression: `con hielo`
+**Pattern:** Fixed prepositional phrase: `con hielo`
 
-**Example:** *Con hielo.* — — With ice.
+**Example:** *Prefiero el refresco con hielo.* — I prefer the soda with ice.

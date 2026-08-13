@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: verb
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** to buy, buy
 
-**Pattern:** `comprar` — regular use: buy
+**Pattern:** Regular `-ar` verb: `compro, compras, compra...`
 
-**Example:** *Necesito comprar.* — I need to buy.
+**Example:** *Voy a comprar pan.* — I'm going to buy bread.

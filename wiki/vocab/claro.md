@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: interjection
+last_updated: 2026-08-13
 ---
 
 **Meaning:** of course
 
-**Pattern:** Use with article `el/la claro`
+**Pattern:** Common interjection meaning "of course / sure"; also exists as an adjective meaning "clear" or "light-colored" (`claro/clara/claros/claras`)
 
-**Example:** *El/la claro es importante.* — The of course is important.
+**Example:** *—¿Vienes a la fiesta? —¡Claro que sí!* — "Are you coming to the party?" "Of course!"

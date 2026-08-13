@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-13
 ---
 
 **Meaning:** classical
 
-**Pattern:** Use with article `el/la clásico`
+**Pattern:** Adjective, agrees in gender/number: `clásico/clásica/clásicos/clásicas`
 
-**Example:** *El/la clásico es importante.* — The classical is important.
+**Example:** *Me gusta la música clásica.* — I like classical music.

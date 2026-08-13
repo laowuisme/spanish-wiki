@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** driver
 
-**Pattern:** Use with article `el/la conductor`
+**Pattern:** Noun: `el conductor` / `la conductora`
 
-**Example:** *El/la conductor es importante.* — The driver is important.
+**Example:** *El conductor del autobús es muy amable.* — The bus driver is very kind.

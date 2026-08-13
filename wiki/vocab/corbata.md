@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** tie
 
-**Pattern:** Use with article `el/la corbata`
+**Pattern:** Feminine noun: `la corbata`
 
-**Example:** *El/la corbata es importante.* — The tie is important.
+**Example:** *Lleva traje y corbata para la entrevista.* — He's wearing a suit and tie for the interview.

@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: pronoun
+last_updated: 2026-08-13
 ---
 
 **Meaning:** with me
 
-**Pattern:** Use with article `el/la conmigo`
+**Pattern:** Special prepositional pronoun replacing `con` + `mí` (compare `contigo`, `consigo`)
 
-**Example:** *El/la conmigo es importante.* — The with me is important.
+**Example:** *¿Quieres venir conmigo?* — Do you want to come with me?

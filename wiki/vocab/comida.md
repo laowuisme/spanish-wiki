@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** food
 
-**Pattern:** Use with article `el/la comida`
+**Pattern:** Feminine noun: `la comida` (also "lunch/meal", depending on region)
 
-**Example:** *Me gusta el/la comida.* — I like food.
+**Example:** *La comida en este restaurante es deliciosa.* — The food in this restaurant is delicious.

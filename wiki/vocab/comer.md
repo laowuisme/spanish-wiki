@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: verb
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** to eat, eat
 
-**Pattern:** `comer` — regular use: eat
+**Pattern:** Regular `-er` verb: `como, comes, come...`
 
-**Example:** *Necesito comer.* — I need to eat.
+**Example:** *Vamos a comer a las dos.* — We're going to eat at two.

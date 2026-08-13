@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** club
 
-**Pattern:** Use with article `el/la club`
+**Pattern:** Masculine noun: `el club` (plural: `los clubes`)
 
-**Example:** *El/la club es importante.* — The club is important.
+**Example:** *Voy al club de tenis los sábados.* — I go to the tennis club on Saturdays.
