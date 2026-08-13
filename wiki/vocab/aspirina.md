@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** aspirin
 
-**Pattern:** Use with article `el/la aspirina`
+**Pattern:** Feminine noun: `la aspirina`.
 
-**Example:** *El/la aspirina es importante.* — The aspirin is important.
+**Example:** *Tomé una aspirina para el dolor de cabeza.* — I took an aspirin for my headache.

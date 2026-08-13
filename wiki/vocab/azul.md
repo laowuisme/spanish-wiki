@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-13
 ---
 
 **Meaning:** blue
 
-**Pattern:** Adjective; agrees in gender/number: azul/azua (if ends in -o)
+**Pattern:** Adjective invariable for gender (ends in `-l`); only changes for number: `azul/azules`.
 
-**Example:** *El coche es azul.* — The car is blue.
+**Example:** *El cielo está azul hoy.* — The sky is blue today.

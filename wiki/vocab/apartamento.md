@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** apartment
 
-**Pattern:** Use with article `el/la apartamento`
+**Pattern:** Masculine noun: `el apartamento`. Spain often prefers `el piso` for the same meaning.
 
-**Example:** *El/la apartamento es importante.* — The apartment is important.
+**Example:** *Alquilamos un apartamento cerca de la playa.* — We rented an apartment near the beach.

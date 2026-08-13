@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: verb
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
-**Meaning:** to dance, dance
+**Meaning:** to dance
 
-**Pattern:** `bailar` — regular use: dance
+**Pattern:** Regular `-ar` verb.
 
-**Example:** *Necesito bailar.* — I need to dance.
+**Example:** *Nos encanta bailar salsa los fines de semana.* — We love dancing salsa on weekends.

@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-13
 ---
 
-**Meaning:** unfriendly
+**Meaning:** unfriendly, unpleasant, disagreeable (of a person)
 
-**Pattern:** Use with article `el/la antipático`
+**Pattern:** Gender-agreeing adjective: `antipático` (masc.) / `antipática` (fem.). Opposite of `simpático` (friendly, likeable). Common in character descriptions.
 
-**Example:** *El/la antipático es importante.* — The unfriendly is important.
+**Example:** *El nuevo vecino es bastante antipático.* — The new neighbour is quite unfriendly.

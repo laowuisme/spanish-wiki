@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-13
 ---
 
-**Meaning:** kind
+**Meaning:** kind, nice
 
-**Pattern:** Use with article `el/la amable`
+**Pattern:** Adjective ending in `-e`; invariable for gender, only changes for number: `amable/amables`.
 
-**Example:** *El/la amable es importante.* — The kind is important.
+**Example:** *La recepcionista fue muy amable conmigo.* — The receptionist was very kind to me.

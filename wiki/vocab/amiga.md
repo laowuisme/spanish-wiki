@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
-**Meaning:** friend, friend's, friend’s
+**Meaning:** friend (female)
 
-**Pattern:** Use with article `el/la amiga`
+**Pattern:** Feminine noun: `la amiga`. Masculine counterpart: [[amigo]].
 
-**Example:** *El/la amiga es importante.* — The friend is important.
+**Example:** *Mi amiga vive en Madrid.* — My friend lives in Madrid.

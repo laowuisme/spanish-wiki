@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
-**Meaning:** bank, bank's, banks
+**Meaning:** bank; also bench
 
-**Pattern:** Use with article `el/la banco`
+**Pattern:** Masculine noun: `el banco`. Two common meanings — a financial bank, or a bench to sit on — disambiguated by context.
 
-**Example:** *El/la banco es importante.* — The bank is important.
+**Example:** *Voy al banco a sacar dinero.* — I'm going to the bank to withdraw money.

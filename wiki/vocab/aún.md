@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adverb
+last_updated: 2026-08-13
 ---
 
-**Meaning:** still, even, yet
+**Meaning:** still, yet, even
 
-**Pattern:** Use with article `el/la aún`
+**Pattern:** Adverb; keep the accent to distinguish it from `aun` (unaccented, meaning "even/including" as a conjunction-like word).
 
-**Example:** *El/la aún es importante.* — The still is important.
+**Example:** *Aún no he terminado la tarea.* — I still haven't finished the homework.

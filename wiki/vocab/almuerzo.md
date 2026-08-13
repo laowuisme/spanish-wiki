@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** lunch
 
-**Pattern:** Use with article `el/la almuerzo`
+**Pattern:** Masculine noun: `el almuerzo`.
 
-**Example:** *Me gusta el/la almuerzo.* — I like lunch.
+**Example:** *Preparo el almuerzo antes de ir al trabajo.* — I prepare lunch before going to work.

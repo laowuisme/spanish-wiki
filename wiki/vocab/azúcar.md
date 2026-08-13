@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: verb
-last_updated: 2026-06-19
+type: noun
+last_updated: 2026-08-13
 ---
 
 **Meaning:** sugar
 
-**Pattern:** `azúcar` — regular use: sugar
+**Pattern:** Usually masculine (`el azúcar`), though it's one of the few nouns commonly heard as feminine in some regions (`la azúcar`).
 
-**Example:** *Me gusta el/la azúcar.* — I like sugar.
+**Example:** *¿Me pasas el azúcar, por favor?* — Can you pass me the sugar, please?

@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-13
 ---
 
-**Meaning:** tall
+**Meaning:** tall, high
 
-**Pattern:** Use with article `el/la alto`
+**Pattern:** Adjective; agrees in gender/number: `alto/alta/altos/altas`.
 
-**Example:** *El/la alto es importante.* — The tall is important.
+**Example:** *Mi hermano es muy alto.* — My brother is very tall.

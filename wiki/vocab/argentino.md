@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-13
 ---
 
-**Meaning:** Argentinian
+**Meaning:** Argentinian, Argentine
 
-**Pattern:** Use with article `el/la argentino`
+**Pattern:** Nationality adjective; agrees in gender/number: `argentino/argentina`. Not capitalised in Spanish (unlike English). Can also function as a noun for a person from Argentina.
 
-**Example:** *El/la argentino es importante.* — The argentinian is important.
+**Example:** *Mi vecino es argentino.* — My neighbor is Argentinian.

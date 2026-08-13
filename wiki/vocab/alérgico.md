@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-13
 ---
 
 **Meaning:** allergic
 
-**Pattern:** Use with article `el/la alérgico`
+**Pattern:** Adjective; agrees in gender/number: `alérgico/alérgica`. Usually followed by `a` + the allergen: *alérgico a los frutos secos*.
 
-**Example:** *El/la alérgico es importante.* — The allergic is important.
+**Example:** *Soy alérgico al polen.* — I'm allergic to pollen.

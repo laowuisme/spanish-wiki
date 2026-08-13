@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: interjection
+last_updated: 2026-08-13
 ---
 
 **Meaning:** ow, ouch, oh
 
-**Pattern:** Use with article `el/la ay`
+**Pattern:** Interjection expressing pain, surprise, or worry — not a noun, so it takes no article.
 
-**Example:** *El/la ay es importante.* — The ow is important.
+**Example:** *¡Ay! Me quemé la mano.* — Ouch! I burned my hand.

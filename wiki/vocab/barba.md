@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** beard
 
-**Pattern:** Use with article `el/la barba`
+**Pattern:** Feminine noun: `la barba`.
 
-**Example:** *El/la barba es importante.* — The beard is important.
+**Example:** *Mi padre se dejó crecer la barba durante el verano.* — My father let his beard grow during the summer.

@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adverb
+last_updated: 2026-08-13
 ---
 
 **Meaning:** here
 
-**Pattern:** Use with article `el/la aquí`
+**Pattern:** Adverb of place, referring to somewhere close to the speaker. Contrast with `allí`/`allá` (there, farther away).
 
-**Example:** *El/la aquí es importante.* — The here is important.
+**Example:** *Aquí está tu café.* — Here's your coffee.

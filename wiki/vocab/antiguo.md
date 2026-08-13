@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-13
 ---
 
-**Meaning:** old
+**Meaning:** old, ancient
 
-**Pattern:** Use with article `el/la antiguo`
+**Pattern:** Adjective; agrees in gender/number: `antiguo/antigua`. Meaning shifts with position: before the noun it can mean "former" (*mi antiguo jefe* — my former boss), after the noun it means "old/ancient" (*una casa antigua* — an old house).
 
-**Example:** *El/la antiguo es importante.* — The old is important.
+**Example:** *Vive en una casa antigua en el centro.* — He lives in an old house downtown.

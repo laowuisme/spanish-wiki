@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** architect
 
-**Pattern:** Use with article `el/la arquitecto`
+**Pattern:** Noun; agrees in gender: `el arquitecto` / `la arquitecta`.
 
-**Example:** *El/la arquitecto es importante.* — The architect is important.
+**Example:** *Mi tía es arquitecta y diseña casas modernas.* — My aunt is an architect and designs modern houses.

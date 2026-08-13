@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
-**Meaning:** friend
+**Meaning:** friend (male)
 
-**Pattern:** Use with article `el/la amigo`
+**Pattern:** Masculine noun: `el amigo`. Feminine counterpart: [[amiga]].
 
-**Example:** *El/la amigo es importante.* — The friend is important.
+**Example:** *Voy a salir con mi amigo esta noche.* — I'm going out with my friend tonight.

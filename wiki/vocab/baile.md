@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
-**Meaning:** dance
+**Meaning:** dance, dancing
 
-**Pattern:** Use with article `el/la baile`
+**Pattern:** Masculine noun: `el baile`. Can refer to the activity, a style of dance, or a dance event/party.
 
-**Example:** *El/la baile es importante.* — The dance is important.
+**Example:** *Fuimos a un baile tradicional en el pueblo.* — We went to a traditional dance in the village.

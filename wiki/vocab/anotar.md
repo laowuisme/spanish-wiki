@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: verb
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
-**Meaning:** to write down, write down
+**Meaning:** to write down, to note down
 
-**Pattern:** `anotar` — regular use: write down
+**Pattern:** Regular `-ar` verb.
 
-**Example:** *Necesito anotar.* — I need to write down.
+**Example:** *Voy a anotar tu número de teléfono.* — I'm going to write down your phone number.

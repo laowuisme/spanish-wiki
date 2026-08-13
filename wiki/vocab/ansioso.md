@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-13
 ---
 
-**Meaning:** anxious
+**Meaning:** anxious, eager
 
-**Pattern:** Use with article `el/la ansioso`
+**Pattern:** Adjective; agrees in gender/number: `ansioso/ansiosa`. Often followed by `por` + noun/infinitive.
 
-**Example:** *El/la ansioso es importante.* — The anxious is important.
+**Example:** *Estoy ansioso por el examen de mañana.* — I'm anxious about tomorrow's exam.

@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-13
 ---
 
-**Meaning:** cheap
+**Meaning:** cheap, inexpensive
 
-**Pattern:** Use with article `el/la barato`
+**Pattern:** Adjective; agrees in gender/number: `barato/barata`. Opposite: `caro` (expensive).
 
-**Example:** *El/la barato es importante.* — The cheap is important.
+**Example:** *Este restaurante es barato y la comida es buena.* — This restaurant is cheap and the food is good.

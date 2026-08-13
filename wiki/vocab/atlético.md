@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-13
 ---
 
 **Meaning:** athletic
 
-**Pattern:** Use with article `el/la atlético`
+**Pattern:** Adjective; agrees in gender/number: `atlético/atlética`.
 
-**Example:** *El/la atlético es importante.* — The athletic is important.
+**Example:** *Tiene un cuerpo atlético porque entrena todos los días.* — He has an athletic body because he trains every day.

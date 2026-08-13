@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
-**Meaning:** elevator
+**Meaning:** elevator, lift
 
-**Pattern:** Use with article `el/la ascensor`
+**Pattern:** Masculine noun: `el ascensor`. Latin America also uses `el elevador`.
 
-**Example:** *El/la ascensor es importante.* — The elevator is important.
+**Example:** *El ascensor está averiado, hay que usar las escaleras.* — The elevator is broken, we have to use the stairs.

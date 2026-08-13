@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adverb
+last_updated: 2026-08-13
 ---
 
-**Meaning:** before
+**Meaning:** before, earlier
 
-**Pattern:** Use with article `el/la antes`
+**Pattern:** Adverb of time; often paired with `de` (`antes de` + infinitive/noun) or `que` (`antes que` + clause) to introduce what it precedes.
 
-**Example:** *El/la antes es importante.* — The before is important.
+**Example:** *Llegué antes que tú.* — I arrived before you.

@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-13
 ---
 
-**Meaning:** short
+**Meaning:** short (height), low
 
-**Pattern:** Use with article `el/la bajo`
+**Pattern:** Adjective; agrees in gender/number: `bajo/baja`. Also functions as a preposition meaning "under, below" (`bajo la mesa`).
 
-**Example:** *El/la bajo es importante.* — The short is important.
+**Example:** *Juan es bajo pero muy rápido.* — Juan is short but very fast.
