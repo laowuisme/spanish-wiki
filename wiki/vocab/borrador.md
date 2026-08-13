@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** eraser
 
-**Pattern:** Use with article `el/la borrador`
+**Pattern:** Masculine noun: `el borrador`; also means "draft" (of a document).
 
-**Example:** *El/la borrador es importante.* — The eraser is important.
+**Example:** *Presté mi borrador a un compañero de clase.* — I lent my eraser to a classmate.

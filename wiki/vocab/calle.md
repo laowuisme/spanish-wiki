@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** street
 
-**Pattern:** Use with article `el/la calle`
+**Pattern:** Feminine noun: `la calle`.
 
-**Example:** *El/la calle es importante.* — The street is important.
+**Example:** *Vivo en una calle tranquila cerca del centro.* — I live on a quiet street near downtown.

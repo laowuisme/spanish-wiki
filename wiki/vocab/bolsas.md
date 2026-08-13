@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
-**Meaning:** bag
+**Meaning:** bags
 
-**Pattern:** Use with article `el/la bolsas`
+**Pattern:** Plural of `bolsa`; feminine noun: `las bolsas`.
 
-**Example:** *El/la bolsas es importante.* — The bag is important.
+**Example:** *Necesito dos bolsas para el mercado.* — I need two bags for the market.

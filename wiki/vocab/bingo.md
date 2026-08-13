@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** bingo
 
-**Pattern:** Use with article `el/la bingo`
+**Pattern:** Masculine noun: `el bingo`.
 
-**Example:** *El/la bingo es importante.* — The bingo is important.
+**Example:** *Jugamos al bingo los domingos por la tarde.* — We play bingo on Sunday afternoons.

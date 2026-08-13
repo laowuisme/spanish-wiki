@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** purse
 
-**Pattern:** Use with article `el/la bolso`
+**Pattern:** Masculine noun: `el bolso`.
 
-**Example:** *El/la bolso es importante.* — The purse is important.
+**Example:** *Dejé las llaves dentro del bolso.* — I left the keys inside my purse.

@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** sock
 
-**Pattern:** Use with article `el/la calcetín`
+**Pattern:** Masculine noun: `el calcetín`, usually used in the plural `los calcetines`.
 
-**Example:** *El/la calcetín es importante.* — The sock is important.
+**Example:** *Perdí un calcetín en la lavadora.* — I lost a sock in the washing machine.

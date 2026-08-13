@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: phrase
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** ATM
 
-**Pattern:** Fixed expression: `cajero automático`
+**Pattern:** Masculine noun phrase: `el cajero automático`.
 
-**Example:** *Cajero automático.* — — Atm.
+**Example:** *Saqué dinero del cajero automático.* — I withdrew money from the ATM.

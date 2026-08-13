@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** horse
 
-**Pattern:** Use with article `el/la caballo`
+**Pattern:** Masculine noun: `el caballo`.
 
-**Example:** *El/la caballo es importante.* — The horse is important.
+**Example:** *El caballo corre libremente por el campo.* — The horse runs freely through the field.

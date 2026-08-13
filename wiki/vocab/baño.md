@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** bathroom
 
-**Pattern:** Use with article `el/la baño`
+**Pattern:** Masculine noun: `el baño`. Also used in the phrase `darse un baño` (to take a bath).
 
-**Example:** *El/la baño es importante.* — The bathroom is important.
+**Example:** *El baño está al final del pasillo.* — The bathroom is at the end of the hallway.

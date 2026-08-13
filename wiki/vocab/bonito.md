@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-13
 ---
 
 **Meaning:** beautiful
 
-**Pattern:** Use with article `el/la bonito`
+**Pattern:** Adjective; agrees in gender and number: bonito/bonita/bonitos/bonitas.
 
-**Example:** *El/la bonito es importante.* — The beautiful is important.
+**Example:** *Qué vestido tan bonito llevas hoy.* — What a pretty dress you're wearing today.

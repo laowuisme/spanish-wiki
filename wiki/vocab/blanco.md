@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-13
 ---
 
 **Meaning:** white
 
-**Pattern:** Adjective; agrees in gender/number: blanco/blanca (if ends in -o)
+**Pattern:** Adjective; agrees in gender and number: blanco/blanca/blancos/blancas.
 
-**Example:** *El coche es blanco.* — The car is white.
+**Example:** *La nieve de la montaña es blanca.* — The mountain snow is white.

@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** blouse
 
-**Pattern:** Use with article `el/la blusa`
+**Pattern:** Feminine noun: `la blusa`.
 
-**Example:** *El/la blusa es importante.* — The blouse is important.
+**Example:** *Compré una blusa nueva para la entrevista.* — I bought a new blouse for the interview.

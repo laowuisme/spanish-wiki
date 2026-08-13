@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** coffee
 
-**Pattern:** Use with article `el/la café`
+**Pattern:** Masculine noun: `el café`; also used for a café (the place) itself.
 
-**Example:** *El/la café es importante.* — The coffee is important.
+**Example:** *Tomo un café todas las mañanas antes de salir.* — I have a coffee every morning before going out.

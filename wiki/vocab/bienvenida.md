@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** welcome
 
-**Pattern:** Use with article `el/la bienvenida`
+**Pattern:** Feminine noun: `la bienvenida`, common in the phrase `dar la bienvenida a alguien` (to welcome someone).
 
-**Example:** *El/la bienvenida es importante.* — The welcome is important.
+**Example:** *Le dieron una calurosa bienvenida en el aeropuerto.* — They gave her a warm welcome at the airport.

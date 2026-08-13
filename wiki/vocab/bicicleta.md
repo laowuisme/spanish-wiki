@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** bicycle
 
-**Pattern:** Use with article `el/la bicicleta`
+**Pattern:** Feminine noun: `la bicicleta`.
 
-**Example:** *El/la bicicleta es importante.* — The bicycle is important.
+**Example:** *Voy al trabajo en bicicleta.* — I go to work by bicycle.

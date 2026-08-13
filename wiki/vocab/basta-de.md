@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: phrase
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** enough
 
-**Pattern:** Fixed expression: `basta de`
+**Pattern:** Used before a noun to mean "enough of / stop with": `¡Basta de` + [noun]`!`
 
-**Example:** *Basta de.* — — Enough.
+**Example:** *¡Basta de excusas!* — Enough with the excuses!

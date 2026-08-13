@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** blog
 
-**Pattern:** Use with article `el/la blog`
+**Pattern:** Masculine noun: `el blog`.
 
-**Example:** *El/la blog es importante.* — The blog is important.
+**Example:** *Escribo un blog sobre viajes.* — I write a blog about travel.

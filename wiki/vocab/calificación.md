@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** grade
 
-**Pattern:** Use with article `el/la calificación`
+**Pattern:** Feminine noun: `la calificación`.
 
-**Example:** *El/la calificación es importante.* — The grade is important.
+**Example:** *Obtuvo una buena calificación en el examen.* — He got a good grade on the exam.

@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** boot
 
-**Pattern:** Use with article `el/la bota`
+**Pattern:** Feminine noun: `la bota`, usually used in the plural `las botas`.
 
-**Example:** *El/la bota es importante.* — The boot is important.
+**Example:** *Necesito botas nuevas para la nieve.* — I need new boots for the snow.

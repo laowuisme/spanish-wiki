@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: phrase
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** good news
 
-**Pattern:** Fixed expression: `buenas noticias`
+**Pattern:** Feminine plural noun phrase: `buenas noticias`.
 
-**Example:** *Buenas noticias.* — — Good news.
+**Example:** *Tengo buenas noticias para ti.* — I have good news for you.

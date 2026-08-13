@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: interjection
+last_updated: 2026-08-13
 ---
 
 **Meaning:** well, all right, anyway
 
-**Pattern:** Use with article `el/la bueno`
+**Pattern:** Colloquial discourse marker, invariable; often opens a sentence to signal agreement or a shift in topic (distinct from the adjective `bueno`, "good").
 
-**Example:** *El/la bueno es importante.* — The well is important.
+**Example:** *Bueno, no importa, sigamos con la clase.* — Well, never mind, let's continue with the class.

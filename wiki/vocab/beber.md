@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: verb
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** to drink, drink
 
-**Pattern:** `beber` — regular use: drink
+**Pattern:** Regular -er verb: bebo, bebes, bebe, bebemos, bebéis, beben.
 
-**Example:** *Necesito beber.* — I need to drink.
+**Example:** *Los niños beben mucha agua en verano.* — Children drink a lot of water in summer.

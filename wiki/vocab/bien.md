@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adverb
+last_updated: 2026-08-13
 ---
 
 **Meaning:** well, all right, fine
 
-**Pattern:** Use with article `el/la bien`
+**Pattern:** Invariable adverb; modifies a verb (contrast with the adjective `bueno`, "good").
 
-**Example:** *El/la bien es importante.* — The well is important.
+**Example:** *Ella habla español muy bien.* — She speaks Spanish very well.

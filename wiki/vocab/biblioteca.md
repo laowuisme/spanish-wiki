@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
-**Meaning:** library, library's
+**Meaning:** library
 
-**Pattern:** Use with article `el/la biblioteca`
+**Pattern:** Feminine noun: `la biblioteca`.
 
-**Example:** *El/la biblioteca es importante.* — The library is important.
+**Example:** *Estudio en la biblioteca los fines de semana.* — I study at the library on weekends.

@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: phrase
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** exchange
 
-**Pattern:** Fixed expression: `cambiar dinero`
+**Pattern:** Verb phrase: `cambiar dinero` — to exchange currency.
 
-**Example:** *Cambiar dinero.* — — Exchange.
+**Example:** *Necesito cambiar dinero antes de viajar.* — I need to exchange money before traveling.

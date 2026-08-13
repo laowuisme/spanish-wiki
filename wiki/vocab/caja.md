@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** box
 
-**Pattern:** Use with article `el/la caja`
+**Pattern:** Feminine noun: `la caja`; also used for "cash register" (`la caja` in a shop).
 
-**Example:** *El/la caja es importante.* — The box is important.
+**Example:** *Guardé los documentos en una caja.* — I kept the documents in a box.

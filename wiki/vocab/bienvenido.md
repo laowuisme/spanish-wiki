@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-13
 ---
 
 **Meaning:** welcome
 
-**Pattern:** Use with article `el/la bienvenido`
+**Pattern:** Adjective/greeting; agrees in gender and number: bienvenido/bienvenida/bienvenidos/bienvenidas.
 
-**Example:** *El/la bienvenido es importante.* — The welcome is important.
+**Example:** *¡Bienvenido a mi casa!* — Welcome to my house!

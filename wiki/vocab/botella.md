@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** bottle
 
-**Pattern:** Use with article `el/la botella`
+**Pattern:** Feminine noun: `la botella`.
 
-**Example:** *El/la botella es importante.* — The bottle is important.
+**Example:** *La botella está vacía.* — The bottle is empty.

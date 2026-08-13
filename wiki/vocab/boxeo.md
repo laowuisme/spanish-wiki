@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** boxing
 
-**Pattern:** Use with article `el/la boxeo`
+**Pattern:** Masculine noun: `el boxeo`.
 
-**Example:** *El/la boxeo es importante.* — The boxing is important.
+**Example:** *Mi hermano practica boxeo los martes.* — My brother practices boxing on Tuesdays.
