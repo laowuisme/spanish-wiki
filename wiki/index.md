@@ -438,7 +438,7 @@ _Last updated: 2026-08-13 | 1664 pages total_
 - [[cuántas]] — how many (A2, encountered)
 - [[cuánto]] — how much (A2, encountered)
 - [[cuánto-cuesta]] — how much is it?, how much does it cost? (A2, encountered)
-- [[cuánto-cuestan]] — how much are (A2, encountered)
+- [[cuánto-cuestan]] — how much are they?, how much do they cost? (A2, encountered)
 - [[cuántos]] — how many (A2, encountered)
 - [[cuántos-años]] — how old (A2, encountered)
 - [[cámara]] — camera (A2, encountered)
