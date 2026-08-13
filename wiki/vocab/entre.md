@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: preposition
+last_updated: 2026-08-14
 ---
 
 **Meaning:** between
 
-**Pattern:** Use with article `el/la entre`
+**Pattern:** Takes subject pronouns rather than object pronouns after it: *entre tú y yo* (between you and me), not *entre ti y mí*.
 
-**Example:** *El/la entre es importante.* — The between is important.
+**Example:** *El gato está entre la silla y la mesa.* — The cat is between the chair and the table.

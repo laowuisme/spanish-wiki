@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: verb
+last_updated: 2026-08-14
 ---
 
 **Meaning:** begin, (it) begins
 
-**Pattern:** Use with article `el/la empieza`
+**Pattern:** Present-tense *él/ella/usted* form of *empezar* (e→ie stem-changing); also doubles as the informal *tú* command.
 
-**Example:** *El/la empieza es importante.* — The begin is important.
+**Example:** *La película empieza a las ocho.* — The movie starts at eight.

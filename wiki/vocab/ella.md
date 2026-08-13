@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: pronoun
+last_updated: 2026-08-14
 ---
 
 **Meaning:** she
 
-**Pattern:** Use with article `el/la ella`
+**Pattern:** Third-person singular feminine subject pronoun. Often omitted in Spanish since the verb ending already shows the subject.
 
-**Example:** *El/la ella es importante.* — The she is important.
+**Example:** *Ella es mi hermana.* — She is my sister.

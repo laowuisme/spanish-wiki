@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-14
 ---
 
 **Meaning:** huge
 
-**Pattern:** Use with article `el/la enorme`
+**Pattern:** Invariable for gender (same form m/f); only changes for number: enorme/enormes.
 
-**Example:** *El/la enorme es importante.* — The huge is important.
+**Example:** *Viven en una casa enorme.* — They live in a huge house.

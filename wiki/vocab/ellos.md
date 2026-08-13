@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: pronoun
+last_updated: 2026-08-14
 ---
 
 **Meaning:** they
 
-**Pattern:** Use with article `el/la ellos`
+**Pattern:** Third-person plural masculine/mixed-gender subject pronoun — used for all-male groups or mixed-gender groups.
 
-**Example:** *El/la ellos es importante.* — The they is important.
+**Example:** *Ellos van al cine esta noche.* — They are going to the movies tonight.

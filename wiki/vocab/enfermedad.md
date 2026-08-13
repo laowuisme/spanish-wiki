@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** illness
 
-**Pattern:** Use with article `el/la enfermedad`
+**Pattern:** Feminine noun (*la enfermedad*), like most nouns ending in *-dad*; plural *enfermedades*.
 
-**Example:** *El/la enfermedad es importante.* — The illness is important.
+**Example:** *La gripe es una enfermedad común.* — The flu is a common illness.

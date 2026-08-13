@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: phrase
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** is from, is
 
-**Pattern:** Fixed expression: `es de`
+**Pattern:** Third-person singular of *ser de* + place/material/origin: *es de Colombia* (he's from Colombia), *es de madera* (it's made of wood).
 
-**Example:** *Es de.* — — Is from.
+**Example:** *Ella es de Argentina.* — She is from Argentina.

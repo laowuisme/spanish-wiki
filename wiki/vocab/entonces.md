@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adverb
+last_updated: 2026-08-14
 ---
 
 **Meaning:** so
 
-**Pattern:** Use with article `el/la entonces`
+**Pattern:** Connects ideas to show sequence or consequence — "then/so/in that case".
 
-**Example:** *El/la entonces es importante.* — The so is important.
+**Example:** *No tengo dinero, entonces no puedo ir.* — I don't have money, so I can't go.

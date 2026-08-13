@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-14
 ---
 
-**Meaning:** pleased, delighted, loved
+**Meaning:** pleased, delighted
 
-**Pattern:** Use with article `el/la encantado`
+**Pattern:** Masculine form, used as a greeting on meeting someone (*Encantado*), or with *estar*: *estar encantado con algo* = to be delighted with something.
 
-**Example:** *El/la encantado es importante.* — The pleased is important.
+**Example:** *Encantado de conocerte.* — Pleased to meet you.

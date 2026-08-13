@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: phrase
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** by car
 
-**Pattern:** Fixed expression: `en coche`
+**Pattern:** "en + [mode of transport]" pattern for travel: *en coche*, *en tren*, *en avión* — no article.
 
-**Example:** *En coche.* — — By car.
+**Example:** *Vamos en coche al supermercado.* — We're going to the supermarket by car.

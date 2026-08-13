@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-14
 ---
 
 **Meaning:** elegant
 
-**Pattern:** Use with article `el/la elegante`
+**Pattern:** Invariable for gender (same form m/f): *el hombre elegante*, *la mujer elegante*. Only changes for number: elegante/elegantes.
 
-**Example:** *El/la elegante es importante.* — The elegant is important.
+**Example:** *Lleva un vestido muy elegante.* — She's wearing a very elegant dress.

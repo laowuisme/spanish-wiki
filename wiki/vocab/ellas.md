@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: pronoun
+last_updated: 2026-08-14
 ---
 
 **Meaning:** they
 
-**Pattern:** Use with article `el/la ellas`
+**Pattern:** Third-person plural feminine subject pronoun — used only when every person/thing referred to is feminine.
 
-**Example:** *El/la ellas es importante.* — The they is important.
+**Example:** *Ellas viven en Madrid.* — They (all women) live in Madrid.

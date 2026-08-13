@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** energy
 
-**Pattern:** Use with article `el/la energía`
+**Pattern:** Feminine noun (*la energía*), plural *energías*.
 
-**Example:** *El/la energía es importante.* — The energy is important.
+**Example:** *No tengo energía para salir hoy.* — I don't have energy to go out today.

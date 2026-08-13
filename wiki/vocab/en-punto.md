@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: phrase
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** o'clock
 
-**Pattern:** Fixed expression: `en punto`
+**Pattern:** Placed after a time to mean "exactly/sharp": *las tres en punto* = three o'clock sharp.
 
-**Example:** *En punto.* — — O'clock.
+**Example:** *La reunión es a las nueve en punto.* — The meeting is at nine o'clock sharp.

@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** employee
 
-**Pattern:** Use with article `el/la empleado`
+**Pattern:** Regular -o/-a noun, agrees with the gender of the person: *el empleado* / *la empleada*.
 
-**Example:** *El/la empleado es importante.* — The employee is important.
+**Example:** *El empleado llegó tarde hoy.* — The employee arrived late today.

@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: verb
+last_updated: 2026-08-14
 ---
 
-**Meaning:** is, are you, it's
+**Meaning:** is, it's (also formal 'usted': you are)
 
-**Pattern:** Use with article `el/la es`
+**Pattern:** Third-person singular present of the irregular verb *ser* — used for permanent/inherent characteristics (identity, origin, traits), unlike *estar* for temporary states.
 
-**Example:** *El/la es es importante.* — The is is important.
+**Example:** *Mi hermano es alto.* — My brother is tall.

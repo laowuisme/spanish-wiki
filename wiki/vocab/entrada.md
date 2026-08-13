@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** ticket
 
-**Pattern:** Use with article `el/la entrada`
+**Pattern:** Feminine noun (*la entrada*), plural *entradas*. Also means "entrance" or, on a menu, "starter/appetizer".
 
-**Example:** *El/la entrada es importante.* — The ticket is important.
+**Example:** *Compré dos entradas para el concierto.* — I bought two tickets for the concert.

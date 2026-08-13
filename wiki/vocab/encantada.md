@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-14
 ---
 
-**Meaning:** happy, delighted, pleased
+**Meaning:** delighted, pleased
 
-**Pattern:** Use with article `el/la encantada`
+**Pattern:** Feminine form (adjective from *encantar*), commonly said by/about a woman on meeting someone: *Encantada de conocerte* = "Pleased to meet you."
 
-**Example:** *El/la encantada es importante.* — The happy is important.
+**Example:** *Encantada de conocerte.* — Pleased to meet you.

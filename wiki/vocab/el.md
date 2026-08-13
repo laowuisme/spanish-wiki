@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: article
+last_updated: 2026-08-14
 ---
 
-**Meaning:** the, a, an
+**Meaning:** the
 
-**Pattern:** Use with article `el/la el`
+**Pattern:** Masculine singular definite article, used before masculine singular nouns: *el libro*, *el perro*. Contracts with *a*/*de*: *al*, *del*.
 
-**Example:** *El/la el es importante.* — The the is important.
+**Example:** *El perro está durmiendo.* — The dog is sleeping.

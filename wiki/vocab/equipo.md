@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
-**Meaning:** gear, team, outfit
+**Meaning:** team, equipment, gear
 
-**Pattern:** Use with article `el/la equipo`
+**Pattern:** Masculine noun (*el equipo*) — a sports team, or equipment/gear, depending on context.
 
-**Example:** *El/la equipo es importante.* — The gear is important.
+**Example:** *Nuestro equipo ganó el partido.* — Our team won the game.

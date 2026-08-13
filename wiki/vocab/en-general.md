@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: phrase
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
-**Meaning:** generally, large, all in all
+**Meaning:** generally, in general, overall
 
-**Pattern:** Fixed expression: `en general`
+**Pattern:** Fixed adverbial phrase used to generalize a statement, usually at the start or end of a sentence.
 
-**Example:** *En general.* — — Generally.
+**Example:** *En general, me gusta la comida picante.* — In general, I like spicy food.

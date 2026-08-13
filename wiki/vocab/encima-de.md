@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: phrase
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** on top of
 
-**Pattern:** Fixed expression: `encima de`
+**Pattern:** Prepositional phrase: *encima de + [noun]*. Contrast *debajo de* (underneath).
 
-**Example:** *Encima de.* — — On top of.
+**Example:** *El libro está encima de la mesa.* — The book is on top of the table.

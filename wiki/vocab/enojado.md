@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-14
 ---
 
 **Meaning:** angry
 
-**Pattern:** Use with article `el/la enojado`
+**Pattern:** Past participle of *enojar(se)* used as an adjective; agrees in gender: enojado/enojada. Used with *estar*: *estar enojado con alguien*.
 
-**Example:** *El/la enojado es importante.* — The angry is important.
+**Example:** *Está enojado porque llegué tarde.* — He's angry because I arrived late.

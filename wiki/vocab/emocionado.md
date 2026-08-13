@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-14
 ---
 
 **Meaning:** excited
 
-**Pattern:** Use with article `el/la emocionado`
+**Pattern:** Past participle of *emocionar* used as an adjective; agrees in gender/number (emocionado/emocionada). Pairs with *estar* for the temporary state.
 
-**Example:** *El/la emocionado es importante.* — The excited is important.
+**Example:** *Estoy muy emocionado por el viaje.* — I'm very excited about the trip.

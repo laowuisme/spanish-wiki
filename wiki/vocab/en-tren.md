@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: phrase
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** by train
 
-**Pattern:** Fixed expression: `en tren`
+**Pattern:** "en + [mode of transport]" pattern, same family as *en coche*, *en avión*.
 
-**Example:** *En tren.* — — By train.
+**Example:** *Viajamos en tren a Barcelona.* — We're traveling to Barcelona by train.
