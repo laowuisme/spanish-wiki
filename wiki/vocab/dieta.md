@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** diet
 
-**Pattern:** Use with article `el/la dieta`
+**Pattern:** Feminine noun: `la dieta`.
 
-**Example:** *El/la dieta es importante.* — The diet is important.
+**Example:** *Sigo una dieta saludable.* — I follow a healthy diet.

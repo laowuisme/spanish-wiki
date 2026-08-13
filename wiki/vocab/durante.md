@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: preposition
+last_updated: 2026-08-13
 ---
 
 **Meaning:** during
 
-**Pattern:** Use with article `el/la durante`
+**Pattern:** Invariable preposition, followed by a noun or time period.
 
-**Example:** *El/la durante es importante.* — The during is important.
+**Example:** *Durante el verano, viajamos mucho.* — During the summer, we travel a lot.

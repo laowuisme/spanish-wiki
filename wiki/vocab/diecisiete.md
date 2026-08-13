@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** seventeen
 
-**Pattern:** Use with article `el/la diecisiete`
+**Pattern:** Cardinal number; invariable, no article.
 
 **Example:** *Tengo diecisiete años.* — I am seventeen years old.

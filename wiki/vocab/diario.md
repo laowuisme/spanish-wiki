@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** journal
 
-**Pattern:** Use with article `el/la diario`
+**Pattern:** Masculine noun: `el diario`; also means "daily newspaper". As an adjective, `diario/diaria` means "daily".
 
-**Example:** *El/la diario es importante.* — The journal is important.
+**Example:** *Escribo en mi diario cada noche.* — I write in my journal every night.

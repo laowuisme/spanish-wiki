@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** pain
 
-**Pattern:** Use with article `el/la dolor`
+**Pattern:** Masculine noun: `el dolor`.
 
-**Example:** *El/la dolor es importante.* — The pain is important.
+**Example:** *Siento un dolor en la espalda.* — I feel a pain in my back.

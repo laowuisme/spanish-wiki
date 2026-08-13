@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: verb
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** to draw, draw
 
-**Pattern:** `dibujar` — regular use: draw
+**Pattern:** Regular `-ar` verb.
 
-**Example:** *Necesito dibujar.* — I need to draw.
+**Example:** *Me gusta dibujar paisajes.* — I like to draw landscapes.

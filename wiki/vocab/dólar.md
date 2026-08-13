@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: verb
-last_updated: 2026-06-19
+type: noun
+last_updated: 2026-08-13
 ---
 
 **Meaning:** dollar
 
-**Pattern:** `dólar` — regular use: dollar
+**Pattern:** Masculine noun: `el dólar`; plural `dólares`.
 
-**Example:** *Necesito dólar.* — I need to dollar.
+**Example:** *Esto cuesta diez dólares.* — This costs ten dollars.

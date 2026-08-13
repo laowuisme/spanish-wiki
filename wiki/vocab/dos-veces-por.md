@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: phrase
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** twice a
 
-**Pattern:** Fixed expression: `dos veces por`
+**Pattern:** Fixed expression `dos veces por` + time period (e.g. `dos veces por semana`, "twice a week").
 
-**Example:** *Dos veces por.* — — Twice a.
+**Example:** *Voy al gimnasio dos veces por semana.* — I go to the gym twice a week.

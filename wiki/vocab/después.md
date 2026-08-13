@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adverb
+last_updated: 2026-08-13
 ---
 
 **Meaning:** later
 
-**Pattern:** Use with article `el/la después`
+**Pattern:** Invariable adverb of time; compare with `después de` (preposition phrase, "after").
 
-**Example:** *El/la después es importante.* — The later is important.
+**Example:** *Nos vemos después.* — See you later.

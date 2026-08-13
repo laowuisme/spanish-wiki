@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: verb
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** to enjoy, enjoy
 
-**Pattern:** `disfrutar` — regular use: enjoy
+**Pattern:** Regular `-ar` verb; often followed by `de` + noun.
 
-**Example:** *Necesito disfrutar.* — I need to enjoy.
+**Example:** *Quiero disfrutar de mis vacaciones.* — I want to enjoy my vacation.

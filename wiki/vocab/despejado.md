@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-13
 ---
 
 **Meaning:** clear
 
-**Pattern:** Use with article `el/la despejado`
+**Pattern:** Agrees in gender/number (despejado/despejada/despejados/despejadas); used with `estar` to describe weather or a clear sky.
 
-**Example:** *El/la despejado es importante.* — The clear is important.
+**Example:** *El cielo está despejado hoy.* — The sky is clear today.

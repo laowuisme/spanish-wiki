@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-13
 ---
 
 **Meaning:** fun
 
-**Pattern:** Use with article `el/la divertido`
+**Pattern:** Agrees in gender/number (divertido/divertida/divertidos/divertidas).
 
-**Example:** *El/la divertido es importante.* — The fun is important.
+**Example:** *La fiesta fue muy divertida.* — The party was very fun.

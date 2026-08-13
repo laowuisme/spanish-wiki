@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** money
 
-**Pattern:** Use with article `el/la dinero`
+**Pattern:** Masculine noun: `el dinero`; uncountable, no plural in normal use.
 
-**Example:** *El/la dinero es importante.* — The money is important.
+**Example:** *No tengo mucho dinero.* — I don't have much money.

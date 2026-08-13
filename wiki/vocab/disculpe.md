@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: interjection
+last_updated: 2026-08-13
 ---
 
 **Meaning:** excuse me
 
-**Pattern:** Use with article `el/la disculpe`
+**Pattern:** Formal (usted) command form of `disculpar`. See [[disculpe-vs-disculpen]].
 
-**Example:** *El/la disculpe es importante.* — The excuse me is important.
+**Example:** *Disculpe, ¿dónde está el baño?* — Excuse me, where's the bathroom?

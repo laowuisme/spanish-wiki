@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** desert
 
-**Pattern:** Use with article `el/la desierto`
+**Pattern:** Masculine noun: `el desierto`.
 
-**Example:** *El/la desierto es importante.* — The desert is important.
+**Example:** *El desierto de Atacama es muy seco.* — The Atacama Desert is very dry.

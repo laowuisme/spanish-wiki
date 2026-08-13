@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** address
 
-**Pattern:** Use with article `el/la dirección`
+**Pattern:** Feminine noun: `la dirección`; also means "direction" or "management".
 
-**Example:** *El/la dirección es importante.* — The address is important.
+**Example:** *¿Cuál es tu dirección?* — What's your address?

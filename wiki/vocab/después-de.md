@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: phrase
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** after
 
-**Pattern:** Fixed expression: `después de`
+**Pattern:** Fixed preposition phrase `después de` + noun or infinitive.
 
-**Example:** *Después de.* — — After.
+**Example:** *Después de cenar, vemos una película.* — After having dinner, we watch a movie.

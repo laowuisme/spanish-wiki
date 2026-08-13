@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: interjection
+last_updated: 2026-08-13
 ---
 
 **Meaning:** excuse me
 
-**Pattern:** Use with article `el/la disculpen`
+**Pattern:** Plural formal (ustedes) command form of `disculpar`, used when addressing a group. See [[disculpe-vs-disculpen]].
 
-**Example:** *El/la disculpen es importante.* — The excuse me is important.
+**Example:** *Disculpen la molestia.* — Sorry for the trouble (to a group).

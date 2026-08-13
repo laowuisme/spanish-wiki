@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** detergent
 
-**Pattern:** Use with article `el/la detergente`
+**Pattern:** Masculine noun: `el detergente`.
 
-**Example:** *El/la detergente es importante.* — The detergent is important.
+**Example:** *Compré detergente para la ropa.* — I bought laundry detergent.

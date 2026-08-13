@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-13
 ---
 
 **Meaning:** difficult
 
-**Pattern:** Use with article `el/la difícil`
+**Pattern:** Invariable for gender; adds -es for plural (difícil/difíciles).
 
-**Example:** *El/la difícil es importante.* — The difficult is important.
+**Example:** *Este examen es difícil.* — This exam is difficult.

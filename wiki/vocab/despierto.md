@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-13
 ---
 
 **Meaning:** awake
 
-**Pattern:** Use with article `el/la despierto`
+**Pattern:** Agrees in gender/number (despierto/despierta/despiertos/despiertas); used with `estar`. Also the yo-form of the verb `despertar` (to wake up) — context distinguishes the two.
 
-**Example:** *El/la despierto es importante.* — The awake is important.
+**Example:** *Todavía estoy despierto.* — I'm still awake.

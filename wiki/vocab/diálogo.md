@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** dialogue
 
-**Pattern:** Use with article `el/la diálogo`
+**Pattern:** Masculine noun: `el diálogo`.
 
-**Example:** *El/la diálogo es importante.* — The dialogue is important.
+**Example:** *Practicamos un diálogo en clase.* — We practiced a dialogue in class.

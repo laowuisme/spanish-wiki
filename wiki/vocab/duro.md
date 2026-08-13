@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-13
 ---
 
 **Meaning:** hard
 
-**Pattern:** Use with article `el/la duro`
+**Pattern:** Agrees in gender/number (duro/dura/duros/duras); can also mean "tough/harsh" figuratively.
 
-**Example:** *El/la duro es importante.* — The hard is important.
+**Example:** *El pan está muy duro.* — The bread is very hard.
