@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** exhibition
 
-**Pattern:** Use with article `el/la exposición`
+**Pattern:** Feminine noun: `la exposición`; plural `exposiciones`.
 
-**Example:** *El/la exposición es importante.* — The exhibition is important.
+**Example:** *Fuimos a una exposición de arte moderno.* — We went to a modern art exhibition.

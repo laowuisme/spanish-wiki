@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: adverb
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** especially
 
-**Pattern:** Modifies verbs, adjectives, or other adverbs
+**Pattern:** Invariable adverb, typically placed right before the word or phrase it modifies.
 
-**Example:** *Lo hizo especialmente.* — He/she did it especially.
+**Example:** *Me gusta la comida picante, especialmente la tailandesa.* — I like spicy food, especially Thai food.

@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** euro
 
-**Pattern:** Use with article `el/la euro`
+**Pattern:** Masculine noun: `el euro`; plural `euros`.
 
-**Example:** *El/la euro es importante.* — The euro is important.
+**Example:** *Esto cuesta veinte euros.* — This costs twenty euros.

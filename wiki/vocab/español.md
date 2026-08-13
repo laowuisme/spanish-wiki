@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** Spanish
 
-**Pattern:** Use with article `el/la español`
+**Pattern:** Masculine noun `el español` for the language; also used as an adjective of nationality, agreeing in gender/number (español/española/españoles/españolas).
 
-**Example:** *El/la español es importante.* — The spanish is important.
+**Example:** *Estoy aprendiendo español desde hace un año.* — I've been learning Spanish for a year.

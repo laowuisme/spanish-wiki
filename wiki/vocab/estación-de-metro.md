@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: phrase
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** subway station
 
-**Pattern:** Fixed expression: `estación de metro`
+**Pattern:** Fixed noun phrase; feminine: `la estación de metro`.
 
-**Example:** *Estación de metro.* — — Subway station.
+**Example:** *La estación de metro está a dos cuadras de mi casa.* — The subway station is two blocks from my house.

@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: verb
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** to wait, wait
 
-**Pattern:** `esperar` — regular use: wait
+**Pattern:** Regular -ar verb; also means "to hope" or "to expect" depending on context.
 
-**Example:** *Necesito esperar.* — I need to wait.
+**Example:** *Voy a esperar aquí hasta que llegues.* — I'll wait here until you arrive.

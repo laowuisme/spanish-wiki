@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-14
 ---
 
 **Meaning:** strange
 
-**Pattern:** Use with article `el/la extraño`
+**Pattern:** Adjective (extraño/extraña/extraños/extrañas); also used as a noun meaning "stranger".
 
-**Example:** *El/la extraño es importante.* — The strange is important.
+**Example:** *Qué extraño que no haya llegado todavía.* — How strange that he hasn't arrived yet.

@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** excuse
 
-**Pattern:** Use with article `el/la excusa`
+**Pattern:** Feminine noun: `la excusa`.
 
-**Example:** *El/la excusa es importante.* — The excuse is important.
+**Example:** *Su excusa no era muy convincente.* — His excuse wasn't very convincing.

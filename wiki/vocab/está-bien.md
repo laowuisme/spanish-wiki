@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: phrase
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** okay
 
-**Pattern:** Fixed expression: `está bien`
+**Pattern:** Fixed expression (`estar` + `bien`), used to signal agreement or that something is fine.
 
-**Example:** *Está bien.* — — Okay.
+**Example:** *¿Puedo llegar tarde? Está bien, no hay problema.* — Can I arrive late? That's fine, no problem.

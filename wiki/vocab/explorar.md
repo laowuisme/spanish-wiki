@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: verb
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** to explore, explore
 
-**Pattern:** `explorar` — regular use: explore
+**Pattern:** Regular -ar verb.
 
-**Example:** *Necesito explorar.* — I need to explore.
+**Example:** *Queremos explorar la ciudad a pie.* — We want to explore the city on foot.

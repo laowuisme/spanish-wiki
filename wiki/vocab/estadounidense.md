@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: verb
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-14
 ---
 
 **Meaning:** American
 
-**Pattern:** Reflexive verb: `estadounidense` requires matching reflexive pronoun (me/te/se/nos)
+**Pattern:** Adjective of nationality, invariable for gender; agrees only in number: estadounidense/estadounidenses.
 
-**Example:** *Necesito estadounidense.* — I need to american.
+**Example:** *Ella es una periodista estadounidense muy conocida.* — She's a well-known American journalist.

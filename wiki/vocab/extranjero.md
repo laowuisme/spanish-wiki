@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-14
 ---
 
 **Meaning:** foreign
 
-**Pattern:** Use with article `el/la extranjero`
+**Pattern:** Adjective (extranjero/extranjera/extranjeros/extranjeras); also used as a noun — `el extranjero` = foreigner, or "abroad" in phrases like `ir al extranjero`.
 
-**Example:** *El/la extranjero es importante.* — The foreign is important.
+**Example:** *Ella tiene muchos amigos extranjeros.* — She has many foreign friends.

@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: verb
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** to listen, listen to
 
-**Pattern:** `escuchar` — regular use: listen
+**Pattern:** Regular -ar verb.
 
-**Example:** *Necesito escuchar.* — I need to listen.
+**Example:** *Me gusta escuchar música por la noche.* — I like to listen to music at night.

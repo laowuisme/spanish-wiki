@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** wife
 
-**Pattern:** Use with article `el/la esposa`
+**Pattern:** Feminine noun: `la esposa` (masculine counterpart: `el esposo`, husband).
 
-**Example:** *El/la esposa es importante.* — The wife is important.
+**Example:** *Mi esposa trabaja en un hospital.* — My wife works in a hospital.

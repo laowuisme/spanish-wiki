@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: pronoun
+last_updated: 2026-08-14
 ---
 
 **Meaning:** this
 
-**Pattern:** Use with article `el/la este`
+**Pattern:** Demonstrative pronoun/adjective, masculine singular; agrees in gender and number: este/esta/estos/estas. `este` (without accent) is also a noun meaning "east" (`el este`).
 
-**Example:** *El/la este es importante.* — The this is important.
+**Example:** *Este libro es mío.* — This book is mine.

@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-14
 ---
 
 **Meaning:** exactly
 
-**Pattern:** Use with article `el/la exacto`
+**Pattern:** Adjective (exacto/exacta/exactos/exactas); also used alone as an interjection meaning "Exactly!" / "That's right!"
 
-**Example:** *El/la exacto es importante.* — The exactly is important.
+**Example:** *—¿Entonces mañana nos vemos a las tres? —Exacto.* — "So we're meeting tomorrow at three?" "Exactly."

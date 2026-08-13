@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-14
 ---
 
 **Meaning:** exotic
 
-**Pattern:** Use with article `el/la exótico`
+**Pattern:** Adjective: exótico/exótica/exóticos/exóticas.
 
-**Example:** *El/la exótico es importante.* — The exotic is important.
+**Example:** *Comimos frutas exóticas en el mercado.* — We ate exotic fruits at the market.

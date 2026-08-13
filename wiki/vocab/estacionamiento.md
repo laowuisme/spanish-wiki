@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** parking, parking lot
 
-**Pattern:** Use with article `el/la estacionamiento`
+**Pattern:** Masculine noun: `el estacionamiento`.
 
-**Example:** *El/la estacionamiento es importante.* — The parking is important.
+**Example:** *Dejé el coche en el estacionamiento del centro comercial.* — I left the car in the mall's parking lot.

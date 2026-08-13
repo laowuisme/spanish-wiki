@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** exam
 
-**Pattern:** Use with article `el/la examen`
+**Pattern:** Masculine noun: `el examen`; plural `exámenes` (accent shifts).
 
-**Example:** *El/la examen es importante.* — The exam is important.
+**Example:** *Tengo un examen de matemáticas mañana.* — I have a math exam tomorrow.

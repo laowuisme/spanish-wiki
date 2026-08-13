@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-14
 ---
 
 **Meaning:** special
 
-**Pattern:** Use with article `el/la especial`
+**Pattern:** Invariable for gender (especial); agrees only in number: especial/especiales.
 
-**Example:** *El/la especial es importante.* — The special is important.
+**Example:** *Hoy es un día especial para toda la familia.* — Today is a special day for the whole family.

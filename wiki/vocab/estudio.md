@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** study, studio
 
-**Pattern:** Use with article `el/la estudio`
+**Pattern:** Masculine noun: `el estudio`.
 
-**Example:** *El/la estudio es importante.* — The study is important.
+**Example:** *Convertimos el garaje en un estudio de música.* — We turned the garage into a music studio.

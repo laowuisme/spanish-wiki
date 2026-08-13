@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** skirt
 
-**Pattern:** Use with article `el/la falda`
+**Pattern:** Feminine noun: `la falda`.
 
-**Example:** *El/la falda es importante.* — The skirt is important.
+**Example:** *Se compró una falda nueva para la fiesta.* — She bought a new skirt for the party.

@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** station
 
-**Pattern:** Use with article `el/la estación`
+**Pattern:** Feminine noun: `la estación`; plural `estaciones`. Also means "season" (of the year), depending on context.
 
-**Example:** *El/la estación es importante.* — The station is important.
+**Example:** *El tren sale de la estación a las nueve.* — The train leaves the station at nine.
