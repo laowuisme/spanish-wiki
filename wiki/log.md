@@ -4,6 +4,10 @@ Append-only record of all wiki operations. Format: `## [YYYY-MM-DD] <operation> 
 
 ---
 
+## [2026-08-13] fix | vocab placeholder cleanup batch 1
+- 50 files corrected (type/pattern/example rewritten)
+- 0 duplicate files removed
+
 ## [2026-08-08] ingest | raw/2026-08-08_session.md
 - 20 vocab atoms created: aderezo, vinagre, qué-más, almendra, salado, nuez, letrero, sabor, regalar, tijera, espantoso, montón-de, tiene-sentido, etiqueta, hueso, suelto, vecindario, agregar, principiante, cocido
 - 5 existing vocab pages updated: volver, sobre-todo, devolver, crudo, odiar (crudo.md also had a pre-existing type mistag corrected: noun → adjective)
