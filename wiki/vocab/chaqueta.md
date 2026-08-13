@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** jacket, coat
 
-**Pattern:** Use with article `el/la chaqueta`
+**Pattern:** Feminine noun — la chaqueta
 
-**Example:** *El/la chaqueta es importante.* — The jacket is important.
+**Example:** *Hace frío, ponte la chaqueta.* — It's cold, put on your jacket.

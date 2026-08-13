@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-13
 ---
 
 **Meaning:** expensive
 
-**Pattern:** Use with article `el/la caro`
+**Pattern:** Adjective — agrees in gender/number (caro/cara/caros/caras)
 
-**Example:** *El/la caro es importante.* — The expensive is important.
+**Example:** *Ese restaurante es muy caro.* — That restaurant is very expensive.

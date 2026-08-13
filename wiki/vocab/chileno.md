@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-13
 ---
 
 **Meaning:** Chilean
 
-**Pattern:** Use with article `el/la chileno`
+**Pattern:** Adjective — agrees in gender/number (chileno/chilena); also used as a noun for a person from Chile
 
-**Example:** *El/la chileno es importante.* — The chilean is important.
+**Example:** *Mi vecino es chileno.* — My neighbor is Chilean.

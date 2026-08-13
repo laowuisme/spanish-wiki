@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** puddle
 
-**Pattern:** Use with article `el/la charco`
+**Pattern:** Masculine noun — el charco
 
-**Example:** *El/la charco es importante.* — The puddle is important.
+**Example:** *El niño saltó en el charco.* — The boy jumped in the puddle.

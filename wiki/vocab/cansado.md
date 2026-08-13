@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-13
 ---
 
 **Meaning:** tired
 
-**Pattern:** Use with article `el/la cansado`
+**Pattern:** Adjective — agrees in gender/number (cansado/cansada); used with estar, not ser
 
-**Example:** *El/la cansado es importante.* — The tired is important.
+**Example:** *Estoy muy cansado después del trabajo.* — I'm very tired after work.

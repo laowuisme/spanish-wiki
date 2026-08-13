@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: verb
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** to walk, walk
 
-**Pattern:** `caminar` — regular use: walk
+**Pattern:** Regular -ar verb (camino, caminas, camina...)
 
-**Example:** *Necesito caminar.* — I need to walk.
+**Example:** *Camino al trabajo todos los días.* — I walk to work every day.

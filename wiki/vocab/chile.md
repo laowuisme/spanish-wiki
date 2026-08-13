@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** pepper
 
-**Pattern:** Use with article `el/la chile`
+**Pattern:** Masculine noun — el chile (chili pepper; not to be confused with the country Chile)
 
-**Example:** *Me gusta el/la chile.* — I like pepper.
+**Example:** *Le puse chile a la salsa.* — I added chili pepper to the sauce.

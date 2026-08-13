@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: verb
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-13
 ---
 
 **Meaning:** Canadian
 
-**Pattern:** Reflexive verb: `canadiense` requires matching reflexive pronoun (me/te/se/nos)
+**Pattern:** Adjective — same form for masculine and feminine (canadiense), add -s for plural (canadienses)
 
-**Example:** *Necesito canadiense.* — I need to canadian.
+**Example:** *Mi amiga es canadiense.* — My friend is Canadian.

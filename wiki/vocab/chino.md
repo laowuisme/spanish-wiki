@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-13
 ---
 
 **Meaning:** Chinese
 
-**Pattern:** Use with article `el/la chino`
+**Pattern:** Adjective — agrees in gender/number (chino/china); el chino (masculine noun) also names the language
 
-**Example:** *El/la chino es importante.* — The chinese is important.
+**Example:** *Ella estudia chino en la universidad.* — She's studying Chinese at university.

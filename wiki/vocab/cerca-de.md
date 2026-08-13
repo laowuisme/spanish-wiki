@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: phrase
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
-**Meaning:** nearest, about, near
+**Meaning:** near, close to; about (with approximate quantities)
 
-**Pattern:** Fixed expression: `cerca de`
+**Pattern:** Fixed preposition phrase — cerca de + noun
 
-**Example:** *Cerca de.* — — Nearest.
+**Example:** *Vivo cerca de la estación.* — I live near the station.

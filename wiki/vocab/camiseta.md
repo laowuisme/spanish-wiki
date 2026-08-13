@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** shirt
 
-**Pattern:** Use with article `el/la camiseta`
+**Pattern:** Feminine noun — la camiseta (t-shirt, distinct from [[camisa]])
 
-**Example:** *El/la camiseta es importante.* — The shirt is important.
+**Example:** *Compré una camiseta nueva para el gimnasio.* — I bought a new t-shirt for the gym.

@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** countryside
 
-**Pattern:** Use with article `el/la campo`
+**Pattern:** Masculine noun — el campo (also "field")
 
-**Example:** *El/la campo es importante.* — The countryside is important.
+**Example:** *Mis abuelos viven en el campo.* — My grandparents live in the countryside.

@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: verb
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
-**Meaning:** hold, (to) play, (to) perform
+**Meaning:** to celebrate
 
-**Pattern:** `celebrar` — regular use: hold
+**Pattern:** Regular -ar verb (celebro, celebras, celebra...)
 
-**Example:** *Necesito celebrar.* — I need to hold.
+**Example:** *Vamos a celebrar tu cumpleaños el sábado.* — We're going to celebrate your birthday on Saturday.

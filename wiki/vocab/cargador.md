@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** charger
 
-**Pattern:** Use with article `el/la cargador`
+**Pattern:** Masculine noun — el cargador
 
-**Example:** *El/la cargador es importante.* — The charger is important.
+**Example:** *¿Tienes un cargador para mi teléfono?* — Do you have a charger for my phone?

@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** letter
 
-**Pattern:** Use with article `el/la carta`
+**Pattern:** Feminine noun — la carta (also "menu" in restaurant contexts)
 
-**Example:** *El/la carta es importante.* — The letter is important.
+**Example:** *Le escribí una carta a mi abuela.* — I wrote a letter to my grandmother.

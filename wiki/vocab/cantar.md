@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: verb
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** to sing, sing
 
-**Pattern:** `cantar` — regular use: sing
+**Pattern:** Regular -ar verb (canto, cantas, canta...)
 
-**Example:** *Necesito cantar.* — I need to sing.
+**Example:** *Me encanta cantar en la ducha.* — I love singing in the shower.

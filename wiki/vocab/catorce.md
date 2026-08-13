@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: number
+last_updated: 2026-08-13
 ---
 
 **Meaning:** fourteen
 
-**Pattern:** Use with article `el/la catorce`
+**Pattern:** Cardinal number, invariable
 
 **Example:** *Tengo catorce años.* — I am fourteen years old.

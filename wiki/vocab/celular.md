@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: verb
-last_updated: 2026-06-19
+type: noun
+last_updated: 2026-08-13
 ---
 
 **Meaning:** cellphone
 
-**Pattern:** `celular` — regular use: cellphone
+**Pattern:** Masculine noun — el celular (Latin American Spanish; "móvil" in Spain)
 
-**Example:** *Necesito celular.* — I need to cellphone.
+**Example:** *Dejé mi celular en casa.* — I left my cellphone at home.

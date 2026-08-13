@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** cycling
 
-**Pattern:** Use with article `el/la ciclismo`
+**Pattern:** Masculine noun — el ciclismo (the sport)
 
-**Example:** *El/la ciclismo es importante.* — The cycling is important.
+**Example:** *Practico ciclismo los fines de semana.* — I go cycling on weekends.

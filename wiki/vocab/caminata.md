@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** hike
 
-**Pattern:** Use with article `el/la caminata`
+**Pattern:** Feminine noun — la caminata
 
-**Example:** *El/la caminata es importante.* — The hike is important.
+**Example:** *Hicimos una caminata larga por la montaña.* — We went on a long hike in the mountains.

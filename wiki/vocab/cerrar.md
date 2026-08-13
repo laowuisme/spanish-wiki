@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: verb
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** to close, close
 
-**Pattern:** `cerrar` — regular use: close
+**Pattern:** Stem-changing verb e→ie (cierro, cierras, cierra...)
 
-**Example:** *Necesito cerrar.* — I need to close.
+**Example:** *La tienda cierra a las nueve.* — The store closes at nine.

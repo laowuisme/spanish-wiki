@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: phrase
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** science fiction
 
-**Pattern:** Fixed expression: `ciencia ficción`
+**Pattern:** Fixed noun phrase, feminine — la ciencia ficción
 
-**Example:** *Ciencia ficción.* — — Science fiction.
+**Example:** *Me gustan las películas de ciencia ficción.* — I like science fiction movies.

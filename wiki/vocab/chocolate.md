@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** chocolate
 
-**Pattern:** Use with article `el/la chocolate`
+**Pattern:** Masculine noun — el chocolate
 
-**Example:** *Me gusta el/la chocolate.* — I like chocolate.
+**Example:** *Me encanta el chocolate caliente.* — I love hot chocolate.

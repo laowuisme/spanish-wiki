@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: verb
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** brush
 
-**Pattern:** Reflexive verb: `cepillarse` requires matching reflexive pronoun (me/te/se/nos)
+**Pattern:** Reflexive -ar verb (me cepillo, te cepillas, se cepilla...); often used with body parts, e.g. cepillarse los dientes
 
-**Example:** *Necesito cepillarse.* — I need to brush.
+**Example:** *Me cepillo los dientes tres veces al día.* — I brush my teeth three times a day.

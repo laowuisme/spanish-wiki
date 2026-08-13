@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-13
 ---
 
 **Meaning:** onion
 
-**Pattern:** Use with article `el/la cebolla`
+**Pattern:** Feminine noun — la cebolla
 
-**Example:** *Me gusta el/la cebolla.* — I like onion.
+**Example:** *Corté la cebolla para la sopa.* — I chopped the onion for the soup.
