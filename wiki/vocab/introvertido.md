@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-14
 ---
 
 **Meaning:** introverted
 
-**Pattern:** Use with article `el/la introvertido`
+**Pattern:** Agrees in gender/number: introvertido/introvertida/introvertidos/introvertidas
 
-**Example:** *El/la introvertido es importante.* — The introverted is important.
+**Example:** *Mi hermana es bastante introvertida.* — My sister is quite introverted.

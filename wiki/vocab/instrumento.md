@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** instrument
 
-**Pattern:** Use with article `el/la instrumento`
+**Pattern:** Masculine noun: `el instrumento`
 
-**Example:** *El/la instrumento es importante.* — The instrument is important.
+**Example:** *Toco un instrumento musical.* — I play a musical instrument.

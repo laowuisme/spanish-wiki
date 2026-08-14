@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** Japanese
 
-**Pattern:** Use with article `el/la japonés`
+**Pattern:** Masculine noun `el japonés` for the language; also an adjective of nationality: japonés/japonesa/japoneses/japonesas
 
-**Example:** *El/la japonés es importante.* — The japanese is important.
+**Example:** *Quiero aprender japonés algún día.* — I want to learn Japanese someday.

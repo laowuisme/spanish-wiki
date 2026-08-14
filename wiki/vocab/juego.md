@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** game
 
-**Pattern:** Use with article `el/la juego`
+**Pattern:** Masculine noun: `el juego`
 
-**Example:** *El/la juego es importante.* — The game is important.
+**Example:** *Los niños juegan un juego de mesa.* — The kids are playing a board game.

@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** washing machine
 
-**Pattern:** Use with article `el/la lavadora`
+**Pattern:** Feminine noun: `la lavadora`
 
-**Example:** *El/la lavadora es importante.* — The washing machine is important.
+**Example:** *Puse la ropa en la lavadora.* — I put the clothes in the washing machine.

@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** engineer
 
-**Pattern:** Use with article `el/la ingeniero`
+**Pattern:** Masculine noun: `el ingeniero`; feminine form `la ingeniera`
 
-**Example:** *El/la ingeniero es importante.* — The engineer is important.
+**Example:** *Mi hermano es ingeniero.* — My brother is an engineer.

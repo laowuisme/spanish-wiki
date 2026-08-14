@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
-**Meaning:** lake, lago
+**Meaning:** lake
 
-**Pattern:** Use with article `el/la lago`
+**Pattern:** Masculine noun: `el lago`
 
-**Example:** *El/la lago es importante.* — The lake is important.
+**Example:** *Nadamos en el lago todos los veranos.* — We swim in the lake every summer.

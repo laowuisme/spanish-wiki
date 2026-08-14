@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-14
 ---
 
 **Meaning:** left
 
-**Pattern:** Use with article `el/la izquierdo`
+**Pattern:** Agrees in gender/number: izquierdo/izquierda/izquierdos/izquierdas; `la izquierda` (noun) means 'the left (side)'
 
-**Example:** *El/la izquierdo es importante.* — The left is important.
+**Example:** *Gira a la izquierda en la esquina.* — Turn left at the corner.

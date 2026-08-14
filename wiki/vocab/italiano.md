@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** Italian
 
-**Pattern:** Use with article `el/la italiano`
+**Pattern:** Masculine noun `el italiano` for the language; also an adjective of nationality: italiano/italiana/italianos/italianas
 
-**Example:** *El/la italiano es importante.* — The italian is important.
+**Example:** *Me encanta la comida italiana.* — I love Italian food.

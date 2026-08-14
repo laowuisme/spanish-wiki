@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** kilometer
 
-**Pattern:** Use with article `el/la kilómetro`
+**Pattern:** Masculine noun: `el kilómetro` (abbreviated *km*)
 
-**Example:** *El/la kilómetro es importante.* — The kilometer is important.
+**Example:** *El pueblo está a diez kilómetros de aquí.* — The town is ten kilometers from here.

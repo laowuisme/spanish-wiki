@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: phrase
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** kilo of
 
-**Pattern:** Fixed expression: `kilo de`
+**Pattern:** `un kilo de + [sustantivo]` — used for weight measurements
 
-**Example:** *Kilo de.* — — Kilo of.
+**Example:** *Necesito un kilo de manzanas.* — I need a kilo of apples.

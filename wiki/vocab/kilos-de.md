@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: phrase
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** kilos of
 
-**Pattern:** Fixed expression: `kilos de`
+**Pattern:** Plural of `kilo de`, used for quantities greater than one: `dos/tres kilos de + [sustantivo]`
 
-**Example:** *Kilos de.* — — Kilos of.
+**Example:** *Compré dos kilos de naranjas.* — I bought two kilos of oranges.

@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** toy
 
-**Pattern:** Use with article `el/la juguete`
+**Pattern:** Masculine noun: `el juguete`
 
-**Example:** *El/la juguete es importante.* — The toy is important.
+**Example:** *El niño tiene muchos juguetes.* — The boy has many toys.

@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-14
 ---
 
 **Meaning:** together
 
-**Pattern:** Use with article `el/la juntos`
+**Pattern:** Masculine plural form of *junto/junta*; agrees in gender/number (juntos/juntas); usually placed after the verb: *estamos juntos*
 
-**Example:** *El/la juntos es importante.* — The together is important.
+**Example:** *Vivimos juntos desde hace dos años.* — We've been living together for two years.

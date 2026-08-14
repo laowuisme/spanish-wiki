@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** ingredient
 
-**Pattern:** Use with article `el/la ingrediente`
+**Pattern:** Masculine noun: `el ingrediente`
 
-**Example:** *Me gusta el/la ingrediente.* — I like ingredient.
+**Example:** *El azúcar es un ingrediente de la receta.* — Sugar is an ingredient in the recipe.

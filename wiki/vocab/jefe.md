@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** boss
 
-**Pattern:** Use with article `el/la jefe`
+**Pattern:** Masculine noun: `el jefe`; feminine form `la jefa`
 
-**Example:** *El/la jefe es importante.* — The boss is important.
+**Example:** *Mi jefe llega temprano todos los días.* — My boss arrives early every day.

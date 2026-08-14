@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: article
+last_updated: 2026-08-14
 ---
 
-**Meaning:** your, her, the
+**Meaning:** the (feminine plural); them (direct object pronoun, feminine)
 
-**Pattern:** Use with article `el/la las`
+**Pattern:** Feminine plural definite article ('the'); also used as a direct object pronoun for 'them' (feminine): *las veo* = I see them
 
-**Example:** *El/la las es importante.* — The your is important.
+**Example:** *Las flores son bonitas.* — The flowers are pretty.

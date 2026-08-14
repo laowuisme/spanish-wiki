@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-14
 ---
 
 **Meaning:** young
 
-**Pattern:** Use with article `el/la joven`
+**Pattern:** Invariable for gender (same form masculine/feminine); plural: jóvenes; also used as a noun meaning 'young person'
 
-**Example:** *El/la joven es importante.* — The young is important.
+**Example:** *Ella es muy joven para ese trabajo.* — She's very young for that job.

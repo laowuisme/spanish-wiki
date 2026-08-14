@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** instructor
 
-**Pattern:** Use with article `el/la instructor`
+**Pattern:** Masculine noun: `el instructor`; feminine form `la instructora`
 
-**Example:** *El/la instructor es importante.* — The instructor is important.
+**Example:** *El instructor de yoga es muy paciente.* — The yoga instructor is very patient.

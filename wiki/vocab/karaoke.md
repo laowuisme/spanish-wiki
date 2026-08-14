@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** karaoke
 
-**Pattern:** Use with article `el/la karaoke`
+**Pattern:** Masculine noun: `el karaoke`
 
-**Example:** *El/la karaoke es importante.* — The karaoke is important.
+**Example:** *Fuimos a cantar karaoke el sábado.* — We went to sing karaoke on Saturday.

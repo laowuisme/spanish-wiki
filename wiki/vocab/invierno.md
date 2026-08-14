@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** winter
 
-**Pattern:** Use with article `el/la invierno`
+**Pattern:** Masculine noun: `el invierno`; use *en invierno* for 'in winter'
 
-**Example:** *El/la invierno es importante.* — The winter is important.
+**Example:** *Hace mucho frío en invierno.* — It's very cold in winter.

@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** July
 
-**Pattern:** Month; no capital letter in Spanish; use *en julio* for 'in julio'
+**Pattern:** Months are masculine and lowercase in Spanish; use *en julio* for 'in July'
 
 **Example:** *Mi cumpleaños es en julio.* — My birthday is in July.

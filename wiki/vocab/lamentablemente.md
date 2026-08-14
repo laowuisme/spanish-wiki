@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: adverb
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** unfortunately
 
-**Pattern:** Modifies verbs, adjectives, or other adverbs
+**Pattern:** Adverb ending in *-mente*, formed from the adjective *lamentable*; usually placed at the start of the sentence
 
-**Example:** *Lo hizo lamentablemente.* — He/she did it unfortunately.
+**Example:** *Lamentablemente, no pude ir a la fiesta.* — Unfortunately, I couldn't go to the party.

@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-14
 ---
 
 **Meaning:** intelligent
 
-**Pattern:** Use with article `el/la inteligente`
+**Pattern:** Invariable for gender (same form masculine/feminine); plural: inteligentes
 
-**Example:** *El/la inteligente es importante.* — The intelligent is important.
+**Example:** *Mi perro es muy inteligente.* — My dog is very intelligent.

@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-14
 ---
 
 **Meaning:** interesting
 
-**Pattern:** Use with article `el/la interesante`
+**Pattern:** Invariable for gender (same form masculine/feminine); plural: interesantes
 
-**Example:** *El/la interesante es importante.* — The interesting is important.
+**Example:** *Este libro es muy interesante.* — This book is very interesting.

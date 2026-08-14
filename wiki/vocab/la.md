@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: article
+last_updated: 2026-08-14
 ---
 
-**Meaning:** your, her, the
+**Meaning:** the (feminine singular); her/it (direct object pronoun)
 
-**Pattern:** Use with article `el/la la`
+**Pattern:** Feminine singular definite article ('the'); also used as a direct object pronoun for 'her/it', placed before the conjugated verb: *la veo* = I see her/it
 
-**Example:** *El/la la es importante.* — The your is important.
+**Example:** *La casa es grande.* — The house is big.

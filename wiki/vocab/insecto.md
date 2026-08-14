@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** insect
 
-**Pattern:** Use with article `el/la insecto`
+**Pattern:** Masculine noun: `el insecto`
 
-**Example:** *El/la insecto es importante.* — The insect is important.
+**Example:** *Hay un insecto en la cocina.* — There's an insect in the kitchen.

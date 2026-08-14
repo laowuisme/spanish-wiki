@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** herbal tea
 
-**Pattern:** Use with article `el/la infusión`
+**Pattern:** Feminine noun: `la infusión`
 
-**Example:** *El/la infusión es importante.* — The herbal tea is important.
+**Example:** *Por las noches tomo una infusión de manzanilla.* — At night I have a cup of chamomile tea.
