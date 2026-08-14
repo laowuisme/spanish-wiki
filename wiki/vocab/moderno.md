@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-14
 ---
 
 **Meaning:** modern, fashionable
 
-**Pattern:** Use with article `el/la moderno`
+**Pattern:** Adjective; agrees in gender/number: moderno/moderna
 
-**Example:** *El/la moderno es importante.* — The modern is important.
+**Example:** *Vivimos en un edificio moderno.* — We live in a modern building.

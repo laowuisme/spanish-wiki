@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-14
 ---
 
 **Meaning:** half
 
-**Pattern:** Use with article `el/la medio`
+**Pattern:** Adjective; agrees in gender/number: medio/media — placed before a noun for 'half a...' (e.g. medio kilo)
 
-**Example:** *El/la medio es importante.* — The half is important.
+**Example:** *Quiero medio kilo de manzanas.* — I want half a kilo of apples.

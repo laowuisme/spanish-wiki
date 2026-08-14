@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: verb
-last_updated: 2026-06-19
+type: noun
+last_updated: 2026-08-14
 ---
 
 **Meaning:** woman
 
-**Pattern:** `mujer` — regular use: woman
+**Pattern:** Feminine noun: la mujer (also means 'wife' in some contexts)
 
-**Example:** *Necesito mujer.* — I need to woman.
+**Example:** *Esa mujer es mi profesora.* — That woman is my teacher.

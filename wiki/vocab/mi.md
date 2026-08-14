@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-14
 ---
 
 **Meaning:** my
 
-**Pattern:** Use with article `el/la mi`
+**Pattern:** Possessive adjective; invariable for gender, takes -s for plural: mi/mis
 
-**Example:** *El/la mi es importante.* — The my is important.
+**Example:** *Mi hermano vive en Madrid.* — My brother lives in Madrid.

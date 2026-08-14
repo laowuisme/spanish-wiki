@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-14
 ---
 
 **Meaning:** musical
 
-**Pattern:** Use with article `el/la musical`
+**Pattern:** Invariable adjective (same form for masc./fem.): musical; also used as a noun for the show genre (un musical)
 
-**Example:** *El/la musical es importante.* — The musical is important.
+**Example:** *Vimos un musical en Broadway.* — We saw a musical on Broadway.

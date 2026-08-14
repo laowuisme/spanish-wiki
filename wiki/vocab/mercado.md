@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** market
 
-**Pattern:** Use with article `el/la mercado`
+**Pattern:** Masculine noun: el mercado
 
-**Example:** *El/la mercado es importante.* — The market is important.
+**Example:** *Compramos verduras frescas en el mercado.* — We buy fresh vegetables at the market.

@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** snack
 
-**Pattern:** Use with article `el/la merienda`
+**Pattern:** Feminine noun: la merienda (afternoon snack)
 
-**Example:** *Me gusta el/la merienda.* — I like snack.
+**Example:** *Los niños comen la merienda a las cinco.* — The children eat their snack at five.

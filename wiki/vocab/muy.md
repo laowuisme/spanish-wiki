@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adverb
+last_updated: 2026-08-14
 ---
 
 **Meaning:** very
 
-**Pattern:** Use with article `el/la muy`
+**Pattern:** Invariable adverb of degree; placed before adjectives/adverbs: muy + adjective/adverb (never before nouns — use mucho for that)
 
-**Example:** *El/la muy es importante.* — The very is important.
+**Example:** *Este libro es muy interesante.* — This book is very interesting.

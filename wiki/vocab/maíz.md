@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** corn
 
-**Pattern:** Use with article `el/la maíz`
+**Pattern:** Masculine noun: el maíz
 
-**Example:** *Me gusta el/la maíz.* — I like corn.
+**Example:** *El maíz es un ingrediente básico en México.* — Corn is a basic ingredient in Mexico.

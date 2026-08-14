@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-14
 ---
 
 **Meaning:** same
 
-**Pattern:** Use with article `el/la mismo`
+**Pattern:** Adjective; agrees in gender/number: mismo/misma/mismos/mismas; also used as an intensifying pronoun (yo mismo = I myself)
 
-**Example:** *El/la mismo es importante.* — The same is important.
+**Example:** *Tenemos el mismo problema.* — We have the same problem.

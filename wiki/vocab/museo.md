@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
-**Meaning:** museums, museum, museum's
+**Meaning:** museum
 
-**Pattern:** Use with article `el/la museo`
+**Pattern:** Masculine noun: el museo
 
-**Example:** *El/la museo es importante.* — The museums is important.
+**Example:** *Visitamos el museo de arte moderno.* — We visited the modern art museum.

@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** minute
 
-**Pattern:** Use with article `el/la minuto`
+**Pattern:** Masculine noun: el minuto
 
-**Example:** *El/la minuto es importante.* — The minute is important.
+**Example:** *Espera un minuto, por favor.* — Wait a minute, please.

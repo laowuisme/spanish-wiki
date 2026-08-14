@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** stocking
 
-**Pattern:** Use with article `el/la media`
+**Pattern:** Feminine noun: la media (also used for 'half' in telling time, e.g. la una y media)
 
-**Example:** *El/la media es importante.* — The stocking is important.
+**Example:** *Se puso las medias antes de salir.* — She put on her stockings before going out.

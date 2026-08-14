@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** medicine
 
-**Pattern:** Use with article `el/la medicina`
+**Pattern:** Feminine noun: la medicina
 
-**Example:** *El/la medicina es importante.* — The medicine is important.
+**Example:** *Tienes que tomar la medicina tres veces al día.* — You have to take the medicine three times a day.

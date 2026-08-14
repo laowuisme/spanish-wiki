@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: phrase
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
-**Meaning:** my best friend's, my best friend
+**Meaning:** my best friend
 
-**Pattern:** Fixed expression: `mi mejor amiga`
+**Pattern:** Possessive phrase: mi mejor amiga (fem.)
 
-**Example:** *Mi mejor amiga.* — — My best friend's.
+**Example:** *Ella es mi mejor amiga.* — She is my best friend.

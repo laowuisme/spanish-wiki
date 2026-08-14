@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** morning, tomorrow
 
-**Pattern:** Use with article `el/la mañana`
+**Pattern:** Feminine noun for 'morning' (la mañana); the same word is used as an invariable adverb for 'tomorrow' with no article
 
-**Example:** *El/la mañana es importante.* — The morning is important.
+**Example:** *Mañana por la mañana voy al médico.* — Tomorrow morning I'm going to the doctor.

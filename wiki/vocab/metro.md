@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** subway
 
-**Pattern:** Use with article `el/la metro`
+**Pattern:** Masculine noun: el metro (also means 'meter', the unit of length)
 
-**Example:** *El/la metro es importante.* — The subway is important.
+**Example:** *Voy al trabajo en metro.* — I go to work by subway.

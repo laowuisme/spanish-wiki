@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** mayonnaise
 
-**Pattern:** Use with article `el/la mayonesa`
+**Pattern:** Feminine noun: la mayonesa
 
-**Example:** *Me gusta el/la mayonesa.* — I like mayonnaise.
+**Example:** *Le pongo mayonesa al sándwich.* — I put mayonnaise on the sandwich.

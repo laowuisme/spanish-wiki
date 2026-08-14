@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: verb
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** to watch, watch
 
-**Pattern:** `mirar` — regular use: watch
+**Pattern:** Regular -ar verb: miro, miras, mira, miramos, miráis, miran
 
-**Example:** *Necesito mirar.* — I need to watch.
+**Example:** *Me gusta mirar las estrellas por la noche.* — I like to watch the stars at night.

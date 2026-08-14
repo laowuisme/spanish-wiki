@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** coin
 
-**Pattern:** Use with article `el/la moneda`
+**Pattern:** Feminine noun: la moneda (also means 'currency')
 
-**Example:** *El/la moneda es importante.* — The coin is important.
+**Example:** *Encontré una moneda en la calle.* — I found a coin on the street.

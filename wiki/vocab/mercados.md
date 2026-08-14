@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** markets
 
-**Pattern:** Use with article `el/la mercados`
+**Pattern:** Plural of mercado (masc.): los mercados
 
-**Example:** *El/la mercados es importante.* — The markets is important.
+**Example:** *Los mercados locales venden productos frescos.* — Local markets sell fresh products.

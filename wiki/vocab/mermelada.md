@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** jam
 
-**Pattern:** Use with article `el/la mermelada`
+**Pattern:** Feminine noun: la mermelada
 
-**Example:** *Me gusta el/la mermelada.* — I like jam.
+**Example:** *Pongo mermelada de fresa en el pan.* — I put strawberry jam on the bread.

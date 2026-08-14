@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** monument
 
-**Pattern:** Use with article `el/la monumento`
+**Pattern:** Masculine noun: el monumento
 
-**Example:** *El/la monumento es importante.* — The monument is important.
+**Example:** *Visitamos un monumento histórico.* — We visited a historic monument.

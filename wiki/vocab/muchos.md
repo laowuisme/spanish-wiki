@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-14
 ---
 
 **Meaning:** lots of, a lot of, many
 
-**Pattern:** Use with article `el/la muchos`
+**Pattern:** Plural adjective; agrees in gender: muchos/muchas
 
-**Example:** *El/la muchos es importante.* — The lots of is important.
+**Example:** *Tengo muchos amigos en España.* — I have many friends in Spain.

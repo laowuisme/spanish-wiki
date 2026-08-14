@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: phrase
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** best friend
 
-**Pattern:** Fixed expression: `mejor amigo`
+**Pattern:** Fixed noun phrase: mejor amigo (masc.) / mejor amiga (fem.)
 
-**Example:** *Mejor amigo.* — — Best friend.
+**Example:** *Él es mi mejor amigo.* — He is my best friend.

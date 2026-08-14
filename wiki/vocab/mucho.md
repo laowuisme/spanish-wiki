@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective/adverb
+last_updated: 2026-08-14
 ---
 
-**Meaning:** plenty, too, long
+**Meaning:** a lot, much, very
 
-**Pattern:** Use with article `el/la mucho`
+**Pattern:** Adjective (agrees: mucho/mucha/muchos/muchas) meaning 'a lot of'; also an invariable adverb meaning 'a lot' after a verb (me gusta mucho)
 
-**Example:** *El/la mucho es importante.* — The plenty is important.
+**Example:** *Como mucho los fines de semana.* — I eat a lot on weekends.

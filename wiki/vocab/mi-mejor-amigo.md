@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: phrase
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
-**Meaning:** friend, my best friend
+**Meaning:** my best friend
 
-**Pattern:** Fixed expression: `mi mejor amigo`
+**Pattern:** Possessive phrase: mi mejor amigo (masc.)
 
-**Example:** *Mi mejor amigo.* — — Friend.
+**Example:** *Él es mi mejor amigo.* — He is my best friend.

@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-27
+type: conjunction
+last_updated: 2026-08-14
 ---
 
 **Meaning:** while
 
-**Pattern:** Use with article `el/la mientras`
+**Pattern:** Conjunction introducing simultaneous action: mientras + verb
 
-**Example:** *El/la mientras es importante.* — The while is important.
+**Example:** *Escucho música mientras trabajo.* — I listen to music while I work.

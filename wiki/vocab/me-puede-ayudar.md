@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: phrase
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** can you help me
 
-**Pattern:** Fixed expression: `me puede ayudar`
+**Pattern:** Formal request with poder + infinitive (usted form): ¿Me puede ayudar?
 
-**Example:** *Me puede ayudar.* — — Can you help me.
+**Example:** *¿Me puede ayudar con esta maleta?* — Can you help me with this suitcase?
