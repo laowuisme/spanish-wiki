@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** opinion
 
-**Pattern:** Use with article `el/la opinión`
+**Pattern:** Feminine noun: la opinión. Plural: opiniones (loses the accent).
 
-**Example:** *El/la opinión es importante.* — The opinion is important.
+**Example:** *En mi opinión, esta película es excelente.* — In my opinion, this movie is excellent.

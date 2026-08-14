@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** park
 
-**Pattern:** Use with article `el/la parque`
+**Pattern:** Masculine noun: el parque. Plural: parques.
 
-**Example:** *El/la parque es importante.* — The park is important.
+**Example:** *Vamos al parque los domingos.* — We go to the park on Sundays.

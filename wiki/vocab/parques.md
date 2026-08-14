@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** parks
 
-**Pattern:** Use with article `el/la parques`
+**Pattern:** Plural of [[parque]]: los parques.
 
-**Example:** *El/la parques es importante.* — The parks is important.
+**Example:** *Esta ciudad tiene muchos parques.* — This city has many parks.

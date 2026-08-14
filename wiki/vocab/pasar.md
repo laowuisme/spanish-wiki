@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: verb
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
-**Meaning:** let's, passing, go
+**Meaning:** to happen, to pass, to spend (time)
 
-**Pattern:** `pasar` — regular use: let's
+**Pattern:** Regular -ar verb; multiple senses: `pasar` = to happen (¿Qué pasa?), to pass by, to spend time (pasar tiempo), or to come in (¡Pasa!).
 
-**Example:** *Necesito pasar.* — I need to let's.
+**Example:** *¿Qué pasó ayer?* — What happened yesterday?

@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-15
 ---
 
-**Meaning:** new, newer, newest
+**Meaning:** new
 
-**Pattern:** Use with article `el/la nuevo`
+**Pattern:** Adjective; agrees in gender/number (nuevo/nueva/nuevos/nuevas). Usually precedes the noun for "different/another" (*un nuevo trabajo* = a new/different job), follows for "brand new" (*un carro nuevo* = a brand-new car).
 
-**Example:** *El/la nuevo es importante.* — The new is important.
+**Example:** *Compré un carro nuevo.* — I bought a new car.

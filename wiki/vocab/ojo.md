@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** eye
 
-**Pattern:** Use with article `el/la ojo`
+**Pattern:** Masculine noun: el ojo. Plural: ojos. Also used as an interjection, `¡Ojo!` = Watch out!/Careful!
 
-**Example:** *El/la ojo es importante.* — The eye is important.
+**Example:** *Tiene los ojos azules.* — He/she has blue eyes.

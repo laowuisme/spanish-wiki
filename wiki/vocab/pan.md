@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
-**Meaning:** bread, bread's
+**Meaning:** bread
 
-**Pattern:** Use with article `el/la pan`
+**Pattern:** Masculine noun: el pan. Plural: panes.
 
-**Example:** *El/la pan es importante.* — The bread is important.
+**Example:** *Compro pan fresco cada mañana.* — I buy fresh bread every morning.

@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** passport
 
-**Pattern:** Use with article `el/la pasaporte`
+**Pattern:** Masculine noun: el pasaporte.
 
-**Example:** *El/la pasaporte es importante.* — The passport is important.
+**Example:** *No olvides tu pasaporte para el viaje.* — Don't forget your passport for the trip.

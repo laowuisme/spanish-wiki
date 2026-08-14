@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** parents
 
-**Pattern:** Use with article `el/la padres`
+**Pattern:** Masculine plural noun: los padres = parents (default plural meaning, not "fathers"). Related: [[padre]].
 
-**Example:** *El/la padres es importante.* — The parents is important.
+**Example:** *Mis padres viven en Bogotá.* — My parents live in Bogotá.

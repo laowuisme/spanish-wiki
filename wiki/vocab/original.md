@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-15
 ---
 
 **Meaning:** original, different
 
-**Pattern:** Use with article `el/la original`
+**Pattern:** Invariable adjective for gender (ends in -l); add -es for plural: originales.
 
-**Example:** *El/la original es importante.* — The original is important.
+**Example:** *Su idea es muy original.* — Their idea is very original.

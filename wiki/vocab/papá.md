@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** dad
 
-**Pattern:** Use with article `el/la papá`
+**Pattern:** Masculine noun: el papá. Informal/affectionate term for "father"; carries a written accent on the final syllable, distinct from [[papa]] (potato), which has no accent.
 
-**Example:** *El/la papá es importante.* — The dad is important.
+**Example:** *Mi papá me lleva a la escuela.* — My dad takes me to school.

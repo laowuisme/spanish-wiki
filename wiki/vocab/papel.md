@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** paper
 
-**Pattern:** Use with article `el/la papel`
+**Pattern:** Masculine noun: el papel. Also means "role" (as in a role in a play or movie).
 
-**Example:** *El/la papel es importante.* — The paper is important.
+**Example:** *Necesito una hoja de papel.* — I need a sheet of paper.

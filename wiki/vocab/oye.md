@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: interjection
+last_updated: 2026-08-15
 ---
 
 **Meaning:** hears, hey
 
-**Pattern:** Use with article `el/la oye`
+**Pattern:** Informal interjection used to get someone's attention (like "hey" or "listen"); also the 3rd-person singular present of `oír` (to hear).
 
-**Example:** *El/la oye es importante.* — The hears is important.
+**Example:** *¡Oye! ¿Adónde vas?* — Hey! Where are you going?

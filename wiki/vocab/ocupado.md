@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-15
 ---
 
 **Meaning:** engaged, busy, dealing with
 
-**Pattern:** Use with article `el/la ocupado`
+**Pattern:** Adjective; agrees in gender/number (ocupado/ocupada). Used with `estar`: *estoy ocupado* = I am busy.
 
-**Example:** *El/la ocupado es importante.* — The engaged is important.
+**Example:** *Estoy muy ocupada hoy.* — I'm very busy today.

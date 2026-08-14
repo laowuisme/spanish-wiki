@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** hobby
 
-**Pattern:** Use with article `el/la pasatiempo`
+**Pattern:** Masculine noun: el pasatiempo. Plural: pasatiempos.
 
-**Example:** *El/la pasatiempo es importante.* — The hobby is important.
+**Example:** *Mi pasatiempo favorito es la fotografía.* — My favorite hobby is photography.

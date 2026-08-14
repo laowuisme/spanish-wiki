@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-15
 ---
 
 **Meaning:** Panamanian
 
-**Pattern:** Use with article `el/la panameño`
+**Pattern:** Adjective of nationality; agrees in gender/number (panameño/panameña); lowercase in Spanish.
 
-**Example:** *El/la panameño es importante.* — The panamanian is important.
+**Example:** *Mi amigo es panameño.* — My friend is Panamanian.

@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** pill
 
-**Pattern:** Use with article `el/la pastilla`
+**Pattern:** Feminine noun: la pastilla. Plural: pastillas.
 
-**Example:** *El/la pastilla es importante.* — The pill is important.
+**Example:** *Tengo que tomar una pastilla cada día.* — I have to take a pill every day.

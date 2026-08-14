@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** fall
 
-**Pattern:** Use with article `el/la otoño`
+**Pattern:** Masculine noun: el otoño. Season name, lowercase in Spanish, used with `en`: en otoño.
 
-**Example:** *El/la otoño es importante.* — The fall is important.
+**Example:** *Me gusta el otoño porque hace fresco.* — I like fall because it's cool.

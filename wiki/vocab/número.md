@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** number
 
-**Pattern:** Use with article `el/la número`
+**Pattern:** Masculine noun: el número. Plural: números.
 
-**Example:** *El/la número es importante.* — The number is important.
+**Example:** *¿Cuál es tu número de teléfono?* — What's your phone number?

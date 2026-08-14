@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-15
 ---
 
-**Meaning:** us's, our, ours
+**Meaning:** our, ours (masculine singular)
 
-**Pattern:** Use with article `el/la nuestro`
+**Pattern:** Possessive adjective; masculine singular form, agrees with the noun it modifies. Forms: nuestro/nuestra/nuestros/nuestras.
 
-**Example:** *El/la nuestro es importante.* — The us's is important.
+**Example:** *Nuestro perro es muy grande.* — Our dog is very big.

@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
-**Meaning:** spouse's, girlfriend's, date
+**Meaning:** partner, girlfriend/boyfriend, couple
 
-**Pattern:** Use with article `el/la pareja`
+**Pattern:** Feminine noun: la pareja (used for a person's partner of any gender). Also means "pair" or "couple" in general.
 
-**Example:** *El/la pareja es importante.* — The spouse's is important.
+**Example:** *Mi pareja y yo vamos a viajar juntos.* — My partner and I are going to travel together.

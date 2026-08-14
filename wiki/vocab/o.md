@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: conjunction
+last_updated: 2026-08-15
 ---
 
 **Meaning:** or, either
 
-**Pattern:** Use with article `el/la o`
+**Pattern:** Coordinating conjunction; becomes `u` before a word starting with *o-* or *ho-* (e.g., *siete u ocho* = seven or eight).
 
-**Example:** *El/la o es importante.* — The or is important.
+**Example:** *¿Quieres té o café?* — Do you want tea or coffee?

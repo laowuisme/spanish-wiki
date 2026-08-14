@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-15
 ---
 
 **Meaning:** patient
 
-**Pattern:** Use with article `el/la paciente`
+**Pattern:** Invariable adjective ending in -e for both genders: el/la paciente; plural pacientes. Can also function as a noun meaning "patient" (medical sense).
 
-**Example:** *El/la paciente es importante.* — The patient is important.
+**Example:** *Mi abuela es muy paciente con los niños.* — My grandmother is very patient with children.

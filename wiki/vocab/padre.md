@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** father
 
-**Pattern:** Use with article `el/la padre`
+**Pattern:** Masculine noun: el padre. Plural padres = parents (see [[padres]]).
 
-**Example:** *El/la padre es importante.* — The father is important.
+**Example:** *Mi padre trabaja en un hospital.* — My father works at a hospital.

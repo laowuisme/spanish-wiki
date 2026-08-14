@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: phrase
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** again
 
-**Pattern:** Fixed expression: `otra vez`
+**Pattern:** Fixed adverbial phrase: otra vez. Synonym: de nuevo.
 
-**Example:** *Otra vez.* — — Again.
+**Example:** *¿Puedes explicarlo otra vez?* — Can you explain it again?
