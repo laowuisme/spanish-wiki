@@ -4,6 +4,10 @@ Append-only record of all wiki operations. Format: `## [YYYY-MM-DD] <operation> 
 
 ---
 
+## [2026-08-14] fix | vocab placeholder cleanup batch 13
+- 50 files corrected (type/pattern/example rewritten)
+- 0 duplicate files removed
+
 ## [2026-08-14] fix | vocab placeholder cleanup batch 12
 - 50 files corrected (type/pattern/example rewritten)
 - 0 duplicate files removed
