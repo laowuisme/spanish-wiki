@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: verb
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** to drive, drives
 
-**Pattern:** `manejar` — regular use: drive
+**Pattern:** Regular *-ar* verb; used mainly in Latin America for 'to drive' (Spain typically uses *conducir*).
 
-**Example:** *Necesito manejar.* — I need to drive.
+**Example:** *No sé manejar un carro manual.* — I don't know how to drive a manual car.

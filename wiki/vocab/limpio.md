@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-14
 ---
 
 **Meaning:** clean
 
-**Pattern:** Use with article `el/la limpio`
+**Pattern:** Adjective; agrees in gender/number: *limpio/limpia/limpios/limpias*.
 
-**Example:** *El/la limpio es importante.* — The clean is important.
+**Example:** *El cuarto está muy limpio.* — The room is very clean.

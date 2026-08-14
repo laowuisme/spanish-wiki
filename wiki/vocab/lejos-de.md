@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: phrase
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** far from
 
-**Pattern:** Fixed expression: `lejos de`
+**Pattern:** Fixed prepositional phrase: *lejos de* + noun ('far from ___').
 
-**Example:** *Lejos de.* — — Far from.
+**Example:** *Mi casa está lejos de la escuela.* — My house is far from the school.

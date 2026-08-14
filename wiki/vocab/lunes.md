@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** Monday
 
-**Pattern:** Day of week; no article for general use: *el lunes* for recurring days
+**Pattern:** Masculine noun; days of the week are lowercase in Spanish. Use *el lunes* for 'on Monday(s)' (recurring); no article when simply stating the day.
 
 **Example:** *Hoy es lunes.* — Today is Monday.

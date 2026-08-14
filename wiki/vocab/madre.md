@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** mother
 
-**Pattern:** Use with article `el/la madre`
+**Pattern:** Feminine noun: *la madre*; plural *las madres*.
 
-**Example:** *El/la madre es importante.* — The mother is important.
+**Example:** *Mi madre trabaja en un hospital.* — My mother works at a hospital.

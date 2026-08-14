@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: article
+last_updated: 2026-08-14
 ---
 
-**Meaning:** your, her, the
+**Meaning:** the (masc. pl.); them (masc. pl. direct object pronoun)
 
-**Pattern:** Use with article `el/la los`
+**Pattern:** Definite article, masculine plural: *los libros* (the books). Also used as a direct object pronoun meaning 'them' (masc.).
 
-**Example:** *El/la los es importante.* — The your is important.
+**Example:** *Los libros están en la mesa.* — The books are on the table.

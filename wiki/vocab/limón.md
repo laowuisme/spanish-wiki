@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** lemon
 
-**Pattern:** Use with article `el/la limón`
+**Pattern:** Masculine noun: *el limón*; plural *los limones*.
 
-**Example:** *Me gusta el/la limón.* — I like lemon.
+**Example:** *Añade el jugo de un limón.* — Add the juice of one lemon.

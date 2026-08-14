@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** lemonade
 
-**Pattern:** Use with article `el/la limonada`
+**Pattern:** Feminine noun: *la limonada*.
 
-**Example:** *Me gusta el/la limonada.* — I like lemonade.
+**Example:** *En verano bebemos limonada fría.* — In summer we drink cold lemonade.

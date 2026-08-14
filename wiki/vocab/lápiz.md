@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** pencil
 
-**Pattern:** Use with article `el/la lápiz`
+**Pattern:** Masculine noun: *el lápiz*; plural *los lápices* (z→c before e).
 
-**Example:** *El/la lápiz es importante.* — The pencil is important.
+**Example:** *Necesito un lápiz para escribir.* — I need a pencil to write.

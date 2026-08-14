@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** milk
 
-**Pattern:** Use with article `el/la leche`
+**Pattern:** Feminine noun: *la leche*; mass noun, rarely pluralised.
 
-**Example:** *El/la leche es importante.* — The milk is important.
+**Example:** *Bebo un vaso de leche cada mañana.* — I drink a glass of milk every morning.

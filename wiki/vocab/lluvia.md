@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** rain
 
-**Pattern:** Use with article `el/la lluvia`
+**Pattern:** Feminine noun: *la lluvia*; plural *las lluvias*.
 
-**Example:** *El/la lluvia es importante.* — The rain is important.
+**Example:** *Me encanta el sonido de la lluvia.* — I love the sound of the rain.

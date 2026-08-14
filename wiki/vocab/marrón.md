@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-14
 ---
 
 **Meaning:** brown
 
-**Pattern:** Adjective; agrees in gender/number: marrón/marróa (if ends in -o)
+**Pattern:** Adjective, same form for masc./fem. (does not follow the -o/-a pattern); plural *marrones*.
 
 **Example:** *El coche es marrón.* — The car is brown.

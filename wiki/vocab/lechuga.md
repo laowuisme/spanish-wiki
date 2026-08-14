@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** lettuce
 
-**Pattern:** Use with article `el/la lechuga`
+**Pattern:** Feminine noun: *la lechuga*; plural *las lechugas*.
 
-**Example:** *Me gusta el/la lechuga.* — I like lettuce.
+**Example:** *La ensalada lleva lechuga fresca.* — The salad has fresh lettuce.

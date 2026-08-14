@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-14
 ---
 
 **Meaning:** bad
 
-**Pattern:** Use with article `el/la malo`
+**Pattern:** Adjective; agrees in gender/number: *malo/mala/malos/malas*. Shortens to *mal* before masculine singular nouns (*mal día*).
 
-**Example:** *El/la malo es importante.* — The bad is important.
+**Example:** *La película fue muy mala.* — The movie was very bad.

@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** lamp
 
-**Pattern:** Use with article `el/la lámpara`
+**Pattern:** Feminine noun: *la lámpara*; plural *las lámparas*.
 
-**Example:** *El/la lámpara es importante.* — The lamp is important.
+**Example:** *Enciende la lámpara, por favor.* — Turn on the lamp, please.

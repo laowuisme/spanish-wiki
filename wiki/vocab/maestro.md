@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** teacher
 
-**Pattern:** Use with article `el/la maestro`
+**Pattern:** Noun with gender variation: *el maestro / la maestra*; plural *los maestros/las maestras*.
 
-**Example:** *El/la maestro es importante.* — The teacher is important.
+**Example:** *El maestro explica la lección con paciencia.* — The teacher explains the lesson patiently.

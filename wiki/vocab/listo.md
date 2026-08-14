@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-14
 ---
 
 **Meaning:** ready
 
-**Pattern:** Use with article `el/la listo`
+**Pattern:** Adjective; agrees in gender/number: *listo/lista*. With *estar* = ready; with *ser* = clever/smart.
 
-**Example:** *El/la listo es importante.* — The ready is important.
+**Example:** *¿Estás listo para salir?* — Are you ready to go out?

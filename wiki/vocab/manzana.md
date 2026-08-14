@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** apple
 
-**Pattern:** Use with article `el/la manzana`
+**Pattern:** Feminine noun: *la manzana*; plural *las manzanas*.
 
-**Example:** *Me gusta el/la manzana.* — I like apple.
+**Example:** *Comí una manzana roja.* — I ate a red apple.

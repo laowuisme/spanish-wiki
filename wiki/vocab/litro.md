@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** liter, liters
 
-**Pattern:** Use with article `el/la litro`
+**Pattern:** Masculine noun: *el litro*; plural *los litros*.
 
-**Example:** *El/la litro es importante.* — The liter is important.
+**Example:** *Compré un litro de leche.* — I bought a liter of milk.

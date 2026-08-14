@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** literature
 
-**Pattern:** Use with article `el/la literatura`
+**Pattern:** Feminine noun: *la literatura*.
 
-**Example:** *El/la literatura es importante.* — The literature is important.
+**Example:** *Estudio literatura española en la universidad.* — I study Spanish literature at university.

@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** book
 
-**Pattern:** Use with article `el/la libro`
+**Pattern:** Masculine noun: *el libro*; plural *los libros*.
 
-**Example:** *El/la libro es importante.* — The book is important.
+**Example:** *Estoy leyendo un libro interesante.* — I'm reading an interesting book.

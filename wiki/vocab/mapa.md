@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** map
 
-**Pattern:** Use with article `el/la mapa`
+**Pattern:** Masculine noun despite the *-a* ending: *el mapa*; plural *los mapas*.
 
-**Example:** *El/la mapa es importante.* — The map is important.
+**Example:** *Busca la ciudad en el mapa.* — Look for the city on the map.

@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: verb
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** called, name's
 
-**Pattern:** Reflexive verb: `llamarse` requires matching reflexive pronoun (me/te/se/nos)
+**Pattern:** Reflexive *-ar* verb: *me llamo, te llamas, se llama, nos llamamos, se llaman*. Used to state one's name.
 
-**Example:** *Necesito llamarse.* — I need to called.
+**Example:** *Me llamo Ana.* — My name is Ana.

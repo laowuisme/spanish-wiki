@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** hand
 
-**Pattern:** Use with article `el/la mano`
+**Pattern:** Feminine noun despite the *-o* ending: *la mano*; plural *las manos*.
 
-**Example:** *Me duele mano.* — My hand hurts.
+**Example:** *Me lavé las manos antes de comer.* — I washed my hands before eating.

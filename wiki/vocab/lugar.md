@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: verb
-last_updated: 2026-06-19
+type: noun
+last_updated: 2026-08-14
 ---
 
 **Meaning:** place
 
-**Pattern:** `lugar` — regular use: place
+**Pattern:** Masculine noun: *el lugar*; plural *los lugares*. Common phrase: *en lugar de* (instead of).
 
-**Example:** *Necesito lugar.* — I need to place.
+**Example:** *Este es un buen lugar para comer.* — This is a good place to eat.

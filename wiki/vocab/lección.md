@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** lesson
 
-**Pattern:** Use with article `el/la lección`
+**Pattern:** Feminine noun: *la lección*; plural *las lecciones*.
 
-**Example:** *El/la lección es importante.* — The lesson is important.
+**Example:** *La lección de hoy fue difícil.* — Today's lesson was difficult.

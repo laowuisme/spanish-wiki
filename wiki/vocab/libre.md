@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-14
 ---
 
-**Meaning:** off, free, libre
+**Meaning:** free, off (e.g. day off)
 
-**Pattern:** Use with article `el/la libre`
+**Pattern:** Adjective, same form for masc./fem. (ends in *-e*); plural *libres*. Common in *día libre* (day off), *tiempo libre* (free time).
 
-**Example:** *El/la libre es importante.* — The off is important.
+**Example:** *Hoy tengo el día libre.* — Today I have the day off.

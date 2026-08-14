@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-14
 ---
 
 **Meaning:** magnificent
 
-**Pattern:** Use with article `el/la magnífico`
+**Pattern:** Adjective; agrees in gender/number: *magnífico/magnífica/magníficos/magníficas*.
 
-**Example:** *El/la magnífico es importante.* — The magnificent is important.
+**Example:** *¡Qué magnífico paisaje!* — What a magnificent landscape!
