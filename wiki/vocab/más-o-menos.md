@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: phrase
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** more or less
 
-**Pattern:** Fixed expression: `más o menos`
+**Pattern:** Fixed expression used to hedge an answer, often as a standalone reply.
 
-**Example:** *Más o menos.* — — More or less.
+**Example:** *¿Cómo estás? — Más o menos.* — How are you? — So-so / more or less.

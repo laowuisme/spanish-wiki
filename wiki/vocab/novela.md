@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
-**Meaning:** novel, novel's
+**Meaning:** novel
 
-**Pattern:** Use with article `el/la novela`
+**Pattern:** Feminine noun: *la novela*.
 
-**Example:** *El/la novela es importante.* — The novel is important.
+**Example:** *Estoy leyendo una novela de misterio.* — I'm reading a mystery novel.

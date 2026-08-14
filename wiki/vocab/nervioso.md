@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-15
 ---
 
 **Meaning:** tense, nervous, strung
 
-**Pattern:** Use with article `el/la nervioso`
+**Pattern:** Adjective; agrees in gender/number: `nervioso/nerviosa/nerviosos/nerviosas`. Often used with `estar` for a temporary state.
 
-**Example:** *El/la nervioso es importante.* — The tense is important.
+**Example:** *Estoy nervioso antes del examen.* — I'm nervous before the exam.

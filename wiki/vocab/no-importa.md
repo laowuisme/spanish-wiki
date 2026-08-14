@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: phrase
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** doesn't matter
 
-**Pattern:** Fixed expression: `no importa`
+**Pattern:** Fixed expression, third-person singular of `importar` negated with `no`.
 
-**Example:** *No importa.* — — Doesn't matter.
+**Example:** *Llegaste tarde, pero no importa.* — You arrived late, but it doesn't matter.

@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-15
 ---
 
-**Meaning:** us's, our, ours
+**Meaning:** our, ours
 
-**Pattern:** Use with article `el/la nuestra`
+**Pattern:** Feminine singular possessive adjective; agrees with the noun possessed, not the possessor: *nuestra casa* (our house). Masculine form: `nuestro`.
 
-**Example:** *El/la nuestra es importante.* — The us's is important.
+**Example:** *Esta es nuestra casa.* — This is our house.

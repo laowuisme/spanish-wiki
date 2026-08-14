@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: pronoun
+last_updated: 2026-08-15
 ---
 
-**Meaning:** we, us, ons
+**Meaning:** we, us
 
-**Pattern:** Use with article `el/la nosotras`
+**Pattern:** First-person plural feminine subject pronoun — used only for all-female groups.
 
-**Example:** *El/la nosotras es importante.* — The we is important.
+**Example:** *Nosotras vamos a la playa mañana.* — We (all women) are going to the beach tomorrow.

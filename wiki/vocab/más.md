@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adverb
+last_updated: 2026-08-15
 ---
 
 **Meaning:** more, any, further
 
-**Pattern:** Use with article `el/la más`
+**Pattern:** Adverb of comparison/superlative: `más ... que` (more ... than), `el/la más ...` (the most ...).
 
-**Example:** *El/la más es importante.* — The more is important.
+**Example:** *Quiero más café, por favor.* — I want more coffee, please.

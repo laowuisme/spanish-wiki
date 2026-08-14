@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: verb
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** to swim, swim
 
-**Pattern:** `nadar` — regular use: swim
+**Pattern:** Regular `-ar` verb.
 
-**Example:** *Necesito nadar.* — I need to swim.
+**Example:** *Me gusta nadar en el mar.* — I like to swim in the sea.

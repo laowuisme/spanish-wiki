@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** business
 
-**Pattern:** Use with article `el/la negocio`
+**Pattern:** Masculine noun: *el negocio*.
 
-**Example:** *El/la negocio es importante.* — The business is important.
+**Example:** *Mi tío tiene un negocio de ropa.* — My uncle has a clothing business.

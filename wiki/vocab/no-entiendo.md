@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: phrase
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
-**Meaning:** understand
+**Meaning:** I don't understand
 
-**Pattern:** Fixed expression: `no entiendo`
+**Pattern:** First-person singular of `entender` negated with `no`.
 
-**Example:** *No entiendo.* — — Understand.
+**Example:** *No entiendo esta pregunta.* — I don't understand this question.

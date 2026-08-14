@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** girlfriend
 
-**Pattern:** Use with article `el/la novia`
+**Pattern:** Feminine noun; masculine counterpart `novio` (boyfriend).
 
-**Example:** *El/la novia es importante.* — The girlfriend is important.
+**Example:** *Mi novia estudia medicina.* — My girlfriend is studying medicine.

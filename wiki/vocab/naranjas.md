@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** oranges
 
-**Pattern:** Use with article `el/la naranjas`
+**Pattern:** Plural of `naranja`; feminine noun, use with `las`: *las naranjas*.
 
-**Example:** *El/la naranjas es importante.* — The oranges is important.
+**Example:** *Las naranjas están maduras.* — The oranges are ripe.

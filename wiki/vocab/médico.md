@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** doctor
 
-**Pattern:** Use with article `el/la médico`
+**Pattern:** Masculine noun; feminine form `médica`. Use with definite article: *el médico* / *la médica*.
 
-**Example:** *El/la médico es importante.* — The doctor is important.
+**Example:** *El médico revisó al paciente.* — The doctor examined the patient.

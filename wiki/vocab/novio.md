@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** boyfriend
 
-**Pattern:** Use with article `el/la novio`
+**Pattern:** Masculine noun; feminine counterpart `novia` (girlfriend).
 
-**Example:** *El/la novio es importante.* — The boyfriend is important.
+**Example:** *Su novio la llamó por la noche.* — Her boyfriend called her at night.

@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** nature
 
-**Pattern:** Use with article `el/la naturaleza`
+**Pattern:** Feminine noun, singular only in this sense: *la naturaleza*.
 
-**Example:** *El/la naturaleza es importante.* — The nature is important.
+**Example:** *Me encanta pasar tiempo en la naturaleza.* — I love spending time in nature.

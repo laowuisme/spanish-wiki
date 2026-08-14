@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-15
 ---
 
 **Meaning:** any, no
 
-**Pattern:** Use with article `el/la ningún`
+**Pattern:** Apocopated (shortened) form of `ninguno`, used before masculine singular nouns; typically appears in negative sentences with `no`.
 
-**Example:** *El/la ningún es importante.* — The any is important.
+**Example:** *No tengo ningún problema.* — I don't have any problem.

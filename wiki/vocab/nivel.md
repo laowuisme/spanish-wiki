@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** level
 
-**Pattern:** Use with article `el/la nivel`
+**Pattern:** Masculine noun: *el nivel*.
 
-**Example:** *El/la nivel es importante.* — The level is important.
+**Example:** *Mi nivel de español está mejorando.* — My Spanish level is improving.

@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** name, named, names
 
-**Pattern:** Use with article `el/la nombre`
+**Pattern:** Masculine noun: *el nombre*.
 
-**Example:** *El/la nombre es importante.* — The name is important.
+**Example:** *¿Cuál es tu nombre?* — What is your name?

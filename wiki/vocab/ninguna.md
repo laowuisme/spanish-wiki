@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-15
 ---
 
-**Meaning:** any
+**Meaning:** no, none, not any
 
-**Pattern:** Use with article `el/la ninguna`
+**Pattern:** Feminine singular form of `ninguno`; agrees with feminine nouns. Unlike English "any", it already carries negative force and typically co-occurs with `no`: *no tengo ninguna pregunta*.
 
-**Example:** *El/la ninguna es importante.* — The any is important.
+**Example:** *No tengo ninguna idea de qué hacer.* — I have no idea what to do.

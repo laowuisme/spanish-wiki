@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: phrase
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** do not believe, don't you think
 
-**Pattern:** Fixed expression: `no crees`
+**Pattern:** Used as a tag question at the end of a statement: `..., ¿no crees?`.
 
-**Example:** *No crees.* — — Do not believe.
+**Example:** *Es buena idea, ¿no crees?* — It's a good idea, don't you think?

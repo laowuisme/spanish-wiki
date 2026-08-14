@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: adverb
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** usually
 
-**Pattern:** Modifies verbs, adjectives, or other adverbs
+**Pattern:** Adverb of frequency formed from `normal` + `-mente`; usually placed at the start or end of the sentence.
 
-**Example:** *Lo hizo normalmente.* — He/she did it usually.
+**Example:** *Normalmente como a la una.* — I usually eat at one o'clock.

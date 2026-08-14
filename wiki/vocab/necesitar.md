@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: verb
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** to need, need
 
-**Pattern:** `necesitar` — regular use: need
+**Pattern:** Regular `-ar` verb.
 
-**Example:** *Necesito necesitar.* — I need to need.
+**Example:** *Necesito ayuda con la tarea.* — I need help with the homework.

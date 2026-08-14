@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** note
 
-**Pattern:** Use with article `el/la nota`
+**Pattern:** Feminine noun; also means "grade" in an academic context.
 
-**Example:** *El/la nota es importante.* — The note is important.
+**Example:** *Saqué una buena nota en el examen.* — I got a good grade on the exam.

@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: pronoun
+last_updated: 2026-08-15
 ---
 
 **Meaning:** we
 
-**Pattern:** Use with article `el/la nosotros`
+**Pattern:** First-person plural subject pronoun — used for all-male or mixed-gender groups.
 
-**Example:** *El/la nosotros es importante.* — The we is important.
+**Example:** *Nosotros vivimos en Madrid.* — We live in Madrid.

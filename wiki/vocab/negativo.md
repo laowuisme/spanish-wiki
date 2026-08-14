@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-15
 ---
 
 **Meaning:** negative
 
-**Pattern:** Use with article `el/la negativo`
+**Pattern:** Adjective; agrees in gender/number: `negativo/negativa/negativos/negativas`.
 
-**Example:** *El/la negativo es importante.* — The negative is important.
+**Example:** *Su respuesta fue negativa.* — Her answer was negative.

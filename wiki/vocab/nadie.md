@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: pronoun
+last_updated: 2026-08-15
 ---
 
 **Meaning:** no one
 
-**Pattern:** Use with article `el/la nadie`
+**Pattern:** Indefinite pronoun, invariable. Positive counterpart: `alguien`. Takes personal `a` as a direct object: *no veo a nadie*.
 
-**Example:** *El/la nadie es importante.* — The no one is important.
+**Example:** *No hay nadie en la oficina.* — There's no one in the office.

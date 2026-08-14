@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-15
 ---
 
 **Meaning:** normal
 
-**Pattern:** Use with article `el/la normal`
+**Pattern:** Adjective invariable for gender; only changes for number: `normal/normales`.
 
-**Example:** *El/la normal es importante.* — The normal is important.
+**Example:** *Es normal sentirse nervioso antes de un examen.* — It's normal to feel nervous before an exam.

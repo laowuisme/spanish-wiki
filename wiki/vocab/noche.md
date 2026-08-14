@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** night
 
-**Pattern:** Use with article `el/la noche`
+**Pattern:** Feminine noun: *la noche*.
 
-**Example:** *El/la noche es importante.* — The night is important.
+**Example:** *Salimos por la noche.* — We're going out at night.

@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** swimming
 
-**Pattern:** Use with article `el/la natación`
+**Pattern:** Feminine noun for the sport; contrast with the verb `nadar` (to swim).
 
-**Example:** *El/la natación es importante.* — The swimming is important.
+**Example:** *Practico natación tres veces por semana.* — I practice swimming three times a week.

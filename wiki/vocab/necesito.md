@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: verb
+last_updated: 2026-08-15
 ---
 
 **Meaning:** need
 
-**Pattern:** Use with article `el/la necesito`
+**Pattern:** First-person singular (yo) present tense of `necesitar` (to need).
 
-**Example:** *El/la necesito es importante.* — The need is important.
+**Example:** *Necesito más tiempo para terminar.* — I need more time to finish.
