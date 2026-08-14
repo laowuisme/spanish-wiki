@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** church
 
-**Pattern:** Use with article `el/la iglesia`
+**Pattern:** Feminine noun: la iglesia
 
-**Example:** *El/la iglesia es importante.* — The church is important.
+**Example:** *Vamos a la iglesia los domingos.* — We go to church on Sundays.

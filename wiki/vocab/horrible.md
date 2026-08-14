@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-14
 ---
 
 **Meaning:** horrible
 
-**Pattern:** Use with article `el/la horrible`
+**Pattern:** Invariable for gender, adds -s for plural: horrible/horribles
 
-**Example:** *El/la horrible es importante.* — The horrible is important.
+**Example:** *La película fue horrible.* — The movie was horrible.

@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** idea
 
-**Pattern:** Use with article `el/la idea`
+**Pattern:** Feminine noun: la idea
 
-**Example:** *El/la idea es importante.* — The idea is important.
+**Example:** *Tengo una idea genial.* — I have a great idea.

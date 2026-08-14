@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-14
 ---
 
 **Meaning:** uncomfortable
 
-**Pattern:** Use with article `el/la incómodo`
+**Pattern:** Agrees in gender/number: incómodo/incómoda/incómodos/incómodas
 
-**Example:** *El/la incómodo es importante.* — The uncomfortable is important.
+**Example:** *Esta silla es muy incómoda.* — This chair is very uncomfortable.

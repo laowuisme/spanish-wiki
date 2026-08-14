@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** language
 
-**Pattern:** Use with article `el/la idioma`
+**Pattern:** Masculine noun despite the -a ending: el idioma
 
-**Example:** *El/la idioma es importante.* — The language is important.
+**Example:** *El español es un idioma hermoso.* — Spanish is a beautiful language.

@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: preposition
+last_updated: 2026-08-14
 ---
 
 **Meaning:** until
 
-**Pattern:** Use with article `el/la hasta`
+**Pattern:** Preposition indicating a limit in time, space, or degree
 
-**Example:** *El/la hasta es importante.* — The until is important.
+**Example:** *Trabajo hasta las cinco.* — I work until five.

@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-14
 ---
 
 **Meaning:** leading, important, significant
 
-**Pattern:** Use with article `el/la importante`
+**Pattern:** Invariable for gender, adds -s for plural: importante/importantes
 
-**Example:** *El/la importante es importante.* — The leading is important.
+**Example:** *Es importante estudiar todos los días.* — It's important to study every day.

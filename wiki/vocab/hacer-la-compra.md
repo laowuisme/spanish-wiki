@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: phrase
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** shopping
 
 **Pattern:** Fixed expression: `hacer la compra`
 
-**Example:** *Hacer la compra.* — — Shopping.
+**Example:** *Voy a hacer la compra esta tarde.* — I'm going to do the grocery shopping this afternoon.

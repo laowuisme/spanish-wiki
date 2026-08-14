@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** history
 
-**Pattern:** Use with article `el/la historia`
+**Pattern:** Feminine noun: la historia; also means 'story'
 
-**Example:** *El/la historia es importante.* — The history is important.
+**Example:** *Me gusta la historia de España.* — I like the history of Spain.

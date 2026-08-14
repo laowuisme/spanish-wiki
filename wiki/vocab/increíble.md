@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-14
 ---
 
 **Meaning:** amazing
 
-**Pattern:** Use with article `el/la increíble`
+**Pattern:** Invariable for gender, adds -s for plural: increíble/increíbles
 
-**Example:** *El/la increíble es importante.* — The amazing is important.
+**Example:** *Fue un concierto increíble.* — It was an amazing concert.

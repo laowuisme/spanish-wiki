@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: interjection
+last_updated: 2026-08-14
 ---
 
 **Meaning:** wow
 
-**Pattern:** Use with article `el/la guau`
+**Pattern:** Also used as the onomatopoeia for a dog's bark ('woof')
 
-**Example:** *El/la guau es importante.* — The wow is important.
+**Example:** *¡Guau, qué bonito vestido!* — Wow, what a pretty dress!

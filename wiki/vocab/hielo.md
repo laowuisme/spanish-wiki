@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** ice
 
-**Pattern:** Use with article `el/la hielo`
+**Pattern:** Masculine noun: el hielo
 
-**Example:** *El/la hielo es importante.* — The ice is important.
+**Example:** *Quiero agua con hielo.* — I want water with ice.

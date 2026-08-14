@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** daughter
 
-**Pattern:** Use with article `el/la hija`
+**Pattern:** Feminine noun: la hija
 
-**Example:** *El/la hija es importante.* — The daughter is important.
+**Example:** *Mi hija tiene diez años.* — My daughter is ten years old.

@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: verb
-last_updated: 2026-06-19
+type: phrase
+last_updated: 2026-08-14
 ---
 
 **Meaning:** to take a trip, to make a trip, to go on a trip
 
-**Pattern:** `hacer un viaje` — regular use: take a trip
+**Pattern:** Fixed expression: `hacer un viaje`
 
-**Example:** *Necesito hacer un viaje.* — I need to take a trip.
+**Example:** *Vamos a hacer un viaje a España.* — We're going to take a trip to Spain.

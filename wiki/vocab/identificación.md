@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** ID
 
-**Pattern:** Use with article `el/la identificación`
+**Pattern:** Feminine noun: la identificación
 
-**Example:** *El/la identificación es importante.* — The id is important.
+**Example:** *Necesito mi identificación para entrar.* — I need my ID to get in.

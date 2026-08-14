@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
-**Meaning:** hospital, hospitals, hospital's
+**Meaning:** hospital, hospitals
 
-**Pattern:** Use with article `el/la hospital`
+**Pattern:** Masculine noun: el hospital
 
-**Example:** *El/la hospital es importante.* — The hospital is important.
+**Example:** *Mi madre trabaja en el hospital.* — My mother works at the hospital.

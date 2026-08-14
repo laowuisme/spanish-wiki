@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** son
 
-**Pattern:** Use with article `el/la hijo`
+**Pattern:** Masculine noun: el hijo
 
-**Example:** *El/la hijo es importante.* — The son is important.
+**Example:** *Su hijo estudia medicina.* — Her son studies medicine.

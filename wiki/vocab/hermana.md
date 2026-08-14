@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** sister
 
-**Pattern:** Use with article `el/la hermana`
+**Pattern:** Feminine noun: la hermana
 
-**Example:** *El/la hermana es importante.* — The sister is important.
+**Example:** *Mi hermana vive en Madrid.* — My sister lives in Madrid.

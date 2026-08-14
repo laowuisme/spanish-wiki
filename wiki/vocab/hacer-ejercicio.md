@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: verb
-last_updated: 2026-06-19
+type: phrase
+last_updated: 2026-08-14
 ---
 
 **Meaning:** to exercise, exercise
 
-**Pattern:** `hacer ejercicio` — regular use: exercise
+**Pattern:** Fixed expression: `hacer ejercicio`
 
-**Example:** *Necesito hacer ejercicio.* — I need to exercise.
+**Example:** *Hago ejercicio tres veces por semana.* — I exercise three times a week.

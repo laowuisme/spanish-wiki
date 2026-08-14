@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-14
 ---
 
 **Meaning:** good-looking
 
-**Pattern:** Use with article `el/la guapo`
+**Pattern:** Agrees in gender/number: guapo/guapa/guapos/guapas
 
-**Example:** *El/la guapo es importante.* — The good-looking is important.
+**Example:** *Mi novio es muy guapo.* — My boyfriend is very handsome.

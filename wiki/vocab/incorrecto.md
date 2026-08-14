@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-14
 ---
 
 **Meaning:** incorrect
 
-**Pattern:** Use with article `el/la incorrecto`
+**Pattern:** Agrees in gender/number: incorrecto/incorrecta/incorrectos/incorrectas
 
-**Example:** *El/la incorrecto es importante.* — The incorrect is important.
+**Example:** *Tu respuesta es incorrecta.* — Your answer is incorrect.

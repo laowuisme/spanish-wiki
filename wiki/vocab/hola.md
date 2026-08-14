@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: interjection
+last_updated: 2026-08-14
 ---
 
 **Meaning:** hello
 
-**Pattern:** Use with article `el/la hola`
+**Pattern:** Common greeting, invariable
 
-**Example:** *El/la hola es importante.* — The hello is important.
+**Example:** *¡Hola! ¿Cómo estás?* — Hi! How are you?

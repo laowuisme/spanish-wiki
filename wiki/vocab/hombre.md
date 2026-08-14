@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** man
 
-**Pattern:** Use with article `el/la hombre`
+**Pattern:** Masculine noun: el hombre (plural: hombres)
 
-**Example:** *El/la hombre es importante.* — The man is important.
+**Example:** *Ese hombre es mi vecino.* — That man is my neighbor.

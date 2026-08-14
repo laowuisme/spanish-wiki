@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: verb
+last_updated: 2026-08-14
 ---
 
-**Meaning:** is, makes
+**Meaning:** makes
 
-**Pattern:** Use with article `el/la hace`
+**Pattern:** Third-person singular present of [[hacer]]; used in weather and time expressions (e.g. hace calor, hace dos años)
 
-**Example:** *El/la hace es importante.* — The is is important.
+**Example:** *Hace mucho calor hoy.* — It's very hot today.

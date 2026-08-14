@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** schedule
 
-**Pattern:** Use with article `el/la horario`
+**Pattern:** Masculine noun: el horario
 
-**Example:** *El/la horario es importante.* — The schedule is important.
+**Example:** *Mi horario de trabajo es de lunes a viernes.* — My work schedule is Monday to Friday.

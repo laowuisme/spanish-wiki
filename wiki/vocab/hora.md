@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
-**Meaning:** time, hour, appointment's
+**Meaning:** time, hour
 
-**Pattern:** Use with article `el/la hora`
+**Pattern:** Feminine noun: la hora
 
-**Example:** *El/la hora es importante.* — The time is important.
+**Example:** *¿Qué hora es?* — What time is it?

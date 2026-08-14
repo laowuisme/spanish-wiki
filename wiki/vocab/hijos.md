@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-14
 ---
 
 **Meaning:** kids
 
-**Pattern:** Use with article `el/la hijos`
+**Pattern:** Masculine plural; can mean 'sons' or 'children' collectively
 
-**Example:** *El/la hijos es importante.* — The kids is important.
+**Example:** *Tienen tres hijos.* — They have three children.

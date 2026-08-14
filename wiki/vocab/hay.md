@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: verb
+last_updated: 2026-08-14
 ---
 
-**Meaning:** is, there are, it's
+**Meaning:** there is, there are
 
-**Pattern:** Use with article `el/la hay`
+**Pattern:** Impersonal present form of [[haber]]; invariable for singular and plural
 
-**Example:** *El/la hay es importante.* — The is is important.
+**Example:** *Hay mucha gente aquí.* — There are a lot of people here.

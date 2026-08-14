@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-14
 ---
 
 **Meaning:** beautiful
 
-**Pattern:** Use with article `el/la hermoso`
+**Pattern:** Agrees in gender/number: hermoso/hermosa/hermosos/hermosas
 
-**Example:** *El/la hermoso es importante.* — The beautiful is important.
+**Example:** *Qué día tan hermoso.* — What a beautiful day.

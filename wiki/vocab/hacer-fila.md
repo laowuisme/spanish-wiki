@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: verb
-last_updated: 2026-06-27
+type: phrase
+last_updated: 2026-08-14
 ---
 
 **Meaning:** to get in line, stand in line
 
-**Pattern:** `hacer fila` — regular use: get in line
+**Pattern:** Fixed expression: `hacer fila`
 
-**Example:** *Necesito hacer fila.* — I need to get in line.
+**Example:** *Tuvimos que hacer fila para entrar.* — We had to stand in line to get in.
