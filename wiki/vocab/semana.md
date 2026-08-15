@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** week
 
-**Pattern:** Use with article `el/la semana`
+**Pattern:** Feminine noun: `la semana`; `la próxima semana` = 'next week'.
 
-**Example:** *El/la semana es importante.* — The week is important.
+**Example:** *Voy a viajar la próxima semana.* — I'm going to travel next week.

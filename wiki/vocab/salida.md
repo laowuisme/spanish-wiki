@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** exit
 
-**Pattern:** Use with article `el/la salida`
+**Pattern:** Feminine noun: `la salida`; plural `las salidas`.
 
-**Example:** *El/la salida es importante.* — The exit is important.
+**Example:** *La salida está a la derecha.* — The exit is on the right.

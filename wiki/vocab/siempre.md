@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adverb
+last_updated: 2026-08-15
 ---
 
 **Meaning:** always
 
-**Pattern:** Use with article `el/la siempre`
+**Pattern:** Invariable adverb of frequency; often paired with the present tense.
 
-**Example:** *El/la siempre es importante.* — The always is important.
+**Example:** *Siempre desayuno café con leche.* — I always have coffee with milk for breakfast.

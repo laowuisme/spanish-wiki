@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** sun
 
-**Pattern:** Use with article `el/la sol`
+**Pattern:** Masculine noun: `el sol`; used in weather expressions like `hace sol` ('it's sunny').
 
-**Example:** *El/la sol es importante.* — The sun is important.
+**Example:** *Hace mucho sol hoy.* — It's very sunny today.

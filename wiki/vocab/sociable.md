@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-15
 ---
 
 **Meaning:** convivial, friendly, sociable
 
-**Pattern:** Use with article `el/la sociable`
+**Pattern:** Adjective; invariable for gender (`sociable/sociable`), plural `sociables`.
 
-**Example:** *El/la sociable es importante.* — The convivial is important.
+**Example:** *Mi hermano es muy sociable.* — My brother is very sociable.

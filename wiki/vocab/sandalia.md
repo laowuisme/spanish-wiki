@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** sandal
 
-**Pattern:** Use with article `el/la sandalia`
+**Pattern:** Feminine noun: `la sandalia`; usually used in the plural `las sandalias`.
 
-**Example:** *El/la sandalia es importante.* — The sandal is important.
+**Example:** *Llevo sandalias en verano.* — I wear sandals in summer.

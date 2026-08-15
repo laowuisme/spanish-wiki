@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** sauce, salsa, dip
 
-**Pattern:** Use with article `el/la salsa`
+**Pattern:** Feminine noun: `la salsa`.
 
-**Example:** *El/la salsa es importante.* — The sauce is important.
+**Example:** *Le pongo salsa de tomate a la pasta.* — I put tomato sauce on the pasta.

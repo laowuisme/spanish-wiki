@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-15
 ---
 
 **Meaning:** nice, friendly, likeable
 
-**Pattern:** Use with article `el/la simpática`
+**Pattern:** Feminine singular form; agrees in gender/number: `simpático/simpática/simpáticos/simpáticas`.
 
-**Example:** *El/la simpática es importante.* — The nice is important.
+**Example:** *Ella es muy simpática.* — She's very nice.

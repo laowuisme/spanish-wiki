@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-15
 ---
 
 **Meaning:** Russian
 
-**Pattern:** Use with article `el/la ruso`
+**Pattern:** Adjective of nationality; agrees in gender/number: `ruso/rusa/rusos/rusas`. `El ruso` (masculine noun) also names the language.
 
-**Example:** *El/la ruso es importante.* — The russian is important.
+**Example:** *Mi vecino es ruso.* — My neighbor is Russian.

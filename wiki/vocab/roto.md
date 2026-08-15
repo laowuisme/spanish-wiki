@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-15
 ---
 
 **Meaning:** broken
 
-**Pattern:** Use with article `el/la roto`
+**Pattern:** Irregular past participle of `romper` ('to break'), used as an adjective: agrees in gender/number `roto/rota/rotos/rotas`.
 
-**Example:** *El/la roto es importante.* — The broken is important.
+**Example:** *El teléfono está roto.* — The phone is broken.

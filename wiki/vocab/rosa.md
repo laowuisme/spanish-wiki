@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-15
 ---
 
 **Meaning:** pink
 
-**Pattern:** Adjective; agrees in gender/number: rosa/rosa (if ends in -o)
+**Pattern:** Adjective of color; invariable for gender (`rosa` stays `rosa` for both masc. and fem.), plural `rosas`. Also a feminine noun meaning 'rose' (the flower): `la rosa`.
 
-**Example:** *El coche es rosa.* — The car is pink.
+**Example:** *Mi color favorito es el rosa.* — My favorite color is pink.

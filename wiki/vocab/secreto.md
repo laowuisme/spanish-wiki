@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** secret
 
-**Pattern:** Use with article `el/la secreto`
+**Pattern:** Masculine noun: `el secreto`; plural `los secretos`. Also an adjective meaning 'secret, hidden': `secreto/secreta`.
 
-**Example:** *El/la secreto es importante.* — The secret is important.
+**Example:** *Te voy a contar un secreto.* — I'm going to tell you a secret.

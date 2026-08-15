@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** shorts
 
-**Pattern:** Use with article `el/la shorts`
+**Pattern:** Masculine noun, typically used in the plural: `los shorts` (loanword from English; also `pantalones cortos`).
 
-**Example:** *El/la shorts es importante.* — The shorts is important.
+**Example:** *Voy a comprar unos shorts para el verano.* — I'm going to buy some shorts for summer.

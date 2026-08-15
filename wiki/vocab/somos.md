@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: verb
+last_updated: 2026-08-15
 ---
 
-**Meaning:** we're being, were
+**Meaning:** we are
 
-**Pattern:** Use with article `el/la somos`
+**Pattern:** First-person plural present of the irregular verb `ser` ('to be') — `nosotros/nosotras` form, used for identity, origin, and inherent traits.
 
-**Example:** *El/la somos es importante.* — The we're being is important.
+**Example:** *Somos estudiantes de español.* — We are Spanish students.

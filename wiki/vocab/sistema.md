@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-27
+last_updated: 2026-08-15
 ---
 
 **Meaning:** system
 
-**Pattern:** Use with article `el/la sistema`
+**Pattern:** Masculine noun despite the `-a` ending: `el sistema` (shares this irregular gender pattern with `programa`, `problema`, `tema`).
 
-**Example:** *El/la sistema es importante.* — The system is important.
+**Example:** *El sistema no funciona bien.* — The system isn't working well.

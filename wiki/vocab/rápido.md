@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective/adverb
+last_updated: 2026-08-15
 ---
 
 **Meaning:** fast
 
-**Pattern:** Use with article `el/la rápido`
+**Pattern:** Adjective (agrees in gender/number: `rápido/rápida/rápidos/rápidas`) meaning 'fast, quick'; also used informally as an invariable adverb meaning 'fast, quickly' (= `rápidamente`).
 
-**Example:** *El/la rápido es importante.* — The fast is important.
+**Example:** *Corre muy rápido.* — He runs very fast.

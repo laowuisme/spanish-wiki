@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: preposition
+last_updated: 2026-08-15
 ---
 
 **Meaning:** on top of, around, on
 
-**Pattern:** Use with article `el/la sobre`
+**Pattern:** Preposition meaning 'on, over, about, around'; also a masculine noun meaning 'envelope': `el sobre`.
 
-**Example:** *El/la sobre es importante.* — The on top of is important.
+**Example:** *El libro está sobre la mesa.* — The book is on the table.

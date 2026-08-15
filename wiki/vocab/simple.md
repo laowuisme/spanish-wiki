@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-15
 ---
 
 **Meaning:** simple, simpleton, simple-minded
 
-**Pattern:** Use with article `el/la simple`
+**Pattern:** Adjective; invariable for gender (`simple/simple`), plural `simples`. Can also function as a noun meaning 'simpleton'.
 
-**Example:** *El/la simple es importante.* — The simple is important.
+**Example:** *La solución es muy simple.* — The solution is very simple.

@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** ma'am
 
-**Pattern:** Use with article `el/la señora`
+**Pattern:** Feminine noun/title: `la señora`, abbreviated `Sra.`; used before a woman's name or as a polite form of address.
 
-**Example:** *Me gusta el/la señora.* — I like ma'am.
+**Example:** *Buenos días, señora García.* — Good morning, Mrs. García.

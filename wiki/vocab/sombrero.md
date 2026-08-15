@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** hat
 
-**Pattern:** Use with article `el/la sombrero`
+**Pattern:** Masculine noun: `el sombrero`.
 
-**Example:** *El/la sombrero es importante.* — The hat is important.
+**Example:** *Lleva un sombrero grande para el sol.* — He wears a big hat for the sun.

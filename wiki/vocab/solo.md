@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-15
 ---
 
 **Meaning:** alone
 
-**Pattern:** Use with article `el/la solo`
+**Pattern:** Adjective; agrees in gender/number: `solo/sola/solos/solas`, meaning 'alone'. Historically written `sólo` (with accent) when used as an adverb meaning 'only' — the accent is now optional under current RAE rules.
 
-**Example:** *El/la solo es importante.* — The alone is important.
+**Example:** *Vivo solo en un apartamento pequeño.* — I live alone in a small apartment.

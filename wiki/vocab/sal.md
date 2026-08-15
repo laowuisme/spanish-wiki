@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** salt
 
-**Pattern:** Use with article `el/la sal`
+**Pattern:** Feminine noun: `la sal` (irregularly takes `la`, not `el`, unlike `agua`).
 
-**Example:** *El/la sal es importante.* — The salt is important.
+**Example:** *Pásame la sal, por favor.* — Pass me the salt, please.

@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-15
 ---
 
 **Meaning:** healthy
 
-**Pattern:** Use with article `el/la saludable`
+**Pattern:** Adjective; invariable for gender (`saludable/saludable`), plural `saludables`.
 
-**Example:** *El/la saludable es importante.* — The healthy is important.
+**Example:** *Comer verduras es saludable.* — Eating vegetables is healthy.

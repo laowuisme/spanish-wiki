@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** cheers
 
-**Pattern:** Use with article `el/la salud`
+**Pattern:** Feminine noun meaning 'health' (`la salud`); also used as an interjection `¡Salud!` ('Cheers!'/'Bless you!') when toasting or after a sneeze.
 
-**Example:** *El/la salud es importante.* — The cheers is important.
+**Example:** *¡Salud! Por los nuevos amigos.* — Cheers! To new friends.

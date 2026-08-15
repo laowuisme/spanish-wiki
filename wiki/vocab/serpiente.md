@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** snake
 
-**Pattern:** Use with article `el/la serpiente`
+**Pattern:** Feminine noun: `la serpiente`.
 
-**Example:** *El/la serpiente es importante.* — The snake is important.
+**Example:** *Hay una serpiente en el jardín.* — There's a snake in the garden.

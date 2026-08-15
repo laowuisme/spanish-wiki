@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-15
 ---
 
-**Meaning:** (he/she/it) serializes, (he/she/it) orders / arrange in series, (you-formal) order / arrange in series
+**Meaning:** serious, straight, steady (feminine of serio)
 
-**Pattern:** Use with article `el/la seria`
+**Pattern:** Feminine singular form of the adjective `serio`; agrees in gender/number: `serio/seria/serios/serias`.
 
-**Example:** *El/la seria es importante.* — The (he/she/it) serializes is important.
+**Example:** *Mi profesora es muy seria.* — My teacher is very serious.
