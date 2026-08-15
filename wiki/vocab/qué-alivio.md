@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: phrase
-last_updated: 2026-06-19
+type: exclamation
+last_updated: 2026-08-15
 ---
 
-**Meaning:** what a relief
+**Meaning:** what a relief!
 
-**Pattern:** Fixed expression: `qué alivio`
+**Pattern:** [[qué-exclamations]] pattern: *¡Qué + noun!* → *¡Qué alivio!* Note: *alivio* = relief (m); *con alivio* = with relief.
 
-**Example:** *Qué alivio.* — — What a relief.
+**Example:** *¡Qué alivio! Ya paró de llover.* — What a relief! It stopped raining.

@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-15
 ---
 
 **Meaning:** relaxed, easygoing
 
-**Pattern:** Use with article `el/la relajado`
+**Pattern:** Adjective; agrees in gender/number: *relajado/relajada/relajados/relajadas*. Also the past participle of *relajar*.
 
-**Example:** *El/la relajado es importante.* — The relaxed is important.
+**Example:** *Me siento muy relajado hoy.* — I feel very relaxed today.

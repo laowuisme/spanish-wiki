@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** restaurants, restaurant, diner
 
-**Pattern:** Use with article `el/la restaurante`
+**Pattern:** Masculine noun: *el restaurante*.
 
-**Example:** *El/la restaurante es importante.* — The restaurants is important.
+**Example:** *Cenamos en un restaurante italiano.* — We had dinner at an Italian restaurant.

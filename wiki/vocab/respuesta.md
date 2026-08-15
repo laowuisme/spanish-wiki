@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** answer
 
-**Pattern:** Use with article `el/la respuesta`
+**Pattern:** Feminine noun: *la respuesta*.
 
-**Example:** *El/la respuesta es importante.* — The answer is important.
+**Example:** *No sé la respuesta correcta.* — I don't know the correct answer.

@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: verb
+last_updated: 2026-08-15
 ---
 
 **Meaning:** do you want, want, you
 
-**Pattern:** Use with article `el/la quieres`
+**Pattern:** Present-tense *tú* form of *querer* (to want/love); irregular e→ie stem-changing -er verb.
 
-**Example:** *El/la quieres es importante.* — The do you want is important.
+**Example:** *¿Quieres un café?* — Do you want a coffee?

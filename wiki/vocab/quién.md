@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: pronoun
+last_updated: 2026-08-15
 ---
 
 **Meaning:** who
 
-**Pattern:** Use with article `el/la quién`
+**Pattern:** Interrogative pronoun (singular); always carries an accent when used as a question word, unlike the relative *que*. Plural: *quiénes*.
 
-**Example:** *El/la quién es importante.* — The who is important.
+**Example:** *¿Quién es ese chico?* — Who is that boy?

@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: phrase
-last_updated: 2026-07-28
+last_updated: 2026-08-15
 ---
 
 **Meaning:** what a shame
 
-**Pattern:** Fixed expression: `qué lástima`
+**Pattern:** [[qué-exclamations]] pattern: *¡Qué + noun!* → *¡Qué lástima!*
 
-**Example:** *Qué lástima.* — — What a shame.
+**Example:** *¡Qué lástima que no puedas venir!* — What a shame you can't come!

@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: phrase
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** what a pity
 
-**Pattern:** Fixed expression: `qué pena`
+**Pattern:** [[qué-exclamations]] pattern: *¡Qué + noun!* → *¡Qué pena!*
 
-**Example:** *Qué pena.* — — What a pity.
+**Example:** *¡Qué pena que llueva hoy!* — What a pity it's raining today!

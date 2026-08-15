@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** soda
 
-**Pattern:** Use with article `el/la refresco`
+**Pattern:** Masculine noun: *el refresco*.
 
-**Example:** *Me gusta el/la refresco.* — I like soda.
+**Example:** *Quiero un refresco frío.* — I want a cold soda.

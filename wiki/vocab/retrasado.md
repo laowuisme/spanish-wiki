@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-15
 ---
 
 **Meaning:** delayed, late
 
-**Pattern:** Use with article `el/la retrasado`
+**Pattern:** Adjective; agrees in gender/number: *retrasado/retrasada/retrasados/retrasadas*. See also [[retrasada]] (feminine form).
 
-**Example:** *El/la retrasado es importante.* — The delayed is important.
+**Example:** *El vuelo está retrasado dos horas.* — The flight is delayed two hours.

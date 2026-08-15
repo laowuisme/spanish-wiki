@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** meeting
 
-**Pattern:** Use with article `el/la reunión`
+**Pattern:** Feminine noun: *la reunión*; plural: *reuniones* (accent drops).
 
-**Example:** *El/la reunión es importante.* — The meeting is important.
+**Example:** *Tenemos una reunión a las diez.* — We have a meeting at ten.

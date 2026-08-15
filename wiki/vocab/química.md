@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** chemistry
 
-**Pattern:** Use with article `el/la química`
+**Pattern:** Feminine noun: *la química*.
 
-**Example:** *El/la química es importante.* — The chemistry is important.
+**Example:** *Estudio química en la universidad.* — I study chemistry at university.

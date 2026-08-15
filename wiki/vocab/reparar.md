@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: verb
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** (to) repair, repaired, repairing
 
-**Pattern:** `reparar` — regular use: (to) repair
+**Pattern:** Regular -ar verb.
 
-**Example:** *Necesito reparar.* — I need to repair.
+**Example:** *El mecánico va a reparar el coche.* — The mechanic is going to repair the car.

@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: verb
-last_updated: 2026-06-27
+last_updated: 2026-08-15
 ---
 
-**Meaning:** work, (to) terminate, figure
+**Meaning:** to solve, to resolve, to work out
 
-**Pattern:** `resolver` — regular use: work
+**Pattern:** Stem-changing verb (o→ue): *resuelvo, resuelves, resuelve, resolvemos, resolvéis, resuelven*; irregular past participle: *resuelto*.
 
-**Example:** *Necesito resolver.* — I need to work.
+**Example:** *Necesito resolver este problema.* — I need to solve this problem.

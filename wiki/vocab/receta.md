@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** prescribes, prescription, recipe
 
-**Pattern:** Use with article `el/la receta`
+**Pattern:** Feminine noun: *la receta*. Two common meanings depending on context: a cooking recipe or a medical prescription.
 
-**Example:** *Me gusta el/la receta.* — I like prescribes.
+**Example:** *Esta receta lleva mucho ajo.* — This recipe has a lot of garlic.

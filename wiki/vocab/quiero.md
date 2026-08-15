@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: verb
+last_updated: 2026-08-15
 ---
 
 **Meaning:** want
 
-**Pattern:** Use with article `el/la quiero`
+**Pattern:** Present-tense *yo* form of *querer* (to want/love); irregular e→ie stem-changing -er verb.
 
-**Example:** *El/la quiero es importante.* — The want is important.
+**Example:** *Quiero aprender español.* — I want to learn Spanish.

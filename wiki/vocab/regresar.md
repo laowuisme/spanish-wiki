@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: verb
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** to return, come back
 
-**Pattern:** `regresar` — regular use: return
+**Pattern:** Regular -ar verb.
 
-**Example:** *Necesito regresar.* — I need to return.
+**Example:** *Voy a regresar a casa temprano.* — I'm going to return home early.

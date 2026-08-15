@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-15
 ---
 
 **Meaning:** tasty
 
-**Pattern:** Use with article `el/la rico`
+**Pattern:** Adjective; agrees in gender/number: *rico/rica/ricos/ricas*. Means "tasty/delicious" with food (*¡Qué rico!*) or "rich" (wealthy), depending on context.
 
-**Example:** *El/la rico es importante.* — The tasty is important.
+**Example:** *Esta sopa está muy rica.* — This soup is very tasty.

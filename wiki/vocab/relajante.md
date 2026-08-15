@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-15
 ---
 
 **Meaning:** relaxing
 
-**Pattern:** Use with article `el/la relajante`
+**Pattern:** Adjective ending in -e: same form for masc./fem., only changes for number: *relajante/relajantes*.
 
-**Example:** *El/la relajante es importante.* — The relaxing is important.
+**Example:** *Este masaje es muy relajante.* — This massage is very relaxing.

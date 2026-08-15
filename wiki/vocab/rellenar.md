@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: verb
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** to fill, stuff
 
-**Pattern:** `rellenar` — regular use: fill
+**Pattern:** Regular -ar verb; commonly used for filling out forms (*rellenar un formulario*) or stuffing food.
 
-**Example:** *Necesito rellenar.* — I need to fill.
+**Example:** *Tengo que rellenar este formulario.* — I have to fill out this form.

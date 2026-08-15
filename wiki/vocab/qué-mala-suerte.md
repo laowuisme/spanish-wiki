@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: phrase
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** what bad luck
 
-**Pattern:** Fixed expression: `qué mala suerte`
+**Pattern:** [[qué-exclamations]] pattern combined with the noun phrase *mala suerte* (bad luck) → *¡Qué mala suerte!*
 
-**Example:** *Qué mala suerte.* — — What bad luck.
+**Example:** *¡Qué mala suerte, perdiste el tren!* — What bad luck, you missed the train!

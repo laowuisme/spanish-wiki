@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: verb
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** to answer, answer
 
-**Pattern:** `responder` — regular use: answer
+**Pattern:** Regular -er verb.
 
-**Example:** *Necesito responder.* — I need to answer.
+**Example:** *Voy a responder tu correo mañana.* — I'll answer your email tomorrow.

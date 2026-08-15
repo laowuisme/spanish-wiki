@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: pronoun
+last_updated: 2026-08-15
 ---
 
 **Meaning:** who
 
-**Pattern:** Use with article `el/la quiénes`
+**Pattern:** Interrogative pronoun (plural of *quién*); used when asking about more than one person.
 
-**Example:** *El/la quiénes es importante.* — The who is important.
+**Example:** *¿Quiénes son tus amigos?* — Who are your friends?

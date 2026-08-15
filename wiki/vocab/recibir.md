@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: verb
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** to receive, receive
 
-**Pattern:** `recibir` — regular use: receive
+**Pattern:** Regular -ir verb.
 
-**Example:** *Necesito recibir.* — I need to receive.
+**Example:** *Voy a recibir un paquete mañana.* — I'm going to receive a package tomorrow.

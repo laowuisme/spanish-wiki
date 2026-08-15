@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** reservation
 
-**Pattern:** Use with article `el/la reserva`
+**Pattern:** Feminine noun: *la reserva*.
 
-**Example:** *El/la reserva es importante.* — The reservation is important.
+**Example:** *Hice una reserva para las ocho.* — I made a reservation for eight o'clock.

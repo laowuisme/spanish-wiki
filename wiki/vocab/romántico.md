@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-15
 ---
 
 **Meaning:** romantic
 
-**Pattern:** Use with article `el/la romántico`
+**Pattern:** Adjective; agrees in gender/number: *romántico/romántica/románticos/románticas*.
 
-**Example:** *El/la romántico es importante.* — The romantic is important.
+**Example:** *Es una película muy romántica.* — It's a very romantic movie.

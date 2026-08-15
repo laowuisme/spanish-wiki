@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** racket
 
-**Pattern:** Use with article `el/la raqueta`
+**Pattern:** Feminine noun: *la raqueta*.
 
-**Example:** *El/la raqueta es importante.* — The racket is important.
+**Example:** *Necesito una raqueta nueva para jugar tenis.* — I need a new racket to play tennis.
