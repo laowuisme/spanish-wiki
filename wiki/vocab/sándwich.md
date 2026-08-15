@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** sandwich
 
-**Pattern:** Use with article `el/la sándwich`
+**Pattern:** Masculine noun (borrowed word): *el sándwich*.
 
-**Example:** *El/la sándwich es importante.* — The sandwich is important.
+**Example:** *Preparo un sándwich para el almuerzo.* — I make a sandwich for lunch.

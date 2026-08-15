@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** Saturday
 
-**Pattern:** Day of week; no article for general use: *el sábado* for recurring days
+**Pattern:** Day of the week, masculine, usually used with the article for recurring events: *el sábado* (on Saturday), *los sábados* (on Saturdays).
 
-**Example:** *Hoy es sábado.* — Today is Saturday.
+**Example:** *El sábado voy a la playa.* — On Saturday I'm going to the beach.

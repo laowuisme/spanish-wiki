@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: phrase
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
-**Meaning:** have
+**Meaning:** I have to
 
-**Pattern:** Fixed expression: `tengo que`
+**Pattern:** First-person singular of `tener que` + infinitive — expresses personal obligation.
 
-**Example:** *Tengo que.* — — Have.
+**Example:** *Tengo que trabajar mañana.* — I have to work tomorrow.

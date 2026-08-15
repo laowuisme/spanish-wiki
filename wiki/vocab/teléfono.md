@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** phone
 
-**Pattern:** Use with article `el/la teléfono`
+**Pattern:** Masculine noun: *el teléfono*.
 
-**Example:** *El/la teléfono es importante.* — The phone is important.
+**Example:** *Perdí mi teléfono en el taxi.* — I lost my phone in the taxi.

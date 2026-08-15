@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** grocery store
 
-**Pattern:** Use with article `el/la supermercado`
+**Pattern:** Masculine noun: *el supermercado*.
 
-**Example:** *El/la supermercado es importante.* — The grocery store is important.
+**Example:** *Voy al supermercado los sábados.* — I go to the supermarket on Saturdays.

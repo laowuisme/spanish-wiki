@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: verb
+last_updated: 2026-08-15
 ---
 
-**Meaning:** am, it's, I'm
+**Meaning:** am, I'm
 
-**Pattern:** Use with article `el/la soy`
+**Pattern:** First-person singular (yo) present tense of the irregular verb `ser` ('to be').
 
-**Example:** *El/la soy es importante.* — The am is important.
+**Example:** *Soy profesor de español.* — I'm a Spanish teacher.

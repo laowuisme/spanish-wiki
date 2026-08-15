@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** soup
 
-**Pattern:** Use with article `el/la sopa`
+**Pattern:** Feminine noun: *la sopa*.
 
-**Example:** *El/la sopa es importante.* — The soup is important.
+**Example:** *Me gusta la sopa de pollo.* — I like chicken soup.

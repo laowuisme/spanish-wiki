@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** suggestion
 
-**Pattern:** Use with article `el/la sugerencia`
+**Pattern:** Feminine noun: *la sugerencia*.
 
-**Example:** *El/la sugerencia es importante.* — The suggestion is important.
+**Example:** *Tengo una sugerencia para el proyecto.* — I have a suggestion for the project.

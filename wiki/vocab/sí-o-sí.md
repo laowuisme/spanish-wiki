@@ -1,12 +1,12 @@
 ---
-cefr: A2
+cefr: B1
 stage: encountered
 type: phrase
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
-**Meaning:** no matter what
+**Meaning:** definitely, without fail, no matter what; also written "sí o sí" — emphatic certainty that something will happen
 
-**Pattern:** Fixed expression: `sí o sí`
+**Pattern:** Placed after the verb or at the end of a sentence to stress inevitability. Coloquial; common in Latin America.
 
-**Example:** *Sí o sí.* — — No matter what.
+**Example:** *Tenemos que ganar sí o sí.* — We absolutely have to win, no matter what.

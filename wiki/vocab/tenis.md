@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** tennis
 
-**Pattern:** Use with article `el/la tenis`
+**Pattern:** Masculine noun: *el tenis*; in much of Latin America, *los tenis* (plural) also means "sneakers".
 
-**Example:** *El/la tenis es importante.* — The tennis is important.
+**Example:** *Juego tenis los domingos.* — I play tennis on Sundays.

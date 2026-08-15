@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-15
 ---
 
 **Meaning:** surprising
 
-**Pattern:** Use with article `el/la sorprendente`
+**Pattern:** Invariable adjective (same form for masc./fem.); describes the thing that causes surprise — contrast with `sorprendido` (the person who feels it). See [[sorprendido-vs-sorprendente]].
 
-**Example:** *El/la sorprendente es importante.* — The surprising is important.
+**Example:** *Es una noticia sorprendente.* — It's surprising news.

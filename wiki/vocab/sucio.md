@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-15
 ---
 
 **Meaning:** dirty
 
-**Pattern:** Use with article `el/la sucio`
+**Pattern:** Adjective; agrees in gender/number: sucio/sucia/sucios/sucias.
 
-**Example:** *El/la sucio es importante.* — The dirty is important.
+**Example:** *La cocina está muy sucia.* — The kitchen is very dirty.

@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** pie
 
-**Pattern:** Use with article `el/la tarta`
+**Pattern:** Feminine noun: *la tarta*; also used for "cake" or "tart" depending on region.
 
-**Example:** *Me gusta el/la tarta.* — I like pie.
+**Example:** *Hice una tarta de manzana.* — I made an apple pie.

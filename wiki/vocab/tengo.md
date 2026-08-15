@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: verb
+last_updated: 2026-08-15
 ---
 
-**Meaning:** I've got, is there, I'm having
+**Meaning:** I've got, I'm having
 
-**Pattern:** Use with article `el/la tengo`
+**Pattern:** First-person singular (yo) present tense of the irregular verb `tener` ('to have').
 
-**Example:** *El/la tengo es importante.* — The i've got is important.
+**Example:** *Tengo dos hermanos.* — I have two brothers.

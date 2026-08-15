@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: verb
-last_updated: 2026-06-19
+type: phrase
+last_updated: 2026-08-15
 ---
 
 **Meaning:** to be right, be right
 
-**Pattern:** `tener razón` — regular use: be right
+**Pattern:** `tener razón` — tener expression; conjugate `tener` to match the subject. See [[tener-expressions]].
 
-**Example:** *Necesito tener razón.* — I need to be right.
+**Example:** *Tienes razón, fue un error.* — You're right, it was a mistake.

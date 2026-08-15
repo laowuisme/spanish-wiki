@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** salary
 
-**Pattern:** Use with article `el/la sueldo`
+**Pattern:** Masculine noun: *el sueldo*.
 
-**Example:** *El/la sueldo es importante.* — The salary is important.
+**Example:** *Recibo mi sueldo a fin de mes.* — I get my salary at the end of the month.

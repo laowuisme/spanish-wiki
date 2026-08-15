@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adverb
+last_updated: 2026-08-15
 ---
 
 **Meaning:** yes
 
-**Pattern:** Use with article `el/la sí`
+**Pattern:** Adverb of affirmation; invariable. Opposite of `no`. Intensified in the fixed expression `sí o sí` (see [[sí-o-sí]]).
 
-**Example:** *El/la sí es importante.* — The yes is important.
+**Example:** *—¿Quieres venir? —Sí, claro.* — "Do you want to come?" "Yes, of course."

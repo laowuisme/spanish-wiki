@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adverb
+last_updated: 2026-08-15
 ---
 
 **Meaning:** early
 
-**Pattern:** Use with article `el/la temprano`
+**Pattern:** Invariable adverb of time; modifies a verb (contrast with the adjective `temprano/temprana` used with a noun, e.g. *una hora temprana*).
 
-**Example:** *El/la temprano es importante.* — The early is important.
+**Example:** *Me levanto temprano todos los días.* — I get up early every day.

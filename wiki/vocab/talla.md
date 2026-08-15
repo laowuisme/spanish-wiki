@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** size
 
-**Pattern:** Use with article `el/la talla`
+**Pattern:** Feminine noun, used for clothing size: *la talla*.
 
-**Example:** *El/la talla es importante.* — The size is important.
+**Example:** *¿Qué talla usas?* — What size do you wear?

@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: verb
-last_updated: 2026-06-19
+type: noun
+last_updated: 2026-08-15
 ---
 
-**Meaning:** sweater, pullover, jersey's
+**Meaning:** sweater, pullover, jersey
 
-**Pattern:** `suéter` — regular use: sweater
+**Pattern:** Masculine noun (borrowed from English "sweater"): *el suéter*.
 
-**Example:** *Necesito suéter.* — I need to sweater.
+**Example:** *Llevo un suéter porque hace frío.* — I'm wearing a sweater because it's cold.

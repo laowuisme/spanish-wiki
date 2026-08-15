@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
-**Meaning:** work, job's, assignment's
+**Meaning:** work, job, assignment
 
-**Pattern:** Use with article `el/la tarea`
+**Pattern:** Feminine noun: *la tarea*; especially common for "homework" in a school context.
 
-**Example:** *El/la tarea es importante.* — The work is important.
+**Example:** *Tengo mucha tarea hoy.* — I have a lot of homework today.

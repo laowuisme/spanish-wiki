@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** afternoon
 
-**Pattern:** Use with article `el/la tarde`
+**Pattern:** Feminine noun: *la tarde*; used with `por la tarde` (in the afternoon) or `de la tarde` (p.m., with clock times).
 
-**Example:** *El/la tarde es importante.* — The afternoon is important.
+**Example:** *Nos vemos por la tarde.* — See you in the afternoon.

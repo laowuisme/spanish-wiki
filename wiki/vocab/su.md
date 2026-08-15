@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-15
 ---
 
 **Meaning:** your, her, their
 
-**Pattern:** Use with article `el/la su`
+**Pattern:** Possessive adjective; invariable for gender, takes -s for plural: su/sus. Can also mean "his/its" depending on context.
 
-**Example:** *El/la su es importante.* — The your is important.
+**Example:** *Su casa es muy bonita.* — Her/His/Your/Their house is very pretty.

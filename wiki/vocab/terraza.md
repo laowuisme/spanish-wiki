@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** terrace
 
-**Pattern:** Use with article `el/la terraza`
+**Pattern:** Feminine noun: *la terraza*; a rooftop or outdoor patio area.
 
-**Example:** *El/la terraza es importante.* — The terrace is important.
+**Example:** *Cenamos en la terraza con vista al mar.* — We had dinner on the terrace with an ocean view.

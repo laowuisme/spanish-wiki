@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** taxi, cabs, cab
 
-**Pattern:** Use with article `el/la taxi`
+**Pattern:** Masculine noun: *el taxi*.
 
-**Example:** *El/la taxi es importante.* — The taxi is important.
+**Example:** *Tomamos un taxi al aeropuerto.* — We took a taxi to the airport.

@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective/pronoun
+last_updated: 2026-08-15
 ---
 
 **Meaning:** many
 
-**Pattern:** Use with article `el/la tantos`
+**Pattern:** Masculine plural of `tanto` (so much/many); agrees with the noun it modifies: tanto/tanta/tantos/tantas. See [[tanto]].
 
-**Example:** *El/la tantos es importante.* — The many is important.
+**Example:** *No tenía tantos libros como ella.* — He didn't have as many books as her.

@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** television
 
-**Pattern:** Use with article `el/la televisión`
+**Pattern:** Feminine noun: *la televisión*.
 
-**Example:** *El/la televisión es importante.* — The television is important.
+**Example:** *Vemos la televisión después de cenar.* — We watch television after dinner.

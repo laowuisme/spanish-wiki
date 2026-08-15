@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** taco
 
-**Pattern:** Use with article `el/la taco`
+**Pattern:** Masculine noun: *el taco*.
 
-**Example:** *El/la taco es importante.* — The taco is important.
+**Example:** *Comimos tacos de pescado en la playa.* — We ate fish tacos at the beach.

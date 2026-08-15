@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: phrase
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** have to
 
-**Pattern:** Fixed expression: `tener que`
+**Pattern:** `tener que` + infinitive — expresses obligation; conjugate `tener` to match the subject.
 
-**Example:** *Tener que.* — — Have to.
+**Example:** *Tienes que estudiar más.* — You have to study more.

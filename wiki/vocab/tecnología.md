@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** technology
 
-**Pattern:** Use with article `el/la tecnología`
+**Pattern:** Feminine noun. `la tecnología`. Related: [[videollamada]], [[redes-sociales]], [[foro]].
 
-**Example:** *El/la tecnología es importante.* — The technology is important.
+**Example:** *La tecnología cambia muy rápido.* — Technology changes very fast.

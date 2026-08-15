@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: verb
-last_updated: 2026-06-19
+type: noun
+last_updated: 2026-08-15
 ---
 
 **Meaning:** garage, repair shop, workshop
 
-**Pattern:** `taller` — regular use: garage
+**Pattern:** Masculine noun: *el taller*.
 
-**Example:** *Necesito taller.* — I need to garage.
+**Example:** *Llevé el carro al taller esta mañana.* — I took the car to the repair shop this morning.
