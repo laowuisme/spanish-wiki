@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** project's, project, plan's
 
-**Pattern:** Use with article `el/la proyecto`
+**Pattern:** Masculine noun: el proyecto
 
-**Example:** *El/la proyecto es importante.* — The project's is important.
+**Example:** *Estamos trabajando en un proyecto nuevo.* — We're working on a new project.

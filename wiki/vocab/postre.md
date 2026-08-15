@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** dessert
 
-**Pattern:** Use with article `el/la postre`
+**Pattern:** Masculine noun: el postre
 
-**Example:** *Me gusta el/la postre.* — I like dessert.
+**Example:** *De postre, quiero flan.* — For dessert, I want flan.

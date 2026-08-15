@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: verb
+last_updated: 2026-08-15
 ---
 
 **Meaning:** mean, wants
 
-**Pattern:** Use with article `el/la quiere`
+**Pattern:** Third-person singular present indicative of `querer` (e→ie stem change); see [[quisiera-vs-quiere]]
 
-**Example:** *El/la quiere es importante.* — The mean is important.
+**Example:** *Ella quiere viajar a España.* — She wants to travel to Spain.

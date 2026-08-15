@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: verb
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** to worry, worry
 
-**Pattern:** Reflexive verb: `preocuparse` requires matching reflexive pronoun (me/te/se/nos)
+**Pattern:** Reflexive -ar verb: me preocupo, te preocupas, se preocupa, nos preocupamos, se preocupan; often followed by `por`
 
-**Example:** *Necesito preocuparse.* — I need to worry.
+**Example:** *No te preocupes por mí.* — Don't worry about me.

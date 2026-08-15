@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-15
 ---
 
 **Meaning:** main, central, front
 
-**Pattern:** Use with article `el/la principal`
+**Pattern:** Invariable for gender (principal/principal); plural: principales
 
-**Example:** *El/la principal es importante.* — The main is important.
+**Example:** *La entrada principal está cerrada.* — The main entrance is closed.

@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** harbor
 
-**Pattern:** Use with article `el/la puerto`
+**Pattern:** Masculine noun: el puerto (also: port)
 
-**Example:** *El/la puerto es importante.* — The harbor is important.
+**Example:** *El barco llegó al puerto por la mañana.* — The ship arrived at the harbor in the morning.

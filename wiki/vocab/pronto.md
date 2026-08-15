@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adverb
+last_updated: 2026-08-15
 ---
 
 **Meaning:** soon
 
-**Pattern:** Use with article `el/la pronto`
+**Pattern:** Adverb; invariable
 
-**Example:** *El/la pronto es importante.* — The soon is important.
+**Example:** *Nos vemos pronto.* — See you soon.

@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-15
 ---
 
 **Meaning:** next
 
-**Pattern:** Use with article `el/la próximo`
+**Pattern:** Agrees in gender/number: próximo/próxima/próximos/próximas; usually precedes the noun
 
-**Example:** *El/la próximo es importante.* — The next is important.
+**Example:** *Nos vemos la próxima semana.* — See you next week.

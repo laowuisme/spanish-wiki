@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: phrase
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** website
 
-**Pattern:** Fixed expression: `página web`
+**Pattern:** Fixed noun phrase (f): la página web; plural: las páginas web
 
-**Example:** *Página web.* — — Website.
+**Example:** *Visita nuestra página web para más información.* — Visit our website for more information.

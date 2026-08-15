@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** door
 
-**Pattern:** Use with article `el/la puerta`
+**Pattern:** Feminine noun: la puerta
 
-**Example:** *El/la puerta es importante.* — The door is important.
+**Example:** *Por favor, cierra la puerta.* — Please close the door.

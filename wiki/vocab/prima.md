@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** cousin, cousin's
 
-**Pattern:** Use with article `el/la prima`
+**Pattern:** Feminine noun: la prima (female cousin); masculine form: el primo
 
-**Example:** *El/la prima es importante.* — The cousin is important.
+**Example:** *Mi prima vive en Madrid.* — My cousin lives in Madrid.

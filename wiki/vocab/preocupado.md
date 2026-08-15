@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-15
 ---
 
 **Meaning:** worried
 
-**Pattern:** Use with article `el/la preocupado`
+**Pattern:** Agrees in gender/number: preocupado/preocupada/preocupados/preocupadas; usually used with estar
 
-**Example:** *El/la preocupado es importante.* — The worried is important.
+**Example:** *Estoy preocupado por el examen.* — I'm worried about the exam.

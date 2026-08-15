@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: phrase
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
-**Meaning:** go, goes
+**Meaning:** to fall asleep, falls asleep
 
-**Pattern:** Fixed expression: `quedarse dormido`
+**Pattern:** Fixed expression `quedarse dormido` (lit. "to stay/end up asleep"); `dormido` agrees in gender/number with the subject (quedarse dormida for a female subject)
 
-**Example:** *Quedarse dormido.* — — Go.
+**Example:** *Me quedé dormido viendo la tele.* — I fell asleep watching TV.

@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-15
 ---
 
 **Meaning:** dear
 
-**Pattern:** Use with article `el/la querido`
+**Pattern:** Agrees in gender/number: querido/querida/queridos/queridas; also used as a term of address meaning "dear, darling"
 
-**Example:** *El/la querido es importante.* — The dear is important.
+**Example:** *Querida Ana, ¿cómo estás?* — Dear Ana, how are you?

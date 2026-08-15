@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** question
 
-**Pattern:** Use with article `el/la pregunta`
+**Pattern:** Feminine noun: la pregunta; related verb: preguntar (to ask)
 
-**Example:** *El/la pregunta es importante.* — The question is important.
+**Example:** *Tengo una pregunta para el profesor.* — I have a question for the teacher.

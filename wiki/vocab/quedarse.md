@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: verb
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** to stay, stay
 
-**Pattern:** Reflexive verb: `quedarse` requires matching reflexive pronoun (me/te/se/nos)
+**Pattern:** Reflexive -ar verb: me quedo, te quedas, se queda, nos quedamos, se quedan
 
-**Example:** *Necesito quedarse.* — I need to stay.
+**Example:** *Me quedo en casa este fin de semana.* — I'm staying home this weekend.

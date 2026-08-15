@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** problem
 
-**Pattern:** Use with article `el/la problema`
+**Pattern:** Masculine noun: el problema — ends in -a but masculine (Greek-origin exception, like el programa, el sistema)
 
-**Example:** *El/la problema es importante.* — The problem is important.
+**Example:** *Tenemos un problema con el coche.* — We have a problem with the car.

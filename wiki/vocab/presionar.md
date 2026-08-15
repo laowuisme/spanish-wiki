@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: verb
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** press, pressure, pressuring
 
-**Pattern:** `presionar` — regular use: press
+**Pattern:** Regular -ar verb: presiono, presionas, presiona, presionamos, presionáis, presionan
 
-**Example:** *Necesito presionar.* — I need to press.
+**Example:** *No me presiones, por favor.* — Don't pressure me, please.

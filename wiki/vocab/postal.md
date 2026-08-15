@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** postcard
 
-**Pattern:** Use with article `el/la postal`
+**Pattern:** Feminine noun: la postal; also used as an invariable adjective meaning "postal" (código postal)
 
-**Example:** *El/la postal es importante.* — The postcard is important.
+**Example:** *Compré una postal en el mercado.* — I bought a postcard at the market.

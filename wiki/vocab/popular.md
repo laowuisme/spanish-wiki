@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: verb
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-15
 ---
 
 **Meaning:** popular
 
-**Pattern:** `popular` — regular use: popular
+**Pattern:** Invariable for gender (popular/popular); plural: populares
 
-**Example:** *Necesito popular.* — I need to popular.
+**Example:** *Ese cantante es muy popular.* — That singer is very popular.

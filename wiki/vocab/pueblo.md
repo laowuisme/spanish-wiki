@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** town
 
-**Pattern:** Use with article `el/la pueblo`
+**Pattern:** Masculine noun: el pueblo (also: people, as in a nation's people)
 
-**Example:** *El/la pueblo es importante.* — The town is important.
+**Example:** *Mis abuelos viven en un pueblo pequeño.* — My grandparents live in a small town.

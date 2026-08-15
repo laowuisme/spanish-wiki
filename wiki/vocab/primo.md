@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** cousin
 
-**Pattern:** Use with article `el/la primo`
+**Pattern:** Masculine noun: el primo (male cousin); feminine form: la prima
 
-**Example:** *El/la primo es importante.* — The cousin is important.
+**Example:** *Mi primo estudia en la universidad.* — My cousin studies at university.

@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-15
 ---
 
 **Meaning:** first
 
-**Pattern:** Use with article `el/la primero`
+**Pattern:** Ordinal adjective; shortens to `primer` before a masculine singular noun (el primer día); also used as an adverb meaning "first, firstly"
 
-**Example:** *El/la primero es importante.* — The first is important.
+**Example:** *Él fue el primero en llegar.* — He was the first to arrive.

@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: verb
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
-**Meaning:** playing, (to) play, play
+**Meaning:** to practice, practices, practicing
 
-**Pattern:** `practicar` — regular use: playing
+**Pattern:** Regular -ar verb: practico, practicas, practica, practicamos, practicáis, practican
 
-**Example:** *Necesito practicar.* — I need to playing.
+**Example:** *Practico español todos los días.* — I practice Spanish every day.

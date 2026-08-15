@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** price, charge, deal
 
-**Pattern:** Use with article `el/la precio`
+**Pattern:** Masculine noun: el precio
 
-**Example:** *El/la precio es importante.* — The price is important.
+**Example:** *El precio de la entrada es muy alto.* — The price of the ticket is very high.

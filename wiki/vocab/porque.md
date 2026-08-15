@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: conjunction
+last_updated: 2026-08-15
 ---
 
 **Meaning:** because
 
-**Pattern:** Use with article `el/la porque`
+**Pattern:** Causal conjunction, one word, no accent — introduces a reason; contrast with `por qué` (why, interrogative)
 
-**Example:** *El/la porque es importante.* — The because is important.
+**Example:** *Como frutas porque son saludables.* — I eat fruit because it's healthy.

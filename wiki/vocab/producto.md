@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** product
 
-**Pattern:** Use with article `el/la producto`
+**Pattern:** Masculine noun: el producto
 
-**Example:** *El/la producto es importante.* — The product is important.
+**Example:** *Este producto es muy caro.* — This product is very expensive.

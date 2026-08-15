@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** protagonist
 
-**Pattern:** Use with article `el/la protagonista`
+**Pattern:** Common-gender noun: el protagonista / la protagonista (same form for both genders)
 
-**Example:** *El/la protagonista es importante.* — The protagonist is important.
+**Example:** *El protagonista de la película es un detective.* — The protagonist of the movie is a detective.

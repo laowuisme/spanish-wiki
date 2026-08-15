@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: phrase
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** through
 
-**Pattern:** Fixed expression: `por la`
+**Pattern:** `por` + feminine definite article `la`, used before feminine nouns (mañana, tarde, noche, calle, playa...); often conveys "through/along/during"
 
-**Example:** *Por la.* — — Through.
+**Example:** *Caminamos por la playa.* — We walked along the beach.
