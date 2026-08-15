@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** peso
 
-**Pattern:** Use with article `el/la peso`
+**Pattern:** Masculine noun: `el peso` — also means "weight."
 
-**Example:** *El/la peso es importante.* — The peso is important.
+**Example:** *El peso mexicano es la moneda de México.* — The Mexican peso is the currency of Mexico.

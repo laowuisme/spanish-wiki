@@ -1,12 +1,12 @@
 ---
-cefr: A2
+cefr: A1
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** pineapple
 
-**Pattern:** Use with article `el/la piña`
+**Pattern:** Feminine noun. `una piña`. Also means pine cone in some contexts.
 
-**Example:** *El/la piña es importante.* — The pineapple is important.
+**Example:** *¿Te gusta la piña en la pizza?* — Do you like pineapple on pizza?

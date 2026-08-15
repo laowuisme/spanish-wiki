@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-15
 ---
 
 **Meaning:** lazy
 
-**Pattern:** Use with article `el/la perezoso`
+**Pattern:** Adjective — agrees in gender/number: `perezoso/perezosa/perezosos/perezosas`.
 
-**Example:** *El/la perezoso es importante.* — The lazy is important.
+**Example:** *No seas tan perezoso, ayúdame con esto.* — Don't be so lazy, help me with this.

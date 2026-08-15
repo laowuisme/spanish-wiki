@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-15
 ---
 
 **Meaning:** lost
 
-**Pattern:** Use with article `el/la perdido`
+**Pattern:** Past participle of `perder` used as an adjective — agrees in gender/number: `perdido/perdida/perdidos/perdidas`.
 
-**Example:** *El/la perdido es importante.* — The lost is important.
+**Example:** *Estoy perdido, ¿me puede ayudar?* — I'm lost, can you help me?

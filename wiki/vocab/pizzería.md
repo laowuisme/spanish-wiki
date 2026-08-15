@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** pizzeria
 
-**Pattern:** Use with article `el/la pizzería`
+**Pattern:** Feminine noun: `la pizzería`.
 
-**Example:** *El/la pizzería es importante.* — The pizzeria is important.
+**Example:** *Hay una pizzería nueva cerca de mi casa.* — There's a new pizzeria near my house.

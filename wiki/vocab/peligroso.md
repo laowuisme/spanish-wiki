@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-15
 ---
 
 **Meaning:** dangerous
 
-**Pattern:** Use with article `el/la peligroso`
+**Pattern:** Adjective — agrees in gender/number: `peligroso/peligrosa/peligrosos/peligrosas`.
 
-**Example:** *El/la peligroso es importante.* — The dangerous is important.
+**Example:** *Ese barrio es muy peligroso de noche.* — That neighborhood is very dangerous at night.

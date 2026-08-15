@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
-**Meaning:** country's, land, country
+**Meaning:** country, land
 
-**Pattern:** Use with article `el/la país`
+**Pattern:** Masculine noun: `el país`.
 
-**Example:** *El/la país es importante.* — The country's is important.
+**Example:** *¿De qué país eres?* — What country are you from?

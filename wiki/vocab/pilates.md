@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** Pilates
 
-**Pattern:** Use with article `el/la pilates`
+**Pattern:** Invariable noun — usually used without an article: `hacer pilates` (to do Pilates).
 
-**Example:** *El/la pilates es importante.* — The pilates is important.
+**Example:** *Hago pilates dos veces por semana.* — I do Pilates twice a week.

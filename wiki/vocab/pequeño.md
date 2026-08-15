@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-15
 ---
 
 **Meaning:** small
 
-**Pattern:** Use with article `el/la pequeño`
+**Pattern:** Adjective — agrees in gender/number: `pequeño/pequeña/pequeños/pequeñas`.
 
-**Example:** *El/la pequeño es importante.* — The small is important.
+**Example:** *Vive en un apartamento pequeño.* — He lives in a small apartment.

@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** pool
 
-**Pattern:** Use with article `el/la piscina`
+**Pattern:** Feminine noun: `la piscina`.
 
-**Example:** *El/la piscina es importante.* — The pool is important.
+**Example:** *Nadamos en la piscina todos los veranos.* — We swim in the pool every summer.

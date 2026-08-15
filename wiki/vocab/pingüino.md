@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** penguin
 
-**Pattern:** Use with article `el/la pingüino`
+**Pattern:** Masculine noun: `el pingüino`.
 
-**Example:** *El/la pingüino es importante.* — The penguin is important.
+**Example:** *El pingüino nada muy rápido.* — The penguin swims very fast.

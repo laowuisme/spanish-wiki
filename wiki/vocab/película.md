@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** movie
 
-**Pattern:** Use with article `el/la película`
+**Pattern:** Feminine noun: `la película`.
 
-**Example:** *El/la película es importante.* — The movie is important.
+**Example:** *Vimos una película muy buena anoche.* — We watched a very good movie last night.

@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** beach
 
-**Pattern:** Use with article `el/la playa`
+**Pattern:** Feminine noun: `la playa`.
 
-**Example:** *El/la playa es importante.* — The beach is important.
+**Example:** *Fuimos a la playa el sábado.* — We went to the beach on Saturday.

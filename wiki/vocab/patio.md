@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** patio
 
-**Pattern:** Use with article `el/la patio`
+**Pattern:** Masculine noun: `el patio`.
 
-**Example:** *El/la patio es importante.* — The patio is important.
+**Example:** *Los niños juegan en el patio.* — The kids are playing in the patio.

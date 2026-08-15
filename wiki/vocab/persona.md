@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** person
 
-**Pattern:** Use with article `el/la persona`
+**Pattern:** Feminine noun: `la persona` — always feminine, even when referring to a man.
 
-**Example:** *El/la persona es importante.* — The person is important.
+**Example:** *Es una persona muy amable.* — He's a very kind person.

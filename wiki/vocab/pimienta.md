@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** pepper
 
-**Pattern:** Use with article `el/la pimienta`
+**Pattern:** Feminine noun: `la pimienta` — the spice, as opposed to `pimiento` (the vegetable).
 
-**Example:** *Me gusta el/la pimienta.* — I like pepper.
+**Example:** *Me gusta la pimienta.* — I like pepper.

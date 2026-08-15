@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
-**Meaning:** designed, planned, plots
+**Meaning:** plan
 
-**Pattern:** Use with article `el/la plan`
+**Pattern:** Masculine noun: `el plan`.
 
-**Example:** *El/la plan es importante.* — The designed is important.
+**Example:** *Tengo un plan para el fin de semana.* — I have a plan for the weekend.

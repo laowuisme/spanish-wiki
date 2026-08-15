@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: conjunction
+last_updated: 2026-08-15
 ---
 
 **Meaning:** but
 
-**Pattern:** Use with article `el/la pero`
+**Pattern:** Coordinating conjunction — connects two contrasting ideas.
 
-**Example:** *El/la pero es importante.* — The but is important.
+**Example:** *Quiero ir, pero no tengo tiempo.* — I want to go, but I don't have time.

@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-15
 ---
 
 **Meaning:** few
 
-**Pattern:** Use with article `el/la pocos`
+**Pattern:** Indefinite quantifier adjective — agrees in gender/number: `pocos/pocas` (plural), `poco/poca` (singular, "little").
 
-**Example:** *El/la pocos es importante.* — The few is important.
+**Example:** *Tengo pocos amigos aquí.* — I have few friends here.

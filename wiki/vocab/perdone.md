@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: verb
+last_updated: 2026-08-15
 ---
 
 **Meaning:** excuse me
 
-**Pattern:** Use with article `el/la perdone`
+**Pattern:** Formal (usted) imperative of `perdonar` — the polite equivalent of `perdona`.
 
-**Example:** *El/la perdone es importante.* — The excuse me is important.
+**Example:** *Perdone, ¿dónde está la estación?* — Excuse me, where is the station?

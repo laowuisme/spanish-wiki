@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** pineapples
 
-**Pattern:** Use with article `el/la piñas`
+**Pattern:** Plural of `piña` — feminine: `las piñas`.
 
-**Example:** *El/la piñas es importante.* — The pineapples is important.
+**Example:** *Compramos dos piñas en el mercado.* — We bought two pineapples at the market.

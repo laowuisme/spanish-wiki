@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: verb
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** to comb, comb, combs
 
-**Pattern:** Reflexive verb: `peinarse` requires matching reflexive pronoun (me/te/se/nos)
+**Pattern:** Reflexive verb — conjugates with a matching pronoun: me peino, te peinas, se peina, nos peinamos, se peinan.
 
-**Example:** *Necesito peinarse.* — I need to comb.
+**Example:** *Me peino antes de salir de casa.* — I comb my hair before leaving the house.

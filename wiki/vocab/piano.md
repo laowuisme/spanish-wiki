@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** piano
 
-**Pattern:** Use with article `el/la piano`
+**Pattern:** Masculine noun: `el piano`.
 
-**Example:** *El/la piano es importante.* — The piano is important.
+**Example:** *Ella toca el piano muy bien.* — She plays the piano very well.

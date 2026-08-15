@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: phrase
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** dance floor
 
-**Pattern:** Fixed expression: `pista de baile`
+**Pattern:** Fixed expression: `la pista de baile`.
 
-**Example:** *Pista de baile.* — — Dance floor.
+**Example:** *Todos bailaban en la pista de baile.* — Everyone was dancing on the dance floor.

@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
-**Meaning:** hair salon
+**Meaning:** hair salon, hairdresser's, barbershop
 
-**Pattern:** Use with article `el/la peluquería`
+**Pattern:** Feminine noun. `peluquero/a` = hairdresser/barber. `ir a la peluquería` = to go to the hairdresser's.
 
-**Example:** *El/la peluquería es importante.* — The hair salon is important.
+**Example:** *Voy a la peluquería esta tarde.* — I'm going to the hair salon this afternoon.

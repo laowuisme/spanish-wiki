@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** skateboard
 
-**Pattern:** Use with article `el/la patineta`
+**Pattern:** Feminine noun: `la patineta`.
 
-**Example:** *El/la patineta es importante.* — The skateboard is important.
+**Example:** *Mi hermano tiene una patineta nueva.* — My brother has a new skateboard.

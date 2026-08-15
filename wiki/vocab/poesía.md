@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** poetry
 
-**Pattern:** Use with article `el/la poesía`
+**Pattern:** Feminine noun: `la poesía`.
 
-**Example:** *El/la poesía es importante.* — The poetry is important.
+**Example:** *Estudiamos poesía en la clase de español.* — We study poetry in Spanish class.

@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** dog
 
-**Pattern:** Use with article `el/la perro`
+**Pattern:** Masculine noun: `el perro`. Feminine form: `la perra`.
 
-**Example:** *El/la perro es importante.* — The dog is important.
+**Example:** *Mi perro se llama Rocky.* — My dog is named Rocky.

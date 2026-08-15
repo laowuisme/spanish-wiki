@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: verb
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** to skate, skate
 
-**Pattern:** `patinar` — regular use: skate
+**Pattern:** Regular -ar verb.
 
-**Example:** *Necesito patinar.* — I need to skate.
+**Example:** *Los niños patinan en el parque los domingos.* — The kids skate in the park on Sundays.

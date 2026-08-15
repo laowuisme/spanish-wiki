@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-15
 ---
 
 **Meaning:** perfect
 
-**Pattern:** Use with article `el/la perfecto`
+**Pattern:** Adjective — agrees in gender/number: `perfecto/perfecta/perfectos/perfectas`. Also used alone as an exclamation meaning "perfect!"
 
-**Example:** *El/la perfecto es importante.* — The perfect is important.
+**Example:** *¡Todo salió perfecto!* — Everything turned out perfect!
