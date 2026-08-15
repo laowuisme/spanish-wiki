@@ -1,7 +1,7 @@
 ---
 cefr: A2
 stage: encountered
-type: exclamation
+type: phrase
 last_updated: 2026-08-15
 ---
 
