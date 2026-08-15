@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: phrase
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** a couple of
 
-**Pattern:** Fixed expression: `un par de`
+**Pattern:** `un par de` + plural noun — expresses an approximate small quantity.
 
-**Example:** *Un par de.* — — A couple of.
+**Example:** *Necesito un par de zapatos nuevos.* — I need a couple of new shoes.

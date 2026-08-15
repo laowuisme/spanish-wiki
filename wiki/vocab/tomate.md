@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** tomato
 
-**Pattern:** Use with article `el/la tomate`
+**Pattern:** Masculine noun: `el tomate`.
 
-**Example:** *El/la tomate es importante.* — The tomato is important.
+**Example:** *Necesito comprar tomates para la ensalada.* — I need to buy tomatoes for the salad.

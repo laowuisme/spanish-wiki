@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** uncle
 
-**Pattern:** Use with article `el/la tío`
+**Pattern:** Masculine noun: `el tío`; feminine form: `la tía` (aunt). Colloquially in Spain, `tío/tía` can also mean "dude/guy".
 
-**Example:** *El/la tío es importante.* — The uncle is important.
+**Example:** *Mi tío vive en Buenos Aires.* — My uncle lives in Buenos Aires.

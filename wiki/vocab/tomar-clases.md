@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: phrase
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** take classes
 
-**Pattern:** Fixed expression: `tomar clases`
+**Pattern:** `tomar` + `clases` — collocation for enrolling in or attending lessons.
 
-**Example:** *Tomar clases.* — — Take classes.
+**Example:** *Quiero tomar clases de español.* — I want to take Spanish classes.

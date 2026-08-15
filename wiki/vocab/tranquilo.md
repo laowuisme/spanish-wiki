@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-15
 ---
 
 **Meaning:** calm, peaceful, quiet
 
-**Pattern:** Use with article `el/la tranquilo`
+**Pattern:** Adjective, agrees in gender/number: `tranquilo/tranquila/tranquilos/tranquilas`; used with `estar` for a temporary state, `ser` for an inherent trait or place.
 
-**Example:** *El/la tranquilo es importante.* — The calm is important.
+**Example:** *Este barrio es muy tranquilo.* — This neighborhood is very quiet.

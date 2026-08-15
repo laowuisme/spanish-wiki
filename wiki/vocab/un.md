@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: article
+last_updated: 2026-08-15
 ---
 
 **Meaning:** a, an, one
 
-**Pattern:** Use with article `el/la un`
+**Pattern:** Indefinite article, masculine singular; agrees with masculine nouns: `un libro`. Also the apocopated form of `uno` used before masculine nouns.
 
-**Example:** *El/la un es importante.* — The a is important.
+**Example:** *Tengo un perro.* — I have a dog.

@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-15
 ---
 
 **Meaning:** hardworking
 
-**Pattern:** Use with article `el/la trabajador`
+**Pattern:** Adjective, agrees in gender/number: `trabajador/trabajadora/trabajadores/trabajadoras`; also used as a noun meaning "worker".
 
-**Example:** *El/la trabajador es importante.* — The hardworking is important.
+**Example:** *Mi hermana es muy trabajadora.* — My sister is very hardworking.

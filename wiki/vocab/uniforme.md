@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** uniform
 
-**Pattern:** Use with article `el/la uniforme`
+**Pattern:** Masculine noun: `el uniforme`.
 
-**Example:** *El/la uniforme es importante.* — The uniform is important.
+**Example:** *Los estudiantes llevan uniforme.* — The students wear a uniform.

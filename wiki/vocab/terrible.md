@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-15
 ---
 
 **Meaning:** terrible
 
-**Pattern:** Use with article `el/la terrible`
+**Pattern:** Adjective ending in `-e`; invariable for gender, only changes for number: `terrible/terribles`. Used with `ser` for inherent qualities.
 
-**Example:** *El/la terrible es importante.* — The terrible is important.
+**Example:** *La película fue terrible.* — The movie was terrible.

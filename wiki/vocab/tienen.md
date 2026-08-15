@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: verb
+last_updated: 2026-08-15
 ---
 
 **Meaning:** make
 
-**Pattern:** Use with article `el/la tienen`
+**Pattern:** Third-person plural present indicative of [[tener]] (irregular, e→ie stem change); also the `ustedes` form.
 
-**Example:** *El/la tienen es importante.* — The make is important.
+**Example:** *Ellos tienen un perro.* — They have a dog.

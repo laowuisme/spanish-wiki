@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** suit
 
-**Pattern:** Use with article `el/la traje`
+**Pattern:** Masculine noun: `el traje`; also the first-person preterite of `traer` (to bring) — context distinguishes the two.
 
-**Example:** *El/la traje es importante.* — The suit is important.
+**Example:** *Lleva un traje muy elegante.* — He's wearing a very elegant suit.

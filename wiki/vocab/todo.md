@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: pronoun
+last_updated: 2026-08-15
 ---
 
 **Meaning:** everything
 
-**Pattern:** Use with article `el/la todo`
+**Pattern:** Indefinite pronoun, invariable as "everything"; also functions as an adjective meaning "all/every" (`todo el día`), agreeing `todo/toda/todos/todas`.
 
-**Example:** *El/la todo es importante.* — The everything is important.
+**Example:** *Lo sé todo.* — I know everything.

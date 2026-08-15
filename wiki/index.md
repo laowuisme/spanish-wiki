@@ -1534,7 +1534,6 @@ _Last updated: 2026-08-13 | 1664 pages total_
 - [[traducir]] — to translate, translate (A2, encountered)
 - [[traer]] — to bring, bring (A2, encountered)
 - [[traje]] — suit (A2, encountered)
-- [[traje-de-bano]] — swimsuit / swimming costume (A1, encountered)
 - [[traje-de-baño]] — swimsuit (A2, encountered)
 - [[tranquila]] — calm (A2, encountered)
 - [[tranquilo]] — calm, peaceful, quiet (A2, encountered)

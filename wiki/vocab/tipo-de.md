@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: phrase
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** type of
 
-**Pattern:** Fixed expression: `tipo de`
+**Pattern:** `tipo de` + noun — used to specify a category or kind.
 
-**Example:** *Tipo de.* — — Type of.
+**Example:** *¿Qué tipo de música te gusta?* — What type of music do you like?

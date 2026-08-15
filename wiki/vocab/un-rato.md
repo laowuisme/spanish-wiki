@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: phrase
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** a while
 
-**Pattern:** Fixed expression: `un rato`
+**Pattern:** `un rato` — noun phrase for an indefinite short period of time, often with `por` or `durante`.
 
-**Example:** *Un rato.* — — A while.
+**Example:** *Vamos a descansar un rato.* — Let's rest for a while.

@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** train, train's
 
-**Pattern:** Use with article `el/la tren`
+**Pattern:** Masculine noun: `el tren`.
 
-**Example:** *El/la tren es importante.* — The train is important.
+**Example:** *Vamos a tomar el tren a Madrid.* — We're going to catch the train to Madrid.

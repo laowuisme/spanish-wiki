@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: phrase
-last_updated: 2026-06-19
+type: noun
+last_updated: 2026-08-15
 ---
 
-**Meaning:** swimsuit
+**Meaning:** swimsuit / swimming costume
 
-**Pattern:** Fixed expression: `traje de baño`
+**Pattern:** Compound noun: `traje` (suit/outfit) + `de baño` (of bathing).
 
-**Example:** *Traje de baño.* — — Swimsuit.
+**Example:** *No olvides el traje de baño.* — Don't forget your swimsuit.

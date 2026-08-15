@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** tourist
 
-**Pattern:** Use with article `el/la turista`
+**Pattern:** Common-gender noun: `el/la turista` — same form for both genders, only the article changes.
 
-**Example:** *El/la turista es importante.* — The tourist is important.
+**Example:** *Hay muchos turistas en la playa.* — There are many tourists on the beach.

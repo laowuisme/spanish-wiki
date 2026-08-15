@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: phrase
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** kind of
 
-**Pattern:** Fixed expression: `un poco`
+**Pattern:** `un poco` used adverbially before an adjective or verb, meaning "a little/somewhat". See [[poco]].
 
-**Example:** *Un poco.* — — Kind of.
+**Example:** *Estoy un poco cansado.* — I'm kind of tired.

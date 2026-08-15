@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** thirteen
 
-**Pattern:** Use with article `el/la trece`
+**Pattern:** Invariable cardinal number; precedes the noun.
 
 **Example:** *Tengo trece años.* — I am thirteen years old.

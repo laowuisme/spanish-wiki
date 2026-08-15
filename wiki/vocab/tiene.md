@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: verb
+last_updated: 2026-08-15
 ---
 
 **Meaning:** is, makes
 
-**Pattern:** Use with article `el/la tiene`
+**Pattern:** Third-person singular present indicative of [[tener]] (irregular, e→ie stem change); also the formal `usted` form.
 
-**Example:** *El/la tiene es importante.* — The is is important.
+**Example:** *Ella tiene dos hermanos.* — She has two siblings.

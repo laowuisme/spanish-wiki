@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-15
 ---
 
 **Meaning:** your
 
-**Pattern:** Use with article `el/la tu`
+**Pattern:** Possessive adjective (informal singular); invariable for gender, takes -s for plural: `tu/tus`. Distinct from [[tú]] (subject pronoun "you") — no accent mark.
 
-**Example:** *El/la tu es importante.* — The your is important.
+**Example:** *¿Dónde está tu casa?* — Where is your house?

@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-15
 ---
 
 **Meaning:** shy, timid
 
-**Pattern:** Use with article `el/la tímida`
+**Pattern:** Feminine form of `tímido`; used with `ser` for a personality trait.
 
-**Example:** *El/la tímida es importante.* — The shy is important.
+**Example:** *Ella es un poco tímida.* — She's a bit shy.

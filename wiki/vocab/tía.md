@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-15
 ---
 
 **Meaning:** aunt
 
-**Pattern:** Use with article `el/la tía`
+**Pattern:** Feminine noun: `la tía`; masculine form: `el tío` (uncle).
 
-**Example:** *El/la tía es importante.* — The aunt is important.
+**Example:** *Mi tía vive en Barcelona.* — My aunt lives in Barcelona.
