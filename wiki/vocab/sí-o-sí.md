@@ -1,5 +1,5 @@
 ---
-cefr: B1
+cefr: A2
 stage: encountered
 type: phrase
 last_updated: 2026-08-15
