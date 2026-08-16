@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-16
 ---
 
 **Meaning:** shoe
 
-**Pattern:** Use with article `el/la zapato`
+**Pattern:** Masculine noun: `el zapato`; usually used in the plural `los zapatos` (a pair of shoes).
 
-**Example:** *El/la zapato es importante.* — The shoe is important.
+**Example:** *Necesito comprar zapatos nuevos.* — I need to buy new shoes.

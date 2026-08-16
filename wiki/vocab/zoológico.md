@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-16
 ---
 
 **Meaning:** zoo
 
-**Pattern:** Use with article `el/la zoológico`
+**Pattern:** Masculine noun: `el zoológico`; often shortened to `el zoo` in casual speech.
 
-**Example:** *El/la zoológico es importante.* — The zoo is important.
+**Example:** *Fuimos al zoológico el sábado.* — We went to the zoo on Saturday.

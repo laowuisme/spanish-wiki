@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-16
 ---
 
 **Meaning:** area
 
-**Pattern:** Use with article `el/la zona`
+**Pattern:** Feminine noun: `la zona`. Common in compounds: `zona horaria` (time zone), `zona de descanso` (rest area).
 
-**Example:** *El/la zona es importante.* — The area is important.
+**Example:** *Esta zona de la ciudad es muy tranquila.* — This area of the city is very quiet.

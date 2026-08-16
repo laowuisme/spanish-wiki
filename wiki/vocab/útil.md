@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-16
 ---
 
 **Meaning:** useful
 
-**Pattern:** Use with article `el/la útil`
+**Pattern:** Invariable for gender (`el libro útil`, `la información útil`); plural `útiles`. Note: `útiles escolares` = school supplies (noun, always plural).
 
-**Example:** *El/la útil es importante.* — The useful is important.
+**Example:** *Este diccionario es muy útil para aprender español.* — This dictionary is very useful for learning Spanish.

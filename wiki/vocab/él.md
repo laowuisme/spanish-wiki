@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: pronoun
+last_updated: 2026-08-16
 ---
 
 **Meaning:** he
 
-**Pattern:** Use with article `el/la él`
+**Pattern:** Third-person singular masculine subject pronoun; often omitted in Spanish since the verb ending already shows the subject. Also used as the object of a preposition (`para él` = for him). Distinct from `el` (the, definite article) — the accent marks the pronoun.
 
-**Example:** *El/la él es importante.* — The he is important.
+**Example:** *Él vive en Madrid.* — He lives in Madrid.

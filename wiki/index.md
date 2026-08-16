@@ -1557,7 +1557,6 @@ _Last updated: 2026-08-13 | 1664 pages total_
 - [[tío-tía]] — uncle / aunt; also colloquially (Spain): dude / guy / girl (A1, encountered)
 - [[típico]] — typical (A2, encountered)
 - [[tú]] — you (A2, encountered)
-- [[ultimamente]] — lately, recently; refers to a recent unspecified period (últ (A2, encountered)
 - [[un]] — a, an, one (A2, encountered)
 - [[un-dia-libre]] — a day off (from work or school) (A2, encountered)
 - [[un-par-de]] — a couple of (A2, encountered)
@@ -1640,7 +1639,7 @@ _Last updated: 2026-08-13 | 1664 pages total_
 - [[árabe]] — Arabic (A2, encountered)
 - [[árbol]] — tree (A1, encountered)
 - [[él]] — he (A2, encountered)
-- [[últimamente]] — lately (A2, encountered)
+- [[últimamente]] — lately, recently; refers to a recent unspecified period (últimamente with accent on the first 'u') (A2, encountered)
 - [[útil]] — useful (A2, encountered)
 
 ## Errors

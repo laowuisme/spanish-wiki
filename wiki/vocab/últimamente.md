@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: adverb
-last_updated: 2026-06-19
+last_updated: 2026-08-16
 ---
 
-**Meaning:** lately
+**Meaning:** lately, recently; refers to a recent unspecified period (últimamente with accent on the first 'u')
 
-**Pattern:** Modifies verbs, adjectives, or other adverbs
+**Pattern:** Typically paired with present perfect or imperfect to describe ongoing recent states. Often at the start of a sentence.
 
-**Example:** *Lo hizo últimamente.* — He/she did it lately.
+**Example:** *Últimamente no duermo bien.* — Lately I haven't been sleeping well.
