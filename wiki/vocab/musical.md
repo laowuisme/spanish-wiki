@@ -1,8 +1,8 @@
 ---
 cefr: A2
 stage: encountered
-type: adjective
-last_updated: 2026-08-14
+type: noun/adjective
+last_updated: 2026-08-16
 ---
 
 **Meaning:** musical

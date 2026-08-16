@@ -1,8 +1,8 @@
 ---
 cefr: A2
 stage: encountered
-type: pronoun
-last_updated: 2026-08-14
+type: adjective/pronoun
+last_updated: 2026-08-16
 ---
 
 **Meaning:** this
