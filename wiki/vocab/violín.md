@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-16
 ---
 
 **Meaning:** violin
 
-**Pattern:** Use with article `el/la violín`
+**Pattern:** Masculine noun: el violín; plural drops the accent: violines.
 
-**Example:** *El/la violín es importante.* — The violin is important.
+**Example:** *Ella toca el violín muy bien.* — She plays the violin very well.

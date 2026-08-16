@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-16
 ---
 
 **Meaning:** window
 
-**Pattern:** Use with article `el/la ventana`
+**Pattern:** Feminine noun: la ventana.
 
-**Example:** *El/la ventana es importante.* — The window is important.
+**Example:** *Abre la ventana, por favor.* — Open the window, please.

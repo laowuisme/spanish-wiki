@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: verb
-last_updated: 2026-06-19
+last_updated: 2026-08-16
 ---
 
-**Meaning:** let's, (to) wear, using
+**Meaning:** to use, use
 
-**Pattern:** `usar` — regular use: let's
+**Pattern:** `-ar` infinitive; regular conjugation (uso, usas, usa...).
 
-**Example:** *Necesito usar.* — I need to let's.
+**Example:** *Necesito usar tu teléfono.* — I need to use your phone.

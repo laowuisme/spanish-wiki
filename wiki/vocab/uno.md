@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-16
 ---
 
 **Meaning:** one
 
-**Pattern:** Use with article `el/la uno`
+**Pattern:** Cardinal number; shortens to `un` before a masculine singular noun (apocope), `una` before feminine.
 
-**Example:** *El/la uno es importante.* — The one is important.
+**Example:** *Solo tengo uno.* — I only have one.

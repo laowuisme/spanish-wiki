@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: verb
-last_updated: 2026-06-19
+last_updated: 2026-08-16
 ---
 
 **Meaning:** live, (to) live, living
 
-**Pattern:** `vivir` — regular use: live
+**Pattern:** `-ir` infinitive; regular conjugation (vivo, vives, vive...).
 
-**Example:** *Necesito vivir.* — I need to live.
+**Example:** *Vivo en Madrid desde hace dos años.* — I've lived in Madrid for two years.

@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-16
 ---
 
 **Meaning:** time
 
-**Pattern:** Use with article `el/la vez`
+**Pattern:** Feminine noun: la vez ("time/occasion"); irregular plural: las veces.
 
-**Example:** *El/la vez es importante.* — The time is important.
+**Example:** *Fui a España una vez.* — I went to Spain once.

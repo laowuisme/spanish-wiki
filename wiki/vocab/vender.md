@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: verb
-last_updated: 2026-06-19
+last_updated: 2026-08-16
 ---
 
 **Meaning:** to sell, sell
 
-**Pattern:** `vender` — regular use: sell
+**Pattern:** `-er` infinitive; regular conjugation (vendo, vendes, vende...).
 
-**Example:** *Necesito vender.* — I need to sell.
+**Example:** *Quiero vender mi coche viejo.* — I want to sell my old car.

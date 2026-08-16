@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-16
 ---
 
 **Meaning:** empty
 
-**Pattern:** Use with article `el/la vacío`
+**Pattern:** Adjective; agrees in gender/number: vacío/vacía/vacíos/vacías.
 
-**Example:** *El/la vacío es importante.* — The empty is important.
+**Example:** *El vaso está vacío.* — The glass is empty.

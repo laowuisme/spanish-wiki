@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: phrase
-last_updated: 2026-06-19
+last_updated: 2026-08-16
 ---
 
 **Meaning:** and you
 
-**Pattern:** Fixed expression: `y tú`
+**Pattern:** Informal follow-up question: `¿Y tú?` ("And you?"), pairs with tú.
 
-**Example:** *Y tú.* — — And you.
+**Example:** *Estoy bien, ¿y tú?* — I'm fine, and you?

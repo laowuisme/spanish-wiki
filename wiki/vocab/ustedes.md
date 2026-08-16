@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: pronoun
+last_updated: 2026-08-16
 ---
 
 **Meaning:** you
 
-**Pattern:** Use with article `el/la ustedes`
+**Pattern:** Second-person plural pronoun ("you all"); in Latin America it's also the everyday plural of `tú`, not just the formal one.
 
-**Example:** *El/la ustedes es importante.* — The you is important.
+**Example:** *Ustedes son muy amables.* — You all are very kind.

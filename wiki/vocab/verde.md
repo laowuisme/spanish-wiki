@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-16
 ---
 
 **Meaning:** green
 
-**Pattern:** Adjective; agrees in gender/number: verde/verda (if ends in -o)
+**Pattern:** Adjective invariable for gender (ends in `-e`); only changes for number: verde/verdes.
 
 **Example:** *El coche es verde.* — The car is green.

@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: phrase
-last_updated: 2026-06-19
+last_updated: 2026-08-16
 ---
 
 **Meaning:** and you
 
-**Pattern:** Fixed expression: `y usted`
+**Pattern:** Formal follow-up question: `¿Y usted?` ("And you?"), pairs with usted.
 
-**Example:** *Y usted.* — — And you.
+**Example:** *Muy bien, gracias, ¿y usted?* — Very well, thank you, and you?

@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-16
 ---
 
 **Meaning:** video game
 
-**Pattern:** Use with article `el/la videojuego`
+**Pattern:** Masculine noun: el videojuego (from vídeo + juego).
 
-**Example:** *El/la videojuego es importante.* — The video game is important.
+**Example:** *A mi hermano le encantan los videojuegos.* — My brother loves video games.

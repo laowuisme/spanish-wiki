@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-16
 ---
 
 **Meaning:** vegetarian
 
-**Pattern:** Use with article `el/la vegetariano`
+**Pattern:** Adjective; agrees in gender/number: vegetariano/vegetariana; also used as a noun for a person who doesn't eat meat.
 
-**Example:** *El/la vegetariano es importante.* — The vegetarian is important.
+**Example:** *Soy vegetariano, no como carne.* — I'm vegetarian, I don't eat meat.

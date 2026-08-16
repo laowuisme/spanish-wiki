@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-16
 ---
 
 **Meaning:** urgent
 
-**Pattern:** Use with article `el/la urgente`
+**Pattern:** Adjective invariable for gender (ends in `-e`); only changes for number: urgente/urgentes.
 
-**Example:** *El/la urgente es importante.* — The urgent is important.
+**Example:** *Es una llamada urgente.* — It's an urgent call.

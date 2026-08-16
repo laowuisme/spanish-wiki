@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-16
 ---
 
 **Meaning:** glass
 
-**Pattern:** Use with article `el/la vaso`
+**Pattern:** Masculine noun: el vaso.
 
-**Example:** *Me gusta el/la vaso.* — I like glass.
+**Example:** *Necesito un vaso de agua.* — I need a glass of water.

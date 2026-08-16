@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-16
 ---
 
 **Meaning:** old
 
-**Pattern:** Use with article `el/la viejo`
+**Pattern:** Adjective; agrees in gender/number: viejo/vieja/viejos/viejas; also used as a noun for "old man" (el viejo).
 
-**Example:** *El/la viejo es importante.* — The old is important.
+**Example:** *Mi abuelo es muy viejo.* — My grandfather is very old.

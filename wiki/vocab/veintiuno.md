@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-16
 ---
 
-**Meaning:** twenty-one, 21, twenty first
+**Meaning:** twenty-one, 21
 
-**Pattern:** Use with article `el/la veintiuno`
+**Pattern:** Cardinal number; shortens to `veintiún` before a masculine noun (apocope), e.g. *veintiún años*.
 
-**Example:** *Tengo veintiuno años.* — I am twenty-one years old.
+**Example:** *Tengo veintiún años.* — I am twenty-one years old.

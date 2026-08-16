@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: pronoun
+last_updated: 2026-08-16
 ---
 
 **Meaning:** you
 
-**Pattern:** Use with article `el/la usted`
+**Pattern:** Formal second-person singular pronoun; pairs with third-person verb conjugations.
 
-**Example:** *El/la usted es importante.* — The you is important.
+**Example:** *¿Cómo está usted?* — How are you? (formal)

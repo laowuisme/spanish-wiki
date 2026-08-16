@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: verb
-last_updated: 2026-06-19
+last_updated: 2026-08-16
 ---
 
 **Meaning:** to verify, verify
 
-**Pattern:** `verificar` — regular use: verify
+**Pattern:** `-ar` infinitive; regular conjugation, but spelling changes c→qu before -é in the yo preterite (verifiqué).
 
-**Example:** *Necesito verificar.* — I need to verify.
+**Example:** *Necesito verificar mi correo.* — I need to check my email.

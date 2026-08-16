@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-16
 ---
 
 **Meaning:** life
 
-**Pattern:** Use with article `el/la vida`
+**Pattern:** Feminine noun: la vida.
 
-**Example:** *El/la vida es importante.* — The life is important.
+**Example:** *La vida es corta.* — Life is short.

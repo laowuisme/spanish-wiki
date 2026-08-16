@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: phrase
-last_updated: 2026-06-19
+last_updated: 2026-08-16
 ---
 
 **Meaning:** half past
 
-**Pattern:** Fixed expression: `y media`
+**Pattern:** Fixed time expression: [hour] y media — "half past [hour]".
 
-**Example:** *Y media.* — — Half past.
+**Example:** *Son las cinco y media.* — It's half past five.

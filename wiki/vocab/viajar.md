@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: verb
-last_updated: 2026-06-19
+last_updated: 2026-08-16
 ---
 
 **Meaning:** to travel, travel
 
-**Pattern:** `viajar` — regular use: travel
+**Pattern:** `-ar` infinitive; regular conjugation (viajo, viajas, viaja...).
 
-**Example:** *Necesito viajar.* — I need to travel.
+**Example:** *Me encanta viajar por Europa.* — I love traveling around Europe.

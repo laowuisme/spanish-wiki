@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: adverb
-last_updated: 2026-06-19
+last_updated: 2026-08-16
 ---
 
 **Meaning:** urgently
 
-**Pattern:** Modifies verbs, adjectives, or other adverbs
+**Pattern:** Adverb formed from the adjective `urgente` + `-mente`.
 
-**Example:** *Lo hizo urgentemente.* — He/she did it urgently.
+**Example:** *Necesito hablar contigo urgentemente.* — I need to talk to you urgently.

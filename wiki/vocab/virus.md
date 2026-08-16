@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-16
 ---
 
 **Meaning:** virus
 
-**Pattern:** Use with article `el/la virus`
+**Pattern:** Masculine noun: el virus; invariable in plural (los virus).
 
-**Example:** *El/la virus es importante.* — The virus is important.
+**Example:** *Tengo un virus y no puedo trabajar.* — I have a virus and can't work.

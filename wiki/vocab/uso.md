@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: verb
+last_updated: 2026-08-16
 ---
 
-**Meaning:** (I) am wearing, (I) am using, (I) use
+**Meaning:** (I) use, (I) am using
 
-**Pattern:** Use with article `el/la uso`
+**Pattern:** First-person singular (yo) present tense of `usar` ('to use').
 
-**Example:** *El/la uso es importante.* — The (i) am wearing is important.
+**Example:** *Uso mi teléfono para trabajar.* — I use my phone for work.

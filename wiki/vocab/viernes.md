@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-16
 ---
 
 **Meaning:** Friday, Fridays, friday's
 
-**Pattern:** Day of week; no article for general use: *el viernes* for recurring days
+**Pattern:** Days of the week are masculine and lowercase; use `el viernes` for "on Friday" (singular/plural same form: los viernes).
 
-**Example:** *Hoy es viernes.* — Today is Friday.
+**Example:** *Voy al gimnasio los viernes.* — I go to the gym on Fridays.

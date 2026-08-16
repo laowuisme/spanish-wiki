@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-06-19
+last_updated: 2026-08-16
 ---
 
 **Meaning:** volunteers, volunteer, volunteer's
 
-**Pattern:** Use with article `el/la voluntario`
+**Pattern:** Masculine noun (feminine: voluntaria): a person who volunteers; also functions as an adjective meaning "voluntary".
 
-**Example:** *El/la voluntario es importante.* — The volunteers is important.
+**Example:** *Soy voluntario en un hospital.* — I'm a volunteer at a hospital.

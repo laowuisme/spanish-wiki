@@ -1,12 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-type: noun
-last_updated: 2026-06-19
+type: adjective
+last_updated: 2026-08-16
 ---
 
 **Meaning:** Venezuelan
 
-**Pattern:** Use with article `el/la venezolano`
+**Pattern:** Nationality adjective, agrees in gender/number: venezolano/venezolana; also used as a noun for a person from Venezuela.
 
-**Example:** *El/la venezolano es importante.* — The venezuelan is important.
+**Example:** *Mi vecina es venezolana.* — My neighbor is Venezuelan.
