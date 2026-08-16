@@ -62,6 +62,8 @@ Every topic and vocab item has a stage. Track it in YAML frontmatter.
 
 ## Page Formats
 
+**Content quality (applies to all page types below):** Every field must be synthesised from the actual raw note content — never generic template text reused across entries. Before committing a batch of more than ~10 pages in one operation, self-check the drafts against the content-quality rule and junk-marker checklist in `### LINT` step 2. If a marker fires, that page needs real synthesis from the source note, not a reworded copy of the same boilerplate. (This rule exists because the 2026-06-19 bulk backfill created 1,161 junk vocab stubs this way, undetected for ~2 months.)
+
 ### Topic Hub (`wiki/topics/<slug>.md`)
 
 ```yaml
@@ -116,7 +118,7 @@ Sections: `## What Goes Wrong`, `## Why It Happens`, `## Correct Usage`, `## You
 
 1. Read the raw file in full
 2. Unless `--silent`: briefly summarise key new items (list vocab, patterns, mistakes found). Ask user yes/no: "Proceed with ingest?" If no, abort entirely. If yes, proceed with steps 3–9.
-3. For each new word/phrase → create or update `wiki/vocab/<word>.md`
+3. For each new word/phrase → before creating a new file, check `wiki/vocab/` for an existing file with the same slug ignoring accents/diacritics (e.g. `esta`/`está`, `tu`/`tú`). If one exists and the words share the same meaning/part of speech, update that file instead of creating a duplicate. If the accent changes the meaning or part of speech — genuinely distinct words that happen to share a bare spelling (e.g. `el`/`él`, `tu`/`tú`, `papa`/`papá`) — create both as separate files. Otherwise create or update `wiki/vocab/<word>.md`
 4. For each pattern/grammar rule → create or update `wiki/topics/<slug>.md`
    - Synthesise: don't just copy notes. Connect to existing topics, add context, flag contradictions
    - **If a page already exists:** append new evidence to `## Examples From Your Notes`, update `last_updated` in frontmatter, and update `stage` only if new evidence explicitly warrants promotion. Do not replace existing content.
@@ -152,34 +154,43 @@ Sections: `## What Goes Wrong`, `## Why It Happens`, `## Correct Usage`, `## You
 **Trigger:** User says `lint wiki`
 
 1. Scan for contradictions between topic hub pages
-2. Find orphan pages — topic/vocab/error pages that have no inbound `[[links]]` from other topic/vocab/error pages or from `index.md`. Curriculum pages (`curriculum-map`, `debt-board`) are exempt from orphan checks.
-3. Find concepts mentioned in pages but lacking their own page
-4. Find items at `encountered` or `understood` > 30 days (escalate to urgent debt)
-5. Suggest Duolingo units or focus topics based on debt board
-6. Report findings as a numbered list — user decides what to act on
-7. Append to `wiki/log.md`:
+2. **Content-quality scan:** check every topic/vocab/error page for templated or generic boilerplate instead of real synthesis. Known junk markers from the 2026-06-19 backfill incident (examples of the pattern, not an exhaustive list — watch for the general shape too):
+   - `"Use with article"`, `"— — "`, `"regular use:"`, `"Modifies verbs, adjectives, or other adverbs"`
+   - `\*Necesito \w+\.\*` used as a generic filler example rather than a real sentence from the notes
+   - `"if ends in -o)"`, `"Day of week; no article"`, `"Month; no capital letter"` used as boilerplate rather than page-specific explanation
+   Flag any page matching these patterns, or reading like a template filled in rather than written about the specific word or rule.
+3. Find orphan pages — topic/vocab/error pages that have no inbound `[[links]]` from other topic/vocab/error pages or from `index.md`. Curriculum pages (`curriculum-map`, `debt-board`) are exempt from orphan checks.
+4. Find concepts mentioned in pages but lacking their own page
+5. Find items at `encountered` or `understood` > 30 days (escalate to urgent debt)
+6. Suggest Duolingo units or focus topics based on debt board
+7. Report findings as a numbered list — user decides what to act on
+8. Append to `wiki/log.md`:
    ```
    ## [YYYY-MM-DD] lint
    - N orphans found
    - N contradictions found
+   - N content-quality issues found
    - N urgent debt items
    ```
+
+**Run LINT immediately after any `BOOTSTRAP` pass or after any `INGEST` that processed more than ~10 items** — don't wait for the next scheduled lint pass to catch quality regressions from a large batch.
 
 ### BOOTSTRAP
 
 **Trigger:** User says `bootstrap raw/bootstrap/ledger-export.csv`
 
-This is a one-time full history ingest. Process all rows in the CSV:
+This is a one-time full history ingest. Process the CSV in batches of at most 50 entries — never all rows in a single unreviewed pass:
 1. Map columns to raw note labels: treat each row as a session note entry
-2. Group entries by date if a date column exists — process chronologically
-3. Run the full INGEST workflow across all entries
-4. After processing, generate a bootstrap summary:
+2. Group entries by date if a date column exists — process chronologically, batch by batch
+3. Run the full INGEST workflow across each batch (this includes the duplicate/accent-variant check in `### INGEST` step 3)
+4. **After each batch, before starting the next:** self-check every page created or updated in that batch against the content-quality rule and junk-marker checklist in `### LINT` step 2. If any page fails — generic boilerplate, a marker match, or content not synthesised from the actual raw note — fix it before continuing. Do not proceed to the next batch with known-bad pages outstanding.
+5. After all batches are processed, generate a bootstrap summary:
    - Total vocab atoms created
    - Total topic hubs created
    - Total error pages created
    - Curriculum map row count
    - Debt board summary (how many items, oldest item date)
-5. Append to `wiki/log.md`:
+6. Append to `wiki/log.md`:
    ```
    ## [YYYY-MM-DD] bootstrap | ledger-export.csv
    - N entries processed
