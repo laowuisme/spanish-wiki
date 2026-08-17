@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-08-13
+last_updated: 2026-08-17
 ---
 
 **Meaning:** garlic
 
-**Pattern:** Masculine noun: `el ajo`.
+**Pattern:** Common cooking ingredient, usually counted by cloves: `un diente de ajo` (a clove of garlic).
 
-**Example:** *Esta salsa lleva mucho ajo.* — This sauce has a lot of garlic.
+**Example:** *La receta lleva dos dientes de ajo.* — The recipe calls for two cloves of garlic.

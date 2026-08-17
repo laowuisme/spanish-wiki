@@ -1,12 +1,12 @@
 ---
-cefr: A1
+cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-07-28
+last_updated: 2026-08-17
 ---
 
-**Meaning:** roof; ceiling (el techo, masculine)
+**Meaning:** roof, ceiling
 
-**Pattern:** Regular noun, no irregularities.
+**Pattern:** Can mean either the roof of a building or the ceiling of a room depending on context — distinct from `tejado` (the outer roof covering specifically, not yet in the wiki).
 
-**Example:** *El techo de la casa es rojo.* — The roof of the house is red.
+**Example:** *Hay una gotera en el techo de la cocina.* — There's a leak in the kitchen ceiling.

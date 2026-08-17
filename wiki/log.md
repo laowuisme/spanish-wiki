@@ -4,6 +4,20 @@ Append-only record of all wiki operations. Format: `## [YYYY-MM-DD] <operation> 
 
 ---
 
+## [2026-08-17] lint
+- 0 orphans found (all 24 new/updated pages linked from index.md)
+- 0 contradictions found
+- 0 content-quality issues found (checked all 23 vocab/topic files touched by today's ingest against the junk-marker checklist)
+- 42 urgent debt items (encountered/understood > 30 days) — all pre-existing, already reflected on debt-board.md
+
+## [2026-08-17] ingest | 2026-08-17_session.md
+- 23 vocab atoms created/updated (17 new, 6 existing updated: ajo, cambiar-de, letrero, pareja, sugerencia, techo — techo CEFR A1→A2)
+- 1 topic hub created (negative-commands); reflexive-verbs updated with cross-link
+- 0 error pages created/updated
+- curriculum-map.md: 1 new row added (negative-commands), Days Since recalculated for all 49 rows
+- debt-board.md regenerated — reflexive-verbs promoted to overdue
+- index.md: 1667 pages total
+
 ## [2026-08-16] fix | vocab placeholder cleanup batch 24
 - 11 files corrected (type/pattern/example rewritten)
 - 1 duplicate file removed (ultimamente.md)

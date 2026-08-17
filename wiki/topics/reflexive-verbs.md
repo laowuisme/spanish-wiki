@@ -77,6 +77,7 @@ The intensive `se` is optional — `Lin come un pedazo de pizza` is also correct
 - [[gusta-followed-by-clause]] — other uses of indirect object pronouns
 - [[indirect-object-pronouns]] (not yet created) — full me/te/le/se/nos/os/les chart
 - [[indirect-object-a-pronoun]] — A Felipe le encanta
+- [[negative-commands]] — reflexive pronoun placement in negative commands (No te preocupes)
 
 ## Examples From Your Notes
 

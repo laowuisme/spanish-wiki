@@ -2,11 +2,11 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-08-15
+last_updated: 2026-08-17
 ---
 
-**Meaning:** partner, girlfriend/boyfriend, couple
+**Meaning:** partner (romantic); also "couple" as a unit
 
-**Pattern:** Feminine noun: la pareja (used for a person's partner of any gender). Also means "pair" or "couple" in general.
+**Pattern:** `mi pareja` refers to a single romantic partner (gender-neutral, unlike `novio/novia`); `la pareja` refers to the couple together.
 
-**Example:** *Mi pareja y yo vamos a viajar juntos.* — My partner and I are going to travel together.
+**Example:** *Mi pareja y yo vamos a viajar en diciembre.* — My partner and I are going to travel in December.
