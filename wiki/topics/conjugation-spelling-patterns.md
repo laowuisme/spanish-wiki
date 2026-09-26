@@ -1,11 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-last_updated: 2026-07-10
+last_updated: 2026-09-26
 debt: false
 sources:
   - raw/bootstrap/raw_log1.md
   - raw/bootstrap/raw_log2.md
+  - raw/2026-09-26_session.md
 ---
 
 # Conjugation Spelling Patterns
@@ -67,6 +68,15 @@ These verbs aren't irregular in the sense of an unpredictable stem — Spanish s
 | -gar | llegar, pagar, jugar, colgar, cargar, entregar, navegar | llegué, pagué, jugué, colgué, cargué, entregué, navegué |
 | -zar | empezar, comenzar, almorzar | empecé, comencé, almorcé |
 
+**The same `-zar → c` change also applies everywhere else the ending is `-e`** — not just the preterite yo-form. Present subjunctive (all persons) and every command form built on the subjunctive stem (negative tú/vosotros, and all formal/usted commands) keep the `c`, never `z`:
+
+| Verb | Preterite yo | Usted command | Negative tú command |
+|---|---|---|---|
+| cruzar | crucé | **cruce** (not "cruze") | no cruces (not "no cruzes") |
+| empezar | empecé | empiece | no empieces |
+
+This is why *Cruce la calle* (formal command, "Cross the street") is spelled with `c`, not `z` — see [[cruce-vs-cruze]] for the specific mistake this causes.
+
 **Vowel + `ió → yó`** (3rd person only, for `-eer`/`-uir`/`-aer`-type verbs where two vowels would otherwise collide):
 
 - `leer` → **leyó**, **leyeron** (not `leió`/`leieron`)
@@ -84,6 +94,7 @@ These verbs aren't irregular in the sense of an unpredictable stem — Spanish s
 | -gar preterite yo | llegé | **llegué** |
 | -zar preterite yo | empezé | **empecé** |
 | leer preterite ellos | leieron | **leyeron** |
+| -zar usted command | cruze | **cruce** |
 
 ## Your Mistakes
 
@@ -99,9 +110,11 @@ These verbs aren't irregular in the sense of an unpredictable stem — Spanish s
 - [[traitor-nouns]] — gender exceptions
 - [[past-tense]] — regular preterite/imperfect conjugation
 - [[preterite-irregular-verbs]] — true stem irregularities in the preterite
+- [[cruce-vs-cruze]] — the specific usted-command spelling mistake this rule prevents
 
 ## Examples From Your Notes
 
 > "conjugation spellings: abrimos vs abremos, recibimos va recibemos, aprendemos vs aprendamos, miran va miren" — raw_log1.md
 > "veintiún vs veintiuno" — raw_log1.md
 > "conjugations of peinan" — raw_log1.md
+> "Cruce la calle y camine todo recto (why not Cruze)" — raw/2026-09-26_session.md

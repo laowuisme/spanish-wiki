@@ -38,7 +38,7 @@ None confirmed yet — flagged as a conjugation question.
 ## Related Topics
 
 - [[conjugation-spelling-patterns]] — stem-change verbs
-- [[te-quiero-vs-te-amo]] (not yet created) — affective uses of querer
+- [[te-quiero-vs-te-amo]] — affective uses of querer
 
 ## Examples From Your Notes
 

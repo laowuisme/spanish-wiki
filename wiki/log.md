@@ -4,6 +4,19 @@ Append-only record of all wiki operations. Format: `## [YYYY-MM-DD] <operation> 
 
 ---
 
+## [2026-09-26] lint
+- 0 orphans found (all 44 new/updated pages linked from index.md)
+- 0 contradictions found
+- 0 content-quality issues found (checked all 53 topic/vocab/error files touched by today's ingest against the junk-marker checklist)
+- 3 stale "(not yet created)" placeholders fixed — pages had since been created but the mention was never updated: [[ser-vs-estar]] (in tener-expressions.md), [[te-quiero-vs-te-amo]] (in quisiera-vs-quiere.md), [[no-llevan-vs-tiene]] (in se-ve-construction.md)
+- 45 urgent debt items (encountered/understood > 30 days) — all pre-existing, already reflected on debt-board.md
+- 8 remaining genuine stub candidates (concepts referenced but with no page yet): [[indirect-object-pronouns]] (4 inbound mentions), [[discourse-markers]] (3 inbound mentions), [[weather-vocabulary]], [[days-and-months]], [[interrogatives]], [[cerca-vs-al-lado]], [[ir-a]], [[qué-pena]] (1 mention each)
+
+## [2026-09-26] ingest | 2026-09-26_session.md
+- 45 vocab atoms created/updated (41 new, 4 existing updated: tomar, comer, dañado, confiar-en)
+- 7 topic hubs created/updated (2 new: affirmative-commands, double-object-pronouns; 5 existing updated: negative-commands, tal-vez-vs-quizas, por-vs-para, conjugation-spelling-patterns, indirect-object-a-pronoun)
+- 1 error page created (cruce-vs-cruze — usted-command spelling of cruzar)
+
 ## [2026-08-17] lint
 - 0 orphans found (all 24 new/updated pages linked from index.md)
 - 0 contradictions found

@@ -43,7 +43,7 @@ None confirmed.
 ## Related Topics
 
 - [[reflexive-verbs]] — se as reflexive pronoun vs impersonal se
-- [[no-llevan-vs-tiene]] (not yet created) — llevar vs tener in impersonal/group contexts
+- [[no-llevan-vs-tiene]] — llevar vs tener in impersonal/group contexts
 
 ## Examples From Your Notes
 

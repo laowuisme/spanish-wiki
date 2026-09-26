@@ -1,10 +1,11 @@
 ---
 cefr: A2
 stage: encountered
-last_updated: 2026-08-17
+last_updated: 2026-09-26
 debt: false
 sources:
   - raw/2026-08-17_session.md
+  - raw/2026-09-26_session.md
 ---
 
 # Negative Commands — No te preocupes, no hables, no comas...
@@ -47,7 +48,7 @@ _No mistakes recorded yet — this pattern was newly encountered on 2026-08-17._
 ## Related Topics
 
 - [[reflexive-verbs]] — reflexive pronoun forms (me/te/se...) and their placement rules
-- Affirmative commands / imperative (not yet created) — the `¡Cálmate!` side of the contrast
+- [[affirmative-commands]] — the `¡Cálmate!` / `Haz la compra` side of the contrast, including irregular forms and pronoun attachment
 
 ## Examples From Your Notes
 

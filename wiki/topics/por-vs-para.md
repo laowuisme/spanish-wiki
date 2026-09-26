@@ -1,11 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-last_updated: 2026-04-18
+last_updated: 2026-09-26
 debt: false
 sources:
   - raw/bootstrap/raw_log1.md
   - raw/bootstrap/raw_log2.md
+  - raw/2026-09-26_session.md
 ---
 
 # por vs para — Purpose, Cause, and Exchange
@@ -60,3 +61,4 @@ Both `por` and `para` can translate as "for" in English, but they have distinct 
 > "por eso no tomo clases. (That is why ...)" — raw_log1.md
 > "porque vs por que" — raw_log1.md
 > "por supuesto" — raw_log2.md
+> "Es para subir a la montaña." — raw/2026-09-26_session.md (`para` + infinitive, purpose: "It's for climbing the mountain / It's in order to climb the mountain.")

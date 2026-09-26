@@ -55,7 +55,7 @@ The structure: `tener ganas de + infinitive`. The noun `ganas` (desire, urge) is
 ## Related Topics
 
 - [[hacer-common-usages]] — hacer expressions with weather and time
-- [[ser-vs-estar]] (not yet created) — when to use estar for states
+- [[ser-vs-estar]] — when to use estar for states
 
 ## Examples From Your Notes
 

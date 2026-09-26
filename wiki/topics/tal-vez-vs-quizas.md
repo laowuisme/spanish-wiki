@@ -1,10 +1,11 @@
 ---
 cefr: A2
 stage: encountered
-last_updated: 2026-05-09
+last_updated: 2026-09-26
 debt: false
 sources:
   - raw/2026-05-09_session.md
+  - raw/2026-09-26_session.md
 ---
 
 # tal vez vs quizás — Both mean "maybe"
@@ -45,3 +46,7 @@ None recorded yet.
 
 From `raw/2026-05-09_session.md`:
 - *tal vez vs quizás* — flagged for clarification
+
+From `raw/2026-09-26_session.md` (both confirm the "always indicative" rule for *a lo mejor*):
+- *A lo mejor nos ayuda.* — Maybe it'll help us. (indicative `ayuda`, not subjunctive `ayude`)
+- *A lo mejor perdí el mapa en el museo.* — Maybe I lost the map at the museum. (indicative preterite `perdí`)

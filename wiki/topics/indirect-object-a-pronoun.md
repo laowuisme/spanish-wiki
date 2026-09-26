@@ -57,6 +57,7 @@ This doubling is mandatory — you cannot drop the pronoun even when the full no
 - [[parecer]] — another verb using this IOP + a + person structure
 - [[reflexive-verbs]] — me/te/se pronoun usage
 - [[indirect-object-pronouns]] (not yet created) — full IOP chart
+- [[double-object-pronouns]] — what happens when this IOP combines with a direct object pronoun (`le` + `lo` → `se lo`)
 
 ## Examples From Your Notes
 
