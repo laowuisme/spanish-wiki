@@ -6,8 +6,8 @@ last_updated: 2026-10-24
 seen: [2026-10-24]
 ---
 
-**Meaning:** tense, long, weather
+**Meaning:** time; weather; (grammar) tense
 
-**Pattern:** Masculine noun: `el tiempo`; also used in weather expressions (`hace buen tiempo`) and grammar (verb tense).
+**Pattern:** Masculine noun: `el tiempo`. Three senses: time (`no tengo tiempo`, `mucho tiempo` = a long time), weather (`hace buen tiempo`) and verb tense. For `tiempo` vs `vez` (time as an occasion) see [[vez-vs-tiempo]]. Related: [[tiempo-libre]].
 
-**Example:** *¿Qué tiempo hace hoy?* — What's the weather like today?
+**Example:** *¿Qué tiempo hace hoy?* — What's the weather like today? *No tengo tiempo para comer.* — I don't have time to eat.

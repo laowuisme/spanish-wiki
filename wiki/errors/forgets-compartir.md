@@ -32,4 +32,3 @@ Memory hook: **com + partir**. `partir` means to split, so `compartir` is "to sp
 ## Related Topics
 
 - [[compartir]] — the vocab page
-- [[comparte]] — the third person present form

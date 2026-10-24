@@ -1,5 +1,5 @@
 # Wiki Index
-_Last updated: 2026-10-24 | 1744 pages total_
+_Last updated: 2026-10-24 | 1743 pages total_
 
 ## Topics
 - [[affirmative-commands]] — Haz, Sal, Pásamelo; irregular tú commands, pronoun attaches to the end (A2, encountered)
@@ -385,7 +385,6 @@ _Last updated: 2026-10-24 | 1744 pages total_
 - [[comida]] — food (A2, encountered)
 - [[comida-rápida]] — fast food (A2, encountered)
 - [[como-yo]] — like me (A2, encountered)
-- [[comparte]] — shares (from compartir) (A2, encountered)
 - [[compartir]] — to share (A2, encountered)
 - [[compañera-de-trabajo]] — coworker, colleague, co-worker (A2, encountered)
 - [[compañero]] — classmate (A2, encountered)
@@ -1587,7 +1586,7 @@ _Last updated: 2026-10-24 | 1744 pages total_
 - [[terminar-de]] — to finish, finish (A2, encountered)
 - [[terraza]] — terrace (A2, encountered)
 - [[terrible]] — terrible (A2, encountered)
-- [[tiempo]] — tense, long, weather (A2, encountered)
+- [[tiempo]] — time; weather; (grammar) tense (A2, encountered)
 - [[tiempo-libre]] — free time (A2, encountered)
 - [[tienda]] — store (A2, encountered)
 - [[tiene]] — is, makes (A2, encountered)

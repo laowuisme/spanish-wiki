@@ -4,6 +4,10 @@ Append-only record of all wiki operations. Format: `## [YYYY-MM-DD] <operation> 
 
 ---
 
+## [2026-10-24] fix | follow-up cleanup
+- 1 duplicate vocab page removed: comparte (verb form of compartir); its example sentence moved to [[compartir]]; index.md total 1743
+- 1 vocab page corrected: tiempo (meaning "tense, long, weather" → "time; weather; (grammar) tense", linked [[vez-vs-tiempo]] and [[tiempo-libre]])
+
 ## [2026-10-24] lint
 - 0 orphans found (all 45 new/updated pages linked from index.md)
 - 0 contradictions found
