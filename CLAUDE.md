@@ -91,10 +91,13 @@ cefr: A1
 stage: encountered
 type: verb
 last_updated: YYYY-MM-DD
+seen: [2026-05-23, 2026-09-26]
 ---
 ```
 
 Sections: `**Meaning:**`, `**Pattern:**` (link to topic hub if applicable), `**Example:**` (italicised Spanish + translation)
+
+`seen` lists the raw-note dates (from the filename) on which you flagged the word. It is optional. A page without `seen` has no sighting history.
 
 ### Error Page (`wiki/errors/<slug>.md`)
 
@@ -108,6 +111,13 @@ last_updated: YYYY-MM-DD
 
 Sections: `## What Goes Wrong`, `## Why It Happens`, `## Correct Usage`, `## Your Examples`, `## Related Topics`
 
+**Recurring-word pages (`wiki/errors/forgets-<word>.md`):** Created when a word keeps coming back (see `### INGEST` step 3) or carries the `keep forgetting:` label. The `forgets-` prefix keeps the slug different from `wiki/vocab/<word>.md`, because `[[slug]]` links have no path.
+- `## What Goes Wrong`: list the raw-note dates on which you flagged the word, with the file names.
+- `## Why It Happens`: write only what the notes or the vocab page show, for example a confusable word. If they show nothing, write `Not known from the notes.` Do not invent a reason.
+- `## Correct Usage`: meaning and a real example from the vocab page, plus a memory hook or a contrast with a confusable word. If you cannot write a real hook from the notes, ask the user before you create the page. With `--silent`, skip the page and list the word in the final report as `needs hook`.
+- `## Related Topics`: link `[[<word>]]`.
+- `frequency`: `medium` for 2 sightings, `high` for 3 or more.
+
 ---
 
 ## Operations
@@ -117,12 +127,14 @@ Sections: `## What Goes Wrong`, `## Why It Happens`, `## Correct Usage`, `## You
 **Trigger:** User says `ingest <filename>` or `ingest --silent <filename>`
 
 1. Read the raw file in full
-2. Unless `--silent`: briefly summarise key new items (list vocab, patterns, mistakes found). Ask user yes/no: "Proceed with ingest?" If no, abort entirely. If yes, proceed with steps 3–9.
+2. Unless `--silent`: briefly summarise key new items (list vocab, patterns, mistakes found). Add a line `Re-encountered: word (last seen YYYY-MM-DD), ...` for each word that already has a vocab page with a `seen` list. The user can reject a false match here. Ask user yes/no: "Proceed with ingest?" If no, abort entirely. If yes, proceed with steps 3–9.
 3. For each new word/phrase → before creating a new file, check `wiki/vocab/` for an existing file with the same slug ignoring accents/diacritics (e.g. `esta`/`está`, `tu`/`tú`). If one exists and the words share the same meaning/part of speech, update that file instead of creating a duplicate. If the accent changes the meaning or part of speech — genuinely distinct words that happen to share a bare spelling (e.g. `el`/`él`, `tu`/`tú`, `papa`/`papá`) — create both as separate files. Otherwise create or update `wiki/vocab/<word>.md`
+   - **Record the sighting:** append the raw-note date to `seen` in the page frontmatter if that date is not yet listed. Count a word once per note, even if the note lists it twice. A re-sighting is not evidence for a stage promotion.
+   - **Recurring word:** if `seen` holds two dates at least 7 days apart and `stage` is `encountered` or `understood`, create or update `wiki/errors/forgets-<word>.md` (see Error Page format). Use 7 days so that the same word list pasted into two notes a few days apart does not count. A page without `seen` has no history: start the list with the current date only.
 4. For each pattern/grammar rule → create or update `wiki/topics/<slug>.md`
    - Synthesise: don't just copy notes. Connect to existing topics, add context, flag contradictions
    - **If a page already exists:** append new evidence to `## Examples From Your Notes`, update `last_updated` in frontmatter, and update `stage` only if new evidence explicitly warrants promotion. Do not replace existing content.
-5. For each mistake → check if an error page exists; create or update `wiki/errors/<slug>.md`
+5. For each mistake → check if an error page exists; create or update `wiki/errors/<slug>.md`. Recurring words from step 3 and words under `keep forgetting:` use `wiki/errors/forgets-<word>.md`.
 6. Update `wiki/curriculum/curriculum-map.md` — add new rows for new topics, update `Last Practiced` to the date from the raw note filename, recalculate `Days Since` and `Debt?` for ALL existing rows. Stage values in page frontmatter are the source of truth — sync the curriculum map to reflect them.
 7. Regenerate `wiki/curriculum/debt-board.md` — flag all items at encountered/understood > 2 weeks
 8. Update `wiki/index.md` — add entries for any new pages created
@@ -138,6 +150,7 @@ Sections: `## What Goes Wrong`, `## Why It Happens`, `## Correct Usage`, `## You
 - `new words:` → vocab atoms
 - `new patterns:` → topic hubs
 - `mistakes:` → error pages
+- `keep forgetting:` → `forgets-<word>` error pages (same as a recurring word in step 3)
 - Unlabelled lines → infer only if the line contains a concrete language unit (a word, grammar rule, or error pattern). Skip lines that are context noise (e.g., "difficult session", "forgot my notes", "short session today").
 
 ### QUERY
@@ -164,7 +177,8 @@ Sections: `## What Goes Wrong`, `## Why It Happens`, `## Correct Usage`, `## You
 5. Find items at `encountered` or `understood` > 30 days (escalate to urgent debt)
 6. Suggest Duolingo units or focus topics based on debt board
 7. Report findings as a numbered list — user decides what to act on
-8. Append to `wiki/log.md`:
+8. Check every `wiki/errors/forgets-*.md` page. Report it if the `seen` list of its vocab page does not hold two dates at least 7 days apart, and the page has no `keep forgetting:` source.
+9. Append to `wiki/log.md`:
    ```
    ## [YYYY-MM-DD] lint
    - N orphans found
@@ -203,7 +217,7 @@ This is a one-time full history ingest. Process the CSV in batches of at most 50
 
 **Trigger:** User says `quiz me`
 
-**Question pool (10 per quiz):** 5 vocab, 3 topic, 2 error. If any pool type cannot fill its quota from qualifying items, fill remaining slots with the highest-weighted items from the other pool types. Each slug may appear at most once per quiz session.
+**Question pool (10 per quiz):** 5 vocab, 3 topic, 2 error. If any pool type cannot fill its quota from qualifying items, fill remaining slots with the highest-weighted items from the other pool types. Each slug may appear at most once per quiz session. A word and its `forgets-<word>` page count as one slug.
 
 **Item weighting — score each candidate item, higher = more likely selected:**
 
@@ -228,6 +242,7 @@ Multipliers stack. Select top-weighted items within each pool type. Randomise am
 - Topic (choose correct): "Which is correct: A or B?" — drawn from `## Common Patterns` table
 - Topic (translate): "Translate: '[English sentence]'" — drawn from `## Examples From Your Notes`
 - Error (correct the mistake): "Correct this sentence: '[wrong sentence]'" — drawn from `## What Goes Wrong`
+- Error, `forgets-<word>` pages: these have no wrong sentence. Use the vocab formats above with the word's vocab page.
 
 **Answer evaluation:** Accept near-correct answers as correct (minor spelling, missing accent, clear English paraphrase). Note the exact form but do not penalise. No retries within a session.
 
