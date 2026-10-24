@@ -1708,7 +1708,7 @@ _Last updated: 2026-09-26 | 1711 pages total_
 - [[confusing-llevar-llegar]] — llevar (carry/wear) vs llegar (arrive) (A2, high)
 - [[cruce-vs-cruze]] — usted command of cruzar spelled with c, not z (A2, low frequency)
 - [[cuanto-vs-cuando]] — cuánto (how much/many) vs cuando (when); shared cu- prefix causes mixups (A2, high)
-- [[grosero]] — rude/crude repeatedly forgotten; grosero vs maleducado distinction (A2, medium)
+- [[forgets-grosero]] — rude/crude repeatedly forgotten; grosero vs maleducado distinction (A2, medium)
 - [[llega-vs-vuelve]] — arrives vs returns (A2, high)
 - [[masculine-feminine-agreement]] — gender agreement errors: este musical, mucha gente (A1, high)
 - [[pasillo-vs-pastilla]] — pasillo (aisle) vs pastilla (pill); similar-sounding words (A2, medium)

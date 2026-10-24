@@ -4,6 +4,10 @@ Append-only record of all wiki operations. Format: `## [YYYY-MM-DD] <operation> 
 
 ---
 
+## [2026-10-24] schema | recurring-word detection
+- CLAUDE.md: added `seen` dates, `forgets-<word>` error pages, `keep forgetting:` label mapping
+- 1 error page renamed: errors/grosero.md → errors/forgets-grosero.md (slug collision with vocab/grosero.md; index.md updated, [[grosero]] now means the vocab page only)
+
 ## [2026-09-26] lint
 - 0 orphans found (all 44 new/updated pages linked from index.md)
 - 0 contradictions found

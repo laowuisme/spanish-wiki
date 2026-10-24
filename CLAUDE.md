@@ -72,6 +72,7 @@ cefr: A1
 stage: encountered
 last_updated: YYYY-MM-DD
 debt: false
+seen: [2026-04-18]
 sources:
   - raw/2026-04-18_session.md
 ---
@@ -134,6 +135,7 @@ Sections: `## What Goes Wrong`, `## Why It Happens`, `## Correct Usage`, `## You
 4. For each pattern/grammar rule → create or update `wiki/topics/<slug>.md`
    - Synthesise: don't just copy notes. Connect to existing topics, add context, flag contradictions
    - **If a page already exists:** append new evidence to `## Examples From Your Notes`, update `last_updated` in frontmatter, and update `stage` only if new evidence explicitly warrants promotion. Do not replace existing content.
+   - **Record the sighting:** append the raw-note date to `seen` in the page frontmatter if that date is not yet listed. A topic `seen` list is a record only. No rule reads it yet.
 5. For each mistake → check if an error page exists; create or update `wiki/errors/<slug>.md`. Recurring words from step 3 and words under `keep forgetting:` use `wiki/errors/forgets-<word>.md`.
 6. Update `wiki/curriculum/curriculum-map.md` — add new rows for new topics, update `Last Practiced` to the date from the raw note filename, recalculate `Days Since` and `Debt?` for ALL existing rows. Stage values in page frontmatter are the source of truth — sync the curriculum map to reflect them.
 7. Regenerate `wiki/curriculum/debt-board.md` — flag all items at encountered/understood > 2 weeks

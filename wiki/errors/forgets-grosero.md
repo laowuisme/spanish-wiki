@@ -33,4 +33,5 @@ Memory hook: **GROSEro** sounds like "gross" — it's the grosser, more offensiv
 
 ## Related Topics
 
+- [[grosero]] — the vocab page for this word
 - [[maleducado]] — the milder, more general "rude"
