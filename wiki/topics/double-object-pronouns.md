@@ -1,10 +1,12 @@
 ---
 cefr: B1
 stage: encountered
-last_updated: 2026-09-26
+last_updated: 2026-10-24
 debt: false
+seen: [2026-09-26, 2026-10-24]
 sources:
   - raw/2026-09-26_session.md
+  - raw/2026-010-24_session.md
 ---
 
 # Double Object Pronouns — Yo se lo presté
@@ -38,6 +40,15 @@ This `se` is **not** the reflexive `se` — it's purely a spelling/pronunciation
 
 `me`, `te`, `nos`, `os` do **not** change — only `le`/`les` become `se` before a direct object pronoun.
 
+### With a gerund or a command (2026-10-24 clarification)
+
+The note asks how `Le estoy mostrando la luna a Juan` works and how `envíasela` is built.
+
+- In `Le estoy mostrando la luna a Juan`, `le` repeats `a Juan`. This doubling is normal in Spanish.
+- To replace `la luna` with a pronoun, use `la`. The `le` then becomes `se`: `Se la estoy mostrando.`
+- The pronouns can also attach to the end of the gerund. The gerund then needs a written accent: `Estoy mostrándosela.`
+- `envíasela` = `envía` (tú command of `enviar`) + `se` + `la`. The pronouns attach to the end of an affirmative command and the written accent stays on `í`. See [[affirmative-commands]].
+
 ## Common Patterns
 
 | Sentence | Breakdown |
@@ -45,6 +56,8 @@ This `se` is **not** the reflexive `se` — it's purely a spelling/pronunciation
 | `Yo se lo presté.` | se (=le, to him/her) + lo (it) + presté |
 | `Se lo mandaste.` | se (=le, to him/her) + lo (it) + mandaste |
 | `¿Me lo puedes dar?` | me (to me) + lo (it) — no se-change since it's `me`, not `le` |
+| `Se la estoy mostrando.` | se (=le, to Juan) + la (the moon) + estoy mostrando |
+| `Envíasela.` | envía (command) + se (to him/her) + la (it) |
 
 ## Your Mistakes
 
@@ -60,3 +73,4 @@ _No mistakes recorded yet — this pattern was flagged for clarification on 2026
 
 > "Yo se lo presté." — raw/2026-09-26_session.md (flagged: why `se` and not `le`?)
 > "Se lo mandaste." — raw/2026-09-26_session.md
+> "Le estoy mostrando la luna a Juan" and "envíasela" — raw/2026-010-24_session.md (flagged: "Explain how this works")

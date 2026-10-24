@@ -4,6 +4,21 @@ Append-only record of all wiki operations. Format: `## [YYYY-MM-DD] <operation> 
 
 ---
 
+## [2026-10-24] lint
+- 0 orphans found (all 45 new/updated pages linked from index.md)
+- 0 contradictions found
+- 0 content-quality issues found (checked all 45 touched files against the junk-marker checklist; no broken [[links]])
+- 45 urgent debt items (encountered/understood > 30 days) — all pre-existing; the 5 topics of the 2026-09-26 cohort are now debt at 28 days, not yet urgent
+
+## [2026-10-24] ingest | 2026-010-24_session.md
+- Filename date `2026-010-24` read as 2026-10-24
+- 37 vocab atoms created/updated (29 new: prometer, pulsera, disfraz, tercero, ladrón, asqueroso, chicle, castaño, rizado, reservado, cuanto-antes, vivienda, tamaño, metros-cuadrados, contrato, arrancar, pieza, amanecer, en-las-afueras, cascada, manta, tomar-el-sol, protector-solar, parecido, detrás, desordenado, jamás, carpa, andar; 8 existing updated: pelo, alquiler, compartir, tiempo, hoy-en-día, que-viene, abrir, caminar)
+- 1 topic hub updated: double-object-pronouns (gerund and command placement; answers the "Le estoy mostrando la luna a Juan" / "envíasela" clarification)
+- 4 error pages created: forgets-pelo, forgets-alquiler, forgets-compartir, forgets-hoy-en-día (recurring words; earlier sightings found in raw/)
+- curriculum-map.md: Last Practiced updated for double-object-pronouns, Days Since recalculated for all 51 rows
+- debt-board.md regenerated — 50 topics overdue, 1 without debt
+- index.md: 1744 pages total
+
 ## [2026-10-24] schema | recurring-word detection
 - CLAUDE.md: added `seen` dates, `forgets-<word>` error pages, `keep forgetting:` label mapping
 - 1 error page renamed: errors/grosero.md → errors/forgets-grosero.md (slug collision with vocab/grosero.md; index.md updated, [[grosero]] now means the vocab page only)

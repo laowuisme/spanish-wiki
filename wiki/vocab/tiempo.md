@@ -2,7 +2,8 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-08-15
+last_updated: 2026-10-24
+seen: [2026-10-24]
 ---
 
 **Meaning:** tense, long, weather

@@ -2,7 +2,8 @@
 cefr: A2
 stage: encountered
 type: verb
-last_updated: 2026-05-16
+last_updated: 2026-10-24
+seen: [2026-05-16, 2026-10-24]
 ---
 
 **Meaning:** to share
@@ -10,3 +11,5 @@ last_updated: 2026-05-16
 **Pattern:** Regular -ir verb. *comparto, compartes, comparte*; *compartir algo con alguien* = to share something with someone.
 
 **Example:** *Compartimos el paraguas porque había una tormenta.* — We shared the umbrella because there was a storm.
+
+Seen again on 2026-10-24. See [[forgets-compartir]].
