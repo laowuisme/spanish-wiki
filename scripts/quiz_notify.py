@@ -2,15 +2,13 @@
 """
 quiz_notify.py — Spanish wiki quiz notification agent
 Fired by launchd on Tue/Thu/Sat at 9pm SGT.
-Reads wiki files, computes item priority, sends macOS notification + Gmail draft.
+Reads wiki files, counts items that need review, sends a macOS notification.
 Does NOT modify any wiki files.
 """
 
 import re
 import subprocess
-import base64
 from datetime import date
-from email.mime.text import MIMEText
 from pathlib import Path
 
 WIKI_ROOT = Path("/Users/laowuisme/Documents/MyWork/spanish-wiki")
@@ -18,14 +16,7 @@ PERFORMANCE_FILE = WIKI_ROOT / "wiki/quiz/performance.md"
 CURRICULUM_FILE = WIKI_ROOT / "wiki/curriculum/curriculum-map.md"
 VOCAB_DIR = WIKI_ROOT / "wiki/vocab"
 TOPICS_DIR = WIKI_ROOT / "wiki/topics"
-ERRORS_DIR = WIKI_ROOT / "wiki/errors"
 LOG_FILE = WIKI_ROOT / "wiki/quiz/notify.log"
-
-# Reuse Gmail credentials from the existing Spanish learning project
-CREDS_FILE = Path("/Users/laowuisme/Documents/MyWork/spanish-learning/credentials.json")
-TOKEN_FILE = Path("/Users/laowuisme/Documents/MyWork/spanish-learning/token.json")
-GMAIL_SCOPES = ["https://www.googleapis.com/auth/gmail.compose"]
-RECIPIENT = "laowuisme@gmail.com"
 
 TODAY = date.today()
 
@@ -107,77 +98,9 @@ def get_high_miss(perf: dict) -> list[dict]:
     ]
 
 
-def top_items(perf: dict, overdue: list, new_items: list, high_miss: list) -> list[tuple]:
-    """Return top 3 (slug, reason) by priority weight."""
-    error_slugs = {f.stem for f in ERRORS_DIR.glob("*.md")} if ERRORS_DIR.exists() else set()
-    overdue_slugs = {i["slug"] for i in overdue}
-    new_slugs = {i["slug"] for i in new_items}
-    high_miss_slugs = {i["slug"] for i in high_miss}
-
-    candidates = set(perf.keys()) | new_slugs | overdue_slugs
-    scored = []
-    for slug in candidates:
-        w = 1.0
-        v = perf.get(slug)
-        if slug in error_slugs:
-            w *= 3
-        if v and v["last_result"] == "incorrect":
-            w *= 3
-        if slug in new_slugs:
-            w *= 2
-        if slug in overdue_slugs:
-            w *= 2
-        if v and v["streak"] >= 3:
-            w *= 0.5
-
-        if slug in error_slugs:
-            reason = "error pattern"
-        elif slug in high_miss_slugs:
-            reason = "high-miss"
-        elif slug in new_slugs:
-            reason = "new this week"
-        elif slug in overdue_slugs:
-            days = next((i["days"] for i in overdue if i["slug"] == slug), "?")
-            reason = f"{days}d overdue"
-        elif v and v["last_result"] == "incorrect":
-            reason = "missed last quiz"
-        else:
-            reason = "due for review"
-        scored.append((slug, w, reason))
-
-    scored.sort(key=lambda x: -x[1])
-    return [(s, r) for s, _, r in scored[:3]]
-
-
 def notify_macos(title: str, message: str) -> None:
     script = f'display notification "{message}" with title "{title}"'
     subprocess.run(["osascript", "-e", script], check=False)
-
-
-def create_gmail_draft(subject: str, body: str) -> None:
-    try:
-        from google.oauth2.credentials import Credentials
-        from google.auth.transport.requests import Request
-        from googleapiclient.discovery import build
-
-        creds = None
-        if TOKEN_FILE.exists():
-            creds = Credentials.from_authorized_user_file(str(TOKEN_FILE), GMAIL_SCOPES)
-        if not creds or not creds.valid:
-            if creds and creds.expired and creds.refresh_token:
-                creds.refresh(Request())
-            else:
-                _log("Gmail auth failed — token missing or expired. Run auth once interactively.")
-                return
-
-        service = build("gmail", "v1", credentials=creds)
-        msg = MIMEText(body)
-        msg["to"] = RECIPIENT
-        msg["subject"] = subject
-        raw = base64.urlsafe_b64encode(msg.as_bytes()).decode()
-        service.users().drafts().create(userId="me", body={"message": {"raw": raw}}).execute()
-    except Exception as e:
-        _log(f"Gmail error: {e}")
 
 
 def _log(msg: str) -> None:
@@ -191,10 +114,8 @@ def main() -> None:
     overdue = parse_overdue()
     new_items = get_new_items(perf)
     high_miss = get_high_miss(perf)
-    top = top_items(perf, overdue, new_items, high_miss)
 
     n = len(new_items) + len(overdue) + len(high_miss)
-    day_name = TODAY.strftime("%A")
 
     notify_macos(
         "🇪🇸 Spanish quiz ready",
@@ -202,15 +123,6 @@ def main() -> None:
         f"{len(high_miss)} high-miss). Open Claude Code → quiz me",
     )
 
-    top_str = ", ".join(f"{s} ({r})" for s, r in top) if top else "none yet"
-    create_gmail_draft(
-        subject=f"🇪🇸 Spanish Quiz — {day_name} 9pm",
-        body=(
-            f"{n} items queued for tonight's quiz.\n"
-            f"Top picks: {top_str}\n\n"
-            f"Open Claude Code and type: quiz me"
-        ),
-    )
     _log(f"Notification sent — {n} items ({len(new_items)} new, {len(overdue)} overdue, {len(high_miss)} high-miss)")
 
 
