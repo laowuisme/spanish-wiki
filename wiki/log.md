@@ -4,6 +4,11 @@ Append-only record of all wiki operations. Format: `## [YYYY-MM-DD] <operation> 
 
 ---
 
+## [2026-10-29] ingest | 2026-10-29_session.md
+- 13 vocab atoms created/updated (8 created, 5 updated: corto, tienes-ganas, de-todas-formas, pedir, conseguir)
+- 2 topic hubs created/updated (present-perfect created, double-object-pronouns updated)
+- 2 error pages created/updated (forgets-corto, forgets-tienes-ganas created)
+
 ## [2026-10-24] fix | follow-up cleanup
 - 1 duplicate vocab page removed: comparte (verb form of compartir); its example sentence moved to [[compartir]]; index.md total 1743
 - 1 vocab page corrected: tiempo (meaning "tense, long, weather" → "time; weather; (grammar) tense", linked [[vez-vs-tiempo]] and [[tiempo-libre]])

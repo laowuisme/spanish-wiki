@@ -1,12 +1,13 @@
 ---
 cefr: B1
 stage: encountered
-last_updated: 2026-10-24
+last_updated: 2026-10-29
 debt: false
-seen: [2026-09-26, 2026-10-24]
+seen: [2026-09-26, 2026-10-24, 2026-10-29]
 sources:
   - raw/2026-09-26_session.md
   - raw/2026-010-24_session.md
+  - raw/2026-10-29_session.md
 ---
 
 # Double Object Pronouns — Yo se lo presté
@@ -49,6 +50,20 @@ The note asks how `Le estoy mostrando la luna a Juan` works and how `envíasela`
 - The pronouns can also attach to the end of the gerund. The gerund then needs a written accent: `Estoy mostrándosela.`
 - `envíasela` = `envía` (tú command of `enviar`) + `se` + `la`. The pronouns attach to the end of an affirmative command and the written accent stays on `í`. See [[affirmative-commands]].
 
+### `dándonoslo` (2026-10-29 clarification)
+
+The note lists `dandonoslo`. The correct spelling is `dándonoslo`. It means "giving it to us".
+
+`dándonoslo` = `dando` (gerund of `dar`) + `nos` (to us) + `lo` (it).
+
+1. Put the indirect object pronoun first, then the direct object pronoun: `nos` + `lo`.
+2. Attach both pronouns to the end of the gerund: `dando` + `nos` + `lo`.
+3. Write an accent on the stressed vowel of the gerund: `dándonoslo`. The stress stays on `dan-`, and the word is now four syllables long.
+
+`nos` does not change to `se`. Only `le` and `les` change before `lo`, `la`, `los` and `las`. Compare `dándonoslo` (to us) with `dándoselo` (to him/her/them).
+
+The pronouns can also go before the conjugated verb. The meaning is the same: `Nos lo está dando.` = `Está dándonoslo.`
+
 ## Common Patterns
 
 | Sentence | Breakdown |
@@ -58,6 +73,8 @@ The note asks how `Le estoy mostrando la luna a Juan` works and how `envíasela`
 | `¿Me lo puedes dar?` | me (to me) + lo (it) — no se-change since it's `me`, not `le` |
 | `Se la estoy mostrando.` | se (=le, to Juan) + la (the moon) + estoy mostrando |
 | `Envíasela.` | envía (command) + se (to him/her) + la (it) |
+| `Está dándonoslo.` | está + dando + nos (to us) + lo (it) — no se-change, because it is `nos` |
+| `Nos lo está dando.` | nos (to us) + lo (it) + está dando — same meaning, pronouns before the verb |
 
 ## Your Mistakes
 
@@ -74,3 +91,4 @@ _No mistakes recorded yet — this pattern was flagged for clarification on 2026
 > "Yo se lo presté." — raw/2026-09-26_session.md (flagged: why `se` and not `le`?)
 > "Se lo mandaste." — raw/2026-09-26_session.md
 > "Le estoy mostrando la luna a Juan" and "envíasela" — raw/2026-010-24_session.md (flagged: "Explain how this works")
+> "dandonoslo" — raw/2026-10-29_session.md (flagged under Clarifications Needed; written without the accent, correct form `dándonoslo`)
