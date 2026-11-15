@@ -4,6 +4,12 @@ Append-only record of all wiki operations. Format: `## [YYYY-MM-DD] <operation> 
 
 ---
 
+## [2026-11-15] fix | follow-up to the 2026-11-15 ingest
+- 2 error pages created (forgets-espantoso, forgets-enseguida); they replace the two `needs hook` skips in the ingest entry below
+- 1 vocab page rewritten: hecho (now "fact", noun only)
+- 6 vocab CEFR levels changed: espantoso A2 → B1, herramienta A2 → B1, polvo A2 → B1, limpiar-el-polvo A2 → B1, dueño A2 → B1, destornillador B1 → B2
+- index.md total 1780
+
 ## [2026-11-15] ingest | 2026-11-15_session.md
 - 27 vocab atoms created/updated (23 created: según, sin-querer, araña, calefacción, madera, igual, mosca, herramienta, hecho, limpiar-el-polvo, incendio, robo, abandonada, supongo-que, polvo, jubilarse, dueño, maletín, enhorabuena, pizarra, reto, destornillador, contar; 4 updated: espantoso, enseguida, regla, alegre)
 - 2 topic hubs created/updated (dar-expressions, present-perfect updated)

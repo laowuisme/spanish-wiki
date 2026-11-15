@@ -8,6 +8,6 @@ seen: [2026-09-26, 2026-11-15]
 
 **Meaning:** right away, immediately
 
-**Pattern:** Adverb of time. Can also be written `en seguida` (two words); both are accepted.
+**Pattern:** Adverb of time. Can also be written `en seguida` (two words); both are accepted. The word keeps coming back — see [[forgets-enseguida]].
 
 **Example:** *Voy enseguida, dame un minuto.* — I'm coming right away, give me a minute.

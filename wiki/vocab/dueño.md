@@ -1,5 +1,5 @@
 ---
-cefr: A2
+cefr: B1
 stage: encountered
 type: noun
 last_updated: 2026-11-15
