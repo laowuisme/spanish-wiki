@@ -13,12 +13,14 @@ Remote: `https://github.com/laowuisme/spanish-wiki` (branch: `master`)
 After completing any operation (INGEST, QUIZ, LINT, BOOTSTRAP), stage all changed wiki files and push:
 
 ```bash
-git add wiki/
+git add wiki/ ':!wiki/quiz/notify.log'
 git commit -m "<type>: <brief description>"
 git push
 ```
 
 Do not stage `raw/` or `.claude/`. Use conventional commit prefixes: `feat` for new pages, `chore` for curriculum/index updates, `fix` for corrections.
+
+`wiki/quiz/notify.log` is written by the launchd job. Never commit it with an operation.
 
 ---
 
@@ -41,7 +43,13 @@ wiki/
   quiz/
     performance.md      # Quiz performance log — one row per item ever quizzed
     history/            # Per-session quiz transcripts (YYYY-MM-DD_quiz.md)
+    notify.log          # Written by scripts/quiz_notify.py — do not commit with an operation
+
+scripts/
+  quiz_notify.py        # launchd job, Tue/Thu/Sat 9pm SGT: counts quiz items, sends a macOS notification
 ```
+
+Keep `curriculum-map.md` at 6 columns and `performance.md` at 7 columns. `quiz_notify.py` parses both tables by column count.
 
 ---
 
@@ -112,7 +120,7 @@ last_updated: YYYY-MM-DD
 
 Sections: `## What Goes Wrong`, `## Why It Happens`, `## Correct Usage`, `## Your Examples`, `## Related Topics`
 
-**Recurring-word pages (`wiki/errors/forgets-<word>.md`):** Created when a word keeps coming back (see `### INGEST` step 3) or carries the `keep forgetting:` label. The `forgets-` prefix keeps the slug different from `wiki/vocab/<word>.md`, because `[[slug]]` links have no path.
+**Recurring-word pages (`wiki/errors/forgets-<word>.md`):** Created when a word keeps coming back (see `### INGEST` step 3) or when a single word carries the `keep forgetting:` label. The `forgets-` prefix keeps the slug different from `wiki/vocab/<word>.md`, because `[[slug]]` links have no path.
 - `## What Goes Wrong`: list the raw-note dates on which you flagged the word, with the file names.
 - `## Why It Happens`: write what the notes or the vocab page show, for example a confusable word. If they show nothing, write `Not known from the notes.` Do not invent a reason that the student has. You can add one linguistic note from your own knowledge. Start it with `Linguistic note (not from your notes):`.
 - `## Correct Usage`: meaning and a real example from the vocab page, plus a memory hook or a contrast with a confusable word. Write the hook yourself, as a linguist and educator. Use a real word family, root, or contrast. Do not invent a false etymology. Ask the user only if you cannot write a hook that you trust. With `--silent`, skip the page in that case and list the word in the final report as `needs hook`.
@@ -136,7 +144,7 @@ Sections: `## What Goes Wrong`, `## Why It Happens`, `## Correct Usage`, `## You
    - Synthesise: don't just copy notes. Connect to existing topics, add context, flag contradictions
    - **If a page already exists:** append new evidence to `## Examples From Your Notes`, update `last_updated` in frontmatter, and update `stage` only if new evidence explicitly warrants promotion. Do not replace existing content.
    - **Record the sighting:** append the raw-note date to `seen` in the page frontmatter if that date is not yet listed. A topic `seen` list is a record only. No rule reads it yet.
-5. For each mistake → check if an error page exists; create or update `wiki/errors/<slug>.md`. Recurring words from step 3 and words under `keep forgetting:` use `wiki/errors/forgets-<word>.md`.
+5. For each mistake → check if an error page exists; create or update `wiki/errors/<slug>.md`. Recurring words from step 3 and single words under `keep forgetting:` use `wiki/errors/forgets-<word>.md`. A sentence or pattern under `keep forgetting:` uses a normal error page.
 6. Update `wiki/curriculum/curriculum-map.md` — add new rows for new topics, update `Last Practiced` to the date from the raw note filename, recalculate `Days Since` and `Debt?` for ALL existing rows. Stage values in page frontmatter are the source of truth — sync the curriculum map to reflect them.
 7. Regenerate `wiki/curriculum/debt-board.md` — flag all items at encountered/understood > 2 weeks
 8. Update `wiki/index.md` — add entries for any new pages created
@@ -149,10 +157,13 @@ Sections: `## What Goes Wrong`, `## Why It Happens`, `## Correct Usage`, `## You
    ```
 
 **Raw note label mapping:**
+
+Raw notes use `###` headings. Match `New words`, `New patterns`, `Clarifications Needed` and `Keep Forgetting` without case.
 - `new words:` → vocab atoms
 - `new patterns:` → topic hubs
 - `mistakes:` → error pages
-- `keep forgetting:` → `forgets-<word>` error pages (same as a recurring word in step 3)
+- `keep forgetting:` → one word: `wiki/errors/forgets-<word>.md` (same as a recurring word in step 3). A sentence or pattern: a normal `wiki/errors/<slug>.md` error page.
+- `clarifications needed:` → sentences you did not understand. Append each as evidence to the matching topic hub. If no hub fits, add it to the vocab page of the key word.
 - Unlabelled lines → infer only if the line contains a concrete language unit (a word, grammar rule, or error pattern). Skip lines that are context noise (e.g., "difficult session", "forgot my notes", "short session today").
 
 ### QUERY
@@ -318,21 +329,6 @@ New errors flagged: [slug] (missed in N separate sessions)
    - N new errors flagged: [slug, ...]
    ```
 
-6. Create a Gmail draft to laowuisme@gmail.com using `mcp__claude_ai_Gmail__create_draft`:
-   - Subject: `🇪🇸 Spanish Quiz Results — YYYY-MM-DD`
-   - Body:
-     ```
-     Score: N/10
-     
-     ✓ Correct: slug1, slug2, ...
-     ✗ Missed: slug3 (you said "X"), slug4 (you said "Y")
-     
-     Stage promotions: [if any, else omit line]
-     New errors flagged: [if any, else omit line]
-     
-     Next quiz: Tuesday, Thursday, or Saturday at 9pm SGT.
-     ```
-
 ---
 
 ## Curriculum Map Format
@@ -411,6 +407,9 @@ _Last updated: YYYY-MM-DD | N pages total_
 - `last_updated` (page frontmatter) = when this page was created or last edited by the LLM
 - `Last Practiced` (curriculum map) = date from the raw note filename being ingested, not today's date. These are different fields.
 - Dates: always YYYY-MM-DD format
+- Slugs keep accents (`según`). Replace spaces with hyphens. Sort the index without accents.
+- `wiki/log.md` is newest first. Insert the new entry below the `---` line.
+- `N pages total` in `index.md` = the number of `- [[` lines.
 
 ## Agent skills
 
