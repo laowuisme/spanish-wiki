@@ -1,10 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-last_updated: 2026-05-16
+last_updated: 2026-11-15
 debt: false
+seen: [2026-05-16, 2026-11-15]
 sources:
   - raw/2026-05-16_session.md
+  - raw/2026-11-15_session.md
 ---
 
 ## Rule
@@ -30,7 +32,7 @@ Compare with [[tener-expressions]] where *tener* takes the noun directly (*tengo
 
 ## Your Mistakes
 
-None recorded yet.
+- [[me-da-miedo]] — `La sangre me da miedo` was flagged under Keep Forgetting on 2026-11-15
 
 ## Related Topics
 
@@ -40,3 +42,5 @@ None recorded yet.
 ## Examples From Your Notes
 
 > *Me da mucha vergüenza.* — I'm very embarrassed. (2026-05-16_session.md)
+> *Me da miedo.* — It scares me. (2026-11-15_session.md, under Clarifications Needed)
+> *La sangre me da miedo.* — Blood scares me. (2026-11-15_session.md, under Keep Forgetting; the subject is `la sangre`, so the verb is `da`)

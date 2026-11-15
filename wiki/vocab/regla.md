@@ -2,7 +2,8 @@
 cefr: A2
 stage: encountered
 type: noun
-last_updated: 2026-08-15
+last_updated: 2026-11-15
+seen: [2026-11-15]
 ---
 
 **Meaning:** ruler

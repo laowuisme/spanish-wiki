@@ -1,11 +1,12 @@
 ---
 cefr: A2
 stage: encountered
-last_updated: 2026-10-29
+last_updated: 2026-11-15
 debt: false
-seen: [2026-10-29]
+seen: [2026-10-29, 2026-11-15]
 sources:
   - raw/2026-10-29_session.md
+  - raw/2026-11-15_session.md
 ---
 
 # Present Perfect — He hablado
@@ -105,3 +106,4 @@ _No mistakes recorded yet — this pattern was flagged as new on 2026-10-29._
 > "New tense: he/has/ha/hemo" — raw/2026-10-29_session.md (the list is cut off; `hemos` was meant and `han` is missing)
 > "neumático pinchado" — raw/2026-10-29_session.md (`pinchado` is a participle used as an adjective)
 > "alguna vez", "escalar", "pedir", "conseguir" — same note; these words fit the tense (see the examples above)
+> "Quién se ha jubilado este año" — raw/2026-11-15_session.md, under Clarifications Needed (`se ha jubilado` is the present perfect of the reflexive verb [[jubilarse]]: `se` goes before `ha`; `este año` is a period that is not finished)

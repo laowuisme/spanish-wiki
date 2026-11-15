@@ -4,6 +4,12 @@ Append-only record of all wiki operations. Format: `## [YYYY-MM-DD] <operation> 
 
 ---
 
+## [2026-11-15] ingest | 2026-11-15_session.md
+- 27 vocab atoms created/updated (23 created: según, sin-querer, araña, calefacción, madera, igual, mosca, herramienta, hecho, limpiar-el-polvo, incendio, robo, abandonada, supongo-que, polvo, jubilarse, dueño, maletín, enhorabuena, pizarra, reto, destornillador, contar; 4 updated: espantoso, enseguida, regla, alegre)
+- 2 topic hubs created/updated (dar-expressions, present-perfect updated)
+- 1 error page created (me-da-miedo, from the Keep Forgetting line)
+- 2 recurring words skipped, needs hook: espantoso (seen 2026-08-08, 2026-11-15), enseguida (seen 2026-09-26, 2026-11-15)
+
 ## [2026-10-29] ingest | 2026-10-29_session.md
 - 13 vocab atoms created/updated (8 created, 5 updated: corto, tienes-ganas, de-todas-formas, pedir, conseguir)
 - 2 topic hubs created/updated (present-perfect created, double-object-pronouns updated)
