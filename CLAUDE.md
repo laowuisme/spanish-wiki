@@ -114,8 +114,8 @@ Sections: `## What Goes Wrong`, `## Why It Happens`, `## Correct Usage`, `## You
 
 **Recurring-word pages (`wiki/errors/forgets-<word>.md`):** Created when a word keeps coming back (see `### INGEST` step 3) or carries the `keep forgetting:` label. The `forgets-` prefix keeps the slug different from `wiki/vocab/<word>.md`, because `[[slug]]` links have no path.
 - `## What Goes Wrong`: list the raw-note dates on which you flagged the word, with the file names.
-- `## Why It Happens`: write only what the notes or the vocab page show, for example a confusable word. If they show nothing, write `Not known from the notes.` Do not invent a reason.
-- `## Correct Usage`: meaning and a real example from the vocab page, plus a memory hook or a contrast with a confusable word. If you cannot write a real hook from the notes, ask the user before you create the page. With `--silent`, skip the page and list the word in the final report as `needs hook`.
+- `## Why It Happens`: write what the notes or the vocab page show, for example a confusable word. If they show nothing, write `Not known from the notes.` Do not invent a reason that the student has. You can add one linguistic note from your own knowledge. Start it with `Linguistic note (not from your notes):`.
+- `## Correct Usage`: meaning and a real example from the vocab page, plus a memory hook or a contrast with a confusable word. Write the hook yourself, as a linguist and educator. Use a real word family, root, or contrast. Do not invent a false etymology. Ask the user only if you cannot write a hook that you trust. With `--silent`, skip the page in that case and list the word in the final report as `needs hook`.
 - `## Related Topics`: link `[[<word>]]`.
 - `frequency`: `medium` for 2 sightings, `high` for 3 or more.
 
